@@ -1,0 +1,3881 @@
+{
+    "id": "hsid4753824254-15079424",
+    "hotel": {
+        "id": "hsid4753824254-15079424",
+        "name": "New Shahana - Hostel",
+        "imgs": [
+            {
+                "url": "https://i.travelapi.com/lodging/5000000/4930000/4928500/4928439/97828736_z.jpg"
+            },
+            {
+                "url": "https://i.travelapi.com/lodging/5000000/4930000/4928500/4928439/97828736_z.jpg",
+                "sz": "XXL"
+            },
+            {
+                "url": "https://i.travelapi.com/lodging/5000000/4930000/4928500/4928439/f19ee2ae_z.jpg",
+                "sz": "XXL"
+            },
+            {
+                "url": "https://i.travelapi.com/lodging/5000000/4930000/4928500/4928439/95fc0777_z.jpg",
+                "sz": "XXL"
+            },
+            {
+                "url": "https://i.travelapi.com/lodging/5000000/4930000/4928500/4928439/44e3f093_z.jpg",
+                "sz": "XXL"
+            },
+            {
+                "url": "https://i.travelapi.com/lodging/5000000/4930000/4928500/4928439/2505304f_z.jpg",
+                "sz": "XXL"
+            },
+            {
+                "url": "https://i.travelapi.com/lodging/5000000/4930000/4928500/4928439/756b0b91_z.jpg",
+                "sz": "XXL"
+            },
+            {
+                "url": "https://i.travelapi.com/lodging/5000000/4930000/4928500/4928439/972b1579_z.jpg",
+                "sz": "XXL"
+            },
+            {
+                "url": "https://i.travelapi.com/lodging/5000000/4930000/4928500/4928439/e5d5d562_z.jpg",
+                "sz": "XXL"
+            }
+        ],
+        "img": [
+            {
+                "url": "https://i.travelapi.com/lodging/5000000/4930000/4928500/4928439/97828736_z.jpg"
+            },
+            {
+                "url": "https://i.travelapi.com/lodging/5000000/4930000/4928500/4928439/97828736_z.jpg",
+                "sz": "XXL"
+            },
+            {
+                "url": "https://i.travelapi.com/lodging/5000000/4930000/4928500/4928439/f19ee2ae_z.jpg",
+                "sz": "XXL"
+            },
+            {
+                "url": "https://i.travelapi.com/lodging/5000000/4930000/4928500/4928439/95fc0777_z.jpg",
+                "sz": "XXL"
+            },
+            {
+                "url": "https://i.travelapi.com/lodging/5000000/4930000/4928500/4928439/44e3f093_z.jpg",
+                "sz": "XXL"
+            },
+            {
+                "url": "https://i.travelapi.com/lodging/5000000/4930000/4928500/4928439/2505304f_z.jpg",
+                "sz": "XXL"
+            },
+            {
+                "url": "https://i.travelapi.com/lodging/5000000/4930000/4928500/4928439/756b0b91_z.jpg",
+                "sz": "XXL"
+            },
+            {
+                "url": "https://i.travelapi.com/lodging/5000000/4930000/4928500/4928439/972b1579_z.jpg",
+                "sz": "XXL"
+            },
+            {
+                "url": "https://i.travelapi.com/lodging/5000000/4930000/4928500/4928439/e5d5d562_z.jpg",
+                "sz": "XXL"
+            }
+        ],
+        "des": "{\"amenities\":\"Make use of convenient amenities, which include complimentary wireless internet access and tour/ticket assistance.\",\"rooms\":\"Make yourself at home in one of the 20 air-conditioned guestrooms. Complimentary wireless internet access keeps you connected, and cable programming is available for your entertainment. Bathrooms have showers and complimentary toiletries. Conveniences include phones, as well as safes and desks.\",\"onsite_payments\":\"Visa, Mastercard\",\"dining\":\"Take advantage of the hostel's 24-hour room service.\",\"business_amenities\":\"Featured amenities include express check-in, complimentary newspapers in the lobby, and a 24-hour front desk.\",\"location\":\"With a stay at New Shahana - Hostel in Mumbai (Andheri East), you'll be within a 10-minute drive of NESCO Center and U.S. Consulate General.  This hostel is 5.2 mi (8.4 km) from Jio World Convention Centre and 5.4 mi (8.6 km) from Juhu Beach.\",\"attractions\":\"Distances are displayed to the nearest 0.1 mile and kilometer.  MIDC Industrial Estate - 1 km / 0.6 mi  Powai Lake - 2.9 km / 1.8 mi  Mahakali Caves - 3 km / 1.9 mi  Hakone - 4.1 km / 2.5 mi  Sanjay Gandhi National Park - 4.1 km / 2.6 mi  Hiranandani Business Park - Powai - 4.6 km / 2.8 mi  Phoenix Market City Mall - 4.9 km / 3 mi  NESCO Center - 6.1 km / 3.8 mi  KidZania Mumbai - 6.4 km / 4 mi  Bombay Convention & Exhibition Centre - 6.4 km / 4 mi  R City Mall - 6.5 km / 4 mi  Andheri Sports Complex - 6.9 km / 4.3 mi  Nanavati Super Speciality Hospital - 7.3 km / 4.6 mi  NMIMS Mumbai - 7.4 km / 4.6 mi  Kokilaben Dhirubhai Ambani Hospital & Medical Research Institute - 7.6 km / 4.7 mi  The nearest major airport is Chhatrapati Shivaji International Airport (BOM) - 3.6 km / 2.2 mi\",\"headline\":\"In Mumbai (Andheri East)\"}",
+        "rt": 2,
+        "gl": {
+            "ln": "72.88",
+            "lt": "19.12"
+        },
+        "ad": {
+            "adr": "Shop no.5, Marol Maroshi Road",
+            "adr2": "Marol, Andheri (E)",
+            "postalCode": "400059",
+            "city": {
+                "name": "Mumbai"
+            },
+            "state": {
+                "name": "Maharashtra"
+            },
+            "country": {
+                "code": "IN",
+                "name": "India"
+            },
+            "ctn": "Mumbai",
+            "cn": "India"
+        },
+        "facilities": [
+            "Safe-deposit box at front desk",
+            "Free newspapers in lobby",
+            "Luggage storage",
+            "Tours/ticket assistance",
+            "Express check-in",
+            "Supervised childcare/activities (surcharge)",
+            "24-hour front desk",
+            "ATM/banking",
+            "Free WiFi"
+        ],
+        "pt": "HOSTEL",
+        "ops": [
+            {
+                "ris": [
+                    {
+                        "id": "200148645_200828477_37407##1",
+                        "rc": "Shared Dormitory, Men only",
+                        "rt": "Shared Dormitory, Men only-1 Twin Bunk Bed",
+                        "srn": "Dormitory, Shared Room, Male Only",
+                        "adt": 1,
+                        "chd": 0,
+                        "pdes": [],
+                        "mb": "ROOM ONLY",
+                        "tp": 3092.18,
+                        "tfcs": {
+                            "TAF": 0.00,
+                            "TF": 3092.18,
+                            "NF": 3092.18,
+                            "CMU": 0.00,
+                            "BF": 3092.18
+                        },
+                        "tafcs": {
+                            "TAF": {
+                                "TSF": 150.64,
+                                "SAC": 395.78,
+                                "SNP": 2696.26,
+                                "TTSF": 150.64,
+                                "SBP": 2941.54,
+                                "TMF": 395.78,
+                                "SGP": 3092.18,
+                                "SRC": 0.00
+                            }
+                        },
+                        "pis": [
+                            {
+                                "day": 1,
+                                "fc": {
+                                    "CMU": 0.00,
+                                    "BF": 220.87,
+                                    "TAF": 0.00,
+                                    "TF": 220.87,
+                                    "NF": 220.87
+                                },
+                                "afc": {
+                                    "TAF": {
+                                        "TSF": 10.76,
+                                        "SAC": 28.27,
+                                        "SNP": 192.59,
+                                        "TTSF": 10.76,
+                                        "SBP": 210.11,
+                                        "TMF": 28.27,
+                                        "SGP": 220.87,
+                                        "SRC": 0.00
+                                    }
+                                }
+                            },
+                            {
+                                "day": 2,
+                                "fc": {
+                                    "CMU": 0.00,
+                                    "BF": 220.87,
+                                    "TAF": 0.00,
+                                    "TF": 220.87,
+                                    "NF": 220.87
+                                },
+                                "afc": {
+                                    "TAF": {
+                                        "TSF": 10.76,
+                                        "SAC": 28.27,
+                                        "SNP": 192.59,
+                                        "TTSF": 10.76,
+                                        "SBP": 210.11,
+                                        "TMF": 28.27,
+                                        "SGP": 220.87,
+                                        "SRC": 0.00
+                                    }
+                                }
+                            },
+                            {
+                                "day": 3,
+                                "fc": {
+                                    "CMU": 0.00,
+                                    "BF": 220.87,
+                                    "TAF": 0.00,
+                                    "TF": 220.87,
+                                    "NF": 220.87
+                                },
+                                "afc": {
+                                    "TAF": {
+                                        "TSF": 10.76,
+                                        "SAC": 28.27,
+                                        "SNP": 192.59,
+                                        "TTSF": 10.76,
+                                        "SBP": 210.11,
+                                        "TMF": 28.27,
+                                        "SGP": 220.87,
+                                        "SRC": 0.00
+                                    }
+                                }
+                            },
+                            {
+                                "day": 4,
+                                "fc": {
+                                    "CMU": 0.00,
+                                    "BF": 220.87,
+                                    "TAF": 0.00,
+                                    "TF": 220.87,
+                                    "NF": 220.87
+                                },
+                                "afc": {
+                                    "TAF": {
+                                        "TSF": 10.76,
+                                        "SAC": 28.27,
+                                        "SNP": 192.59,
+                                        "TTSF": 10.76,
+                                        "SBP": 210.11,
+                                        "TMF": 28.27,
+                                        "SGP": 220.87,
+                                        "SRC": 0.00
+                                    }
+                                }
+                            },
+                            {
+                                "day": 5,
+                                "fc": {
+                                    "CMU": 0.00,
+                                    "BF": 220.87,
+                                    "TAF": 0.00,
+                                    "TF": 220.87,
+                                    "NF": 220.87
+                                },
+                                "afc": {
+                                    "TAF": {
+                                        "TSF": 10.76,
+                                        "SAC": 28.27,
+                                        "SNP": 192.59,
+                                        "TTSF": 10.76,
+                                        "SBP": 210.11,
+                                        "TMF": 28.27,
+                                        "SGP": 220.87,
+                                        "SRC": 0.00
+                                    }
+                                }
+                            },
+                            {
+                                "day": 6,
+                                "fc": {
+                                    "CMU": 0.00,
+                                    "BF": 220.87,
+                                    "TAF": 0.00,
+                                    "TF": 220.87,
+                                    "NF": 220.87
+                                },
+                                "afc": {
+                                    "TAF": {
+                                        "TSF": 10.76,
+                                        "SAC": 28.27,
+                                        "SNP": 192.59,
+                                        "TTSF": 10.76,
+                                        "SBP": 210.11,
+                                        "TMF": 28.27,
+                                        "SGP": 220.87,
+                                        "SRC": 0.00
+                                    }
+                                }
+                            },
+                            {
+                                "day": 7,
+                                "fc": {
+                                    "CMU": 0.00,
+                                    "BF": 220.87,
+                                    "TAF": 0.00,
+                                    "TF": 220.87,
+                                    "NF": 220.87
+                                },
+                                "afc": {
+                                    "TAF": {
+                                        "TSF": 10.76,
+                                        "SAC": 28.27,
+                                        "SNP": 192.59,
+                                        "TTSF": 10.76,
+                                        "SBP": 210.11,
+                                        "TMF": 28.27,
+                                        "SGP": 220.87,
+                                        "SRC": 0.00
+                                    }
+                                }
+                            },
+                            {
+                                "day": 8,
+                                "fc": {
+                                    "CMU": 0.00,
+                                    "BF": 220.87,
+                                    "TAF": 0.00,
+                                    "TF": 220.87,
+                                    "NF": 220.87
+                                },
+                                "afc": {
+                                    "TAF": {
+                                        "TSF": 10.76,
+                                        "SAC": 28.27,
+                                        "SNP": 192.59,
+                                        "TTSF": 10.76,
+                                        "SBP": 210.11,
+                                        "TMF": 28.27,
+                                        "SGP": 220.87,
+                                        "SRC": 0.00
+                                    }
+                                }
+                            },
+                            {
+                                "day": 9,
+                                "fc": {
+                                    "CMU": 0.00,
+                                    "BF": 220.87,
+                                    "TAF": 0.00,
+                                    "TF": 220.87,
+                                    "NF": 220.87
+                                },
+                                "afc": {
+                                    "TAF": {
+                                        "TSF": 10.76,
+                                        "SAC": 28.27,
+                                        "SNP": 192.59,
+                                        "TTSF": 10.76,
+                                        "SBP": 210.11,
+                                        "TMF": 28.27,
+                                        "SGP": 220.87,
+                                        "SRC": 0.00
+                                    }
+                                }
+                            },
+                            {
+                                "day": 10,
+                                "fc": {
+                                    "CMU": 0.00,
+                                    "BF": 220.87,
+                                    "TAF": 0.00,
+                                    "TF": 220.87,
+                                    "NF": 220.87
+                                },
+                                "afc": {
+                                    "TAF": {
+                                        "TSF": 10.76,
+                                        "SAC": 28.27,
+                                        "SNP": 192.59,
+                                        "TTSF": 10.76,
+                                        "SBP": 210.11,
+                                        "TMF": 28.27,
+                                        "SGP": 220.87,
+                                        "SRC": 0.00
+                                    }
+                                }
+                            },
+                            {
+                                "day": 11,
+                                "fc": {
+                                    "CMU": 0.00,
+                                    "BF": 220.87,
+                                    "TAF": 0.00,
+                                    "TF": 220.87,
+                                    "NF": 220.87
+                                },
+                                "afc": {
+                                    "TAF": {
+                                        "TSF": 10.76,
+                                        "SAC": 28.27,
+                                        "SNP": 192.59,
+                                        "TTSF": 10.76,
+                                        "SBP": 210.11,
+                                        "TMF": 28.27,
+                                        "SGP": 220.87,
+                                        "SRC": 0.00
+                                    }
+                                }
+                            },
+                            {
+                                "day": 12,
+                                "fc": {
+                                    "CMU": 0.00,
+                                    "BF": 220.87,
+                                    "TAF": 0.00,
+                                    "TF": 220.87,
+                                    "NF": 220.87
+                                },
+                                "afc": {
+                                    "TAF": {
+                                        "TSF": 10.76,
+                                        "SAC": 28.27,
+                                        "SNP": 192.59,
+                                        "TTSF": 10.76,
+                                        "SBP": 210.11,
+                                        "TMF": 28.27,
+                                        "SGP": 220.87,
+                                        "SRC": 0.00
+                                    }
+                                }
+                            },
+                            {
+                                "day": 13,
+                                "fc": {
+                                    "CMU": 0.00,
+                                    "BF": 220.87,
+                                    "TAF": 0.00,
+                                    "TF": 220.87,
+                                    "NF": 220.87
+                                },
+                                "afc": {
+                                    "TAF": {
+                                        "TSF": 10.76,
+                                        "SAC": 28.27,
+                                        "SNP": 192.59,
+                                        "TTSF": 10.76,
+                                        "SBP": 210.11,
+                                        "TMF": 28.27,
+                                        "SGP": 220.87,
+                                        "SRC": 0.00
+                                    }
+                                }
+                            },
+                            {
+                                "day": 14,
+                                "fc": {
+                                    "CMU": 0.00,
+                                    "BF": 220.87,
+                                    "TAF": 0.00,
+                                    "TF": 220.87,
+                                    "NF": 220.87
+                                },
+                                "afc": {
+                                    "TAF": {
+                                        "TSF": 10.76,
+                                        "SAC": 28.27,
+                                        "SNP": 192.59,
+                                        "TTSF": 10.76,
+                                        "SBP": 210.11,
+                                        "TMF": 28.27,
+                                        "SGP": 220.87,
+                                        "SRC": 0.00
+                                    }
+                                }
+                            }
+                        ],
+                        "fcs": [
+                            "Free WiFi"
+                        ],
+                        "imgs": [
+                            {
+                                "url": "https://i.travelapi.com/lodging/5000000/4930000/4928500/4928439/65104771_z.jpg",
+                                "sz": "XXL",
+                                "rids": [
+                                    "200148645",
+                                    "211803612"
+                                ]
+                            }
+                        ],
+                        "irrh": true,
+                        "radi": {
+                            "rid": "200148645"
+                        },
+                        "op": "1",
+                        "rexb": {
+                            "BENEFIT": [
+                                {
+                                    "values": [
+                                        "Free WiFi"
+                                    ]
+                                }
+                            ],
+                            "SERVICE": [
+                                {
+                                    "values": [
+                                        "SharedRoom: Yes",
+                                        "GenderPreference: MaleOnly"
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "id": "44_1_4928439",
+                "tp": 3092.18,
+                "sc": "USD",
+                "roe": 71.71,
+                "cnp": {
+                    "id": "200148645_200828477_37407",
+                    "ifra": true,
+                    "inra": false,
+                    "pd": [
+                        {
+                            "fdt": "2026-03-13T03:04",
+                            "tdt": "2026-08-29T23:59",
+                            "am": 0.00,
+                            "pp": 0.00
+                        },
+                        {
+                            "fdt": "2026-08-29T23:59",
+                            "tdt": "2026-09-01T00:00",
+                            "am": 220.87,
+                            "rn": 1
+                        },
+                        {
+                            "fdt": "2026-09-01T00:00",
+                            "tdt": "2026-09-15T23:59",
+                            "am": 3092.18
+                        }
+                    ]
+                },
+                "ddt": "2026-08-29T23:59",
+                "oai": {
+                    "sid": "44"
+                },
+                "ipr": true,
+                "omid": "-1405541858",
+                "ipm": false,
+                "cpb": 24
+            },
+            {
+                "ris": [
+                    {
+                        "id": "200148645_401174724_37407##1",
+                        "rc": "Shared Dormitory, Men only",
+                        "rt": "Shared Dormitory, Men only-1 Twin Bunk Bed - Package Deal",
+                        "srn": "Dormitory, Shared Room, Male Only",
+                        "adt": 1,
+                        "chd": 0,
+                        "pdes": [],
+                        "mb": "ROOM ONLY",
+                        "tp": 3560.76,
+                        "tfcs": {
+                            "TAF": 0.00,
+                            "TF": 3560.76,
+                            "NF": 3560.76,
+                            "CMU": 0.00,
+                            "BF": 3560.76
+                        },
+                        "tafcs": {
+                            "TAF": {
+                                "TSF": 189.00,
+                                "SAC": 281.68,
+                                "SNP": 3279.08,
+                                "TTSF": 189.00,
+                                "SBP": 3371.76,
+                                "TMF": 281.68,
+                                "SGP": 3560.76,
+                                "SRC": 0.00
+                            }
+                        },
+                        "pis": [
+                            {
+                                "day": 1,
+                                "fc": {
+                                    "CMU": 0.00,
+                                    "BF": 254.34,
+                                    "TAF": 0.00,
+                                    "TF": 254.34,
+                                    "NF": 254.34
+                                },
+                                "afc": {
+                                    "TAF": {
+                                        "TSF": 13.50,
+                                        "SAC": 20.12,
+                                        "SNP": 234.22,
+                                        "TTSF": 13.50,
+                                        "SBP": 240.84,
+                                        "TMF": 20.12,
+                                        "SGP": 254.34,
+                                        "SRC": 0.00
+                                    }
+                                }
+                            },
+                            {
+                                "day": 2,
+                                "fc": {
+                                    "CMU": 0.00,
+                                    "BF": 254.34,
+                                    "TAF": 0.00,
+                                    "TF": 254.34,
+                                    "NF": 254.34
+                                },
+                                "afc": {
+                                    "TAF": {
+                                        "TSF": 13.50,
+                                        "SAC": 20.12,
+                                        "SNP": 234.22,
+                                        "TTSF": 13.50,
+                                        "SBP": 240.84,
+                                        "TMF": 20.12,
+                                        "SGP": 254.34,
+                                        "SRC": 0.00
+                                    }
+                                }
+                            },
+                            {
+                                "day": 3,
+                                "fc": {
+                                    "CMU": 0.00,
+                                    "BF": 254.34,
+                                    "TAF": 0.00,
+                                    "TF": 254.34,
+                                    "NF": 254.34
+                                },
+                                "afc": {
+                                    "TAF": {
+                                        "TSF": 13.50,
+                                        "SAC": 20.12,
+                                        "SNP": 234.22,
+                                        "TTSF": 13.50,
+                                        "SBP": 240.84,
+                                        "TMF": 20.12,
+                                        "SGP": 254.34,
+                                        "SRC": 0.00
+                                    }
+                                }
+                            },
+                            {
+                                "day": 4,
+                                "fc": {
+                                    "CMU": 0.00,
+                                    "BF": 254.34,
+                                    "TAF": 0.00,
+                                    "TF": 254.34,
+                                    "NF": 254.34
+                                },
+                                "afc": {
+                                    "TAF": {
+                                        "TSF": 13.50,
+                                        "SAC": 20.12,
+                                        "SNP": 234.22,
+                                        "TTSF": 13.50,
+                                        "SBP": 240.84,
+                                        "TMF": 20.12,
+                                        "SGP": 254.34,
+                                        "SRC": 0.00
+                                    }
+                                }
+                            },
+                            {
+                                "day": 5,
+                                "fc": {
+                                    "CMU": 0.00,
+                                    "BF": 254.34,
+                                    "TAF": 0.00,
+                                    "TF": 254.34,
+                                    "NF": 254.34
+                                },
+                                "afc": {
+                                    "TAF": {
+                                        "TSF": 13.50,
+                                        "SAC": 20.12,
+                                        "SNP": 234.22,
+                                        "TTSF": 13.50,
+                                        "SBP": 240.84,
+                                        "TMF": 20.12,
+                                        "SGP": 254.34,
+                                        "SRC": 0.00
+                                    }
+                                }
+                            },
+                            {
+                                "day": 6,
+                                "fc": {
+                                    "CMU": 0.00,
+                                    "BF": 254.34,
+                                    "TAF": 0.00,
+                                    "TF": 254.34,
+                                    "NF": 254.34
+                                },
+                                "afc": {
+                                    "TAF": {
+                                        "TSF": 13.50,
+                                        "SAC": 20.12,
+                                        "SNP": 234.22,
+                                        "TTSF": 13.50,
+                                        "SBP": 240.84,
+                                        "TMF": 20.12,
+                                        "SGP": 254.34,
+                                        "SRC": 0.00
+                                    }
+                                }
+                            },
+                            {
+                                "day": 7,
+                                "fc": {
+                                    "CMU": 0.00,
+                                    "BF": 254.34,
+                                    "TAF": 0.00,
+                                    "TF": 254.34,
+                                    "NF": 254.34
+                                },
+                                "afc": {
+                                    "TAF": {
+                                        "TSF": 13.50,
+                                        "SAC": 20.12,
+                                        "SNP": 234.22,
+                                        "TTSF": 13.50,
+                                        "SBP": 240.84,
+                                        "TMF": 20.12,
+                                        "SGP": 254.34,
+                                        "SRC": 0.00
+                                    }
+                                }
+                            },
+                            {
+                                "day": 8,
+                                "fc": {
+                                    "CMU": 0.00,
+                                    "BF": 254.34,
+                                    "TAF": 0.00,
+                                    "TF": 254.34,
+                                    "NF": 254.34
+                                },
+                                "afc": {
+                                    "TAF": {
+                                        "TSF": 13.50,
+                                        "SAC": 20.12,
+                                        "SNP": 234.22,
+                                        "TTSF": 13.50,
+                                        "SBP": 240.84,
+                                        "TMF": 20.12,
+                                        "SGP": 254.34,
+                                        "SRC": 0.00
+                                    }
+                                }
+                            },
+                            {
+                                "day": 9,
+                                "fc": {
+                                    "CMU": 0.00,
+                                    "BF": 254.34,
+                                    "TAF": 0.00,
+                                    "TF": 254.34,
+                                    "NF": 254.34
+                                },
+                                "afc": {
+                                    "TAF": {
+                                        "TSF": 13.50,
+                                        "SAC": 20.12,
+                                        "SNP": 234.22,
+                                        "TTSF": 13.50,
+                                        "SBP": 240.84,
+                                        "TMF": 20.12,
+                                        "SGP": 254.34,
+                                        "SRC": 0.00
+                                    }
+                                }
+                            },
+                            {
+                                "day": 10,
+                                "fc": {
+                                    "CMU": 0.00,
+                                    "BF": 254.34,
+                                    "TAF": 0.00,
+                                    "TF": 254.34,
+                                    "NF": 254.34
+                                },
+                                "afc": {
+                                    "TAF": {
+                                        "TSF": 13.50,
+                                        "SAC": 20.12,
+                                        "SNP": 234.22,
+                                        "TTSF": 13.50,
+                                        "SBP": 240.84,
+                                        "TMF": 20.12,
+                                        "SGP": 254.34,
+                                        "SRC": 0.00
+                                    }
+                                }
+                            },
+                            {
+                                "day": 11,
+                                "fc": {
+                                    "CMU": 0.00,
+                                    "BF": 254.34,
+                                    "TAF": 0.00,
+                                    "TF": 254.34,
+                                    "NF": 254.34
+                                },
+                                "afc": {
+                                    "TAF": {
+                                        "TSF": 13.50,
+                                        "SAC": 20.12,
+                                        "SNP": 234.22,
+                                        "TTSF": 13.50,
+                                        "SBP": 240.84,
+                                        "TMF": 20.12,
+                                        "SGP": 254.34,
+                                        "SRC": 0.00
+                                    }
+                                }
+                            },
+                            {
+                                "day": 12,
+                                "fc": {
+                                    "CMU": 0.00,
+                                    "BF": 254.34,
+                                    "TAF": 0.00,
+                                    "TF": 254.34,
+                                    "NF": 254.34
+                                },
+                                "afc": {
+                                    "TAF": {
+                                        "TSF": 13.50,
+                                        "SAC": 20.12,
+                                        "SNP": 234.22,
+                                        "TTSF": 13.50,
+                                        "SBP": 240.84,
+                                        "TMF": 20.12,
+                                        "SGP": 254.34,
+                                        "SRC": 0.00
+                                    }
+                                }
+                            },
+                            {
+                                "day": 13,
+                                "fc": {
+                                    "CMU": 0.00,
+                                    "BF": 254.34,
+                                    "TAF": 0.00,
+                                    "TF": 254.34,
+                                    "NF": 254.34
+                                },
+                                "afc": {
+                                    "TAF": {
+                                        "TSF": 13.50,
+                                        "SAC": 20.12,
+                                        "SNP": 234.22,
+                                        "TTSF": 13.50,
+                                        "SBP": 240.84,
+                                        "TMF": 20.12,
+                                        "SGP": 254.34,
+                                        "SRC": 0.00
+                                    }
+                                }
+                            },
+                            {
+                                "day": 14,
+                                "fc": {
+                                    "CMU": 0.00,
+                                    "BF": 254.34,
+                                    "TAF": 0.00,
+                                    "TF": 254.34,
+                                    "NF": 254.34
+                                },
+                                "afc": {
+                                    "TAF": {
+                                        "TSF": 13.50,
+                                        "SAC": 20.12,
+                                        "SNP": 234.22,
+                                        "TTSF": 13.50,
+                                        "SBP": 240.84,
+                                        "TMF": 20.12,
+                                        "SGP": 254.34,
+                                        "SRC": 0.00
+                                    }
+                                }
+                            }
+                        ],
+                        "fcs": [
+                            "Free WiFi"
+                        ],
+                        "imgs": [
+                            {
+                                "url": "https://i.travelapi.com/lodging/5000000/4930000/4928500/4928439/65104771_z.jpg",
+                                "sz": "XXL",
+                                "rids": [
+                                    "200148645",
+                                    "211803612"
+                                ]
+                            }
+                        ],
+                        "irrh": true,
+                        "radi": {
+                            "rid": "200148645"
+                        },
+                        "op": "1",
+                        "rexb": {
+                            "BENEFIT": [
+                                {
+                                    "values": [
+                                        "Free WiFi"
+                                    ]
+                                }
+                            ],
+                            "SERVICE": [
+                                {
+                                    "values": [
+                                        "SharedRoom: Yes",
+                                        "GenderPreference: MaleOnly"
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "id": "45_2_4928439",
+                "tp": 3560.76,
+                "sc": "INR",
+                "roe": 1.0,
+                "cnp": {
+                    "id": "200148645_401174724_37407--48789591",
+                    "ifra": true,
+                    "inra": false,
+                    "pd": [
+                        {
+                            "fdt": "2026-03-13T03:04",
+                            "tdt": "2026-08-29T23:59",
+                            "am": 0.00,
+                            "pp": 0.00
+                        },
+                        {
+                            "fdt": "2026-08-29T23:59",
+                            "tdt": "2026-09-01T00:00",
+                            "am": 254.34,
+                            "rn": 1
+                        },
+                        {
+                            "fdt": "2026-09-01T00:00",
+                            "tdt": "2026-09-15T23:59",
+                            "am": 3560.76
+                        }
+                    ]
+                },
+                "ddt": "2026-08-29T23:59",
+                "oai": {
+                    "sid": "45"
+                },
+                "ispr": true,
+                "ipr": true,
+                "omid": "-1405541858",
+                "ipm": false,
+                "cpb": 24
+            },
+            {
+                "ris": [
+                    {
+                        "id": "200148645_200828477_37407##1",
+                        "rc": "Shared Dormitory, Men only",
+                        "rt": "Shared Dormitory, Men only-1 Twin Bunk Bed",
+                        "srn": "Dormitory, Shared Room, Male Only",
+                        "adt": 1,
+                        "chd": 0,
+                        "pdes": [],
+                        "mb": "ROOM ONLY",
+                        "tp": 3969.00,
+                        "tfcs": {
+                            "TAF": 0.00,
+                            "TF": 3969.00,
+                            "NF": 3969.00,
+                            "CMU": 0.00,
+                            "BF": 3969.00
+                        },
+                        "tafcs": {
+                            "TAF": {
+                                "TSF": 189.00,
+                                "SAC": 508.06,
+                                "SNP": 3460.94,
+                                "TTSF": 189.00,
+                                "SBP": 3780.00,
+                                "TMF": 508.06,
+                                "SGP": 3969.00,
+                                "SRC": 0.00
+                            }
+                        },
+                        "pis": [
+                            {
+                                "day": 1,
+                                "fc": {
+                                    "CMU": 0.00,
+                                    "BF": 283.50,
+                                    "TAF": 0.00,
+                                    "TF": 283.50,
+                                    "NF": 283.50
+                                },
+                                "afc": {
+                                    "TAF": {
+                                        "TSF": 13.50,
+                                        "SAC": 36.29,
+                                        "SNP": 247.21,
+                                        "TTSF": 13.50,
+                                        "SBP": 270.00,
+                                        "TMF": 36.29,
+                                        "SGP": 283.50,
+                                        "SRC": 0.00
+                                    }
+                                }
+                            },
+                            {
+                                "day": 2,
+                                "fc": {
+                                    "CMU": 0.00,
+                                    "BF": 283.50,
+                                    "TAF": 0.00,
+                                    "TF": 283.50,
+                                    "NF": 283.50
+                                },
+                                "afc": {
+                                    "TAF": {
+                                        "TSF": 13.50,
+                                        "SAC": 36.29,
+                                        "SNP": 247.21,
+                                        "TTSF": 13.50,
+                                        "SBP": 270.00,
+                                        "TMF": 36.29,
+                                        "SGP": 283.50,
+                                        "SRC": 0.00
+                                    }
+                                }
+                            },
+                            {
+                                "day": 3,
+                                "fc": {
+                                    "CMU": 0.00,
+                                    "BF": 283.50,
+                                    "TAF": 0.00,
+                                    "TF": 283.50,
+                                    "NF": 283.50
+                                },
+                                "afc": {
+                                    "TAF": {
+                                        "TSF": 13.50,
+                                        "SAC": 36.29,
+                                        "SNP": 247.21,
+                                        "TTSF": 13.50,
+                                        "SBP": 270.00,
+                                        "TMF": 36.29,
+                                        "SGP": 283.50,
+                                        "SRC": 0.00
+                                    }
+                                }
+                            },
+                            {
+                                "day": 4,
+                                "fc": {
+                                    "CMU": 0.00,
+                                    "BF": 283.50,
+                                    "TAF": 0.00,
+                                    "TF": 283.50,
+                                    "NF": 283.50
+                                },
+                                "afc": {
+                                    "TAF": {
+                                        "TSF": 13.50,
+                                        "SAC": 36.29,
+                                        "SNP": 247.21,
+                                        "TTSF": 13.50,
+                                        "SBP": 270.00,
+                                        "TMF": 36.29,
+                                        "SGP": 283.50,
+                                        "SRC": 0.00
+                                    }
+                                }
+                            },
+                            {
+                                "day": 5,
+                                "fc": {
+                                    "CMU": 0.00,
+                                    "BF": 283.50,
+                                    "TAF": 0.00,
+                                    "TF": 283.50,
+                                    "NF": 283.50
+                                },
+                                "afc": {
+                                    "TAF": {
+                                        "TSF": 13.50,
+                                        "SAC": 36.29,
+                                        "SNP": 247.21,
+                                        "TTSF": 13.50,
+                                        "SBP": 270.00,
+                                        "TMF": 36.29,
+                                        "SGP": 283.50,
+                                        "SRC": 0.00
+                                    }
+                                }
+                            },
+                            {
+                                "day": 6,
+                                "fc": {
+                                    "CMU": 0.00,
+                                    "BF": 283.50,
+                                    "TAF": 0.00,
+                                    "TF": 283.50,
+                                    "NF": 283.50
+                                },
+                                "afc": {
+                                    "TAF": {
+                                        "TSF": 13.50,
+                                        "SAC": 36.29,
+                                        "SNP": 247.21,
+                                        "TTSF": 13.50,
+                                        "SBP": 270.00,
+                                        "TMF": 36.29,
+                                        "SGP": 283.50,
+                                        "SRC": 0.00
+                                    }
+                                }
+                            },
+                            {
+                                "day": 7,
+                                "fc": {
+                                    "CMU": 0.00,
+                                    "BF": 283.50,
+                                    "TAF": 0.00,
+                                    "TF": 283.50,
+                                    "NF": 283.50
+                                },
+                                "afc": {
+                                    "TAF": {
+                                        "TSF": 13.50,
+                                        "SAC": 36.29,
+                                        "SNP": 247.21,
+                                        "TTSF": 13.50,
+                                        "SBP": 270.00,
+                                        "TMF": 36.29,
+                                        "SGP": 283.50,
+                                        "SRC": 0.00
+                                    }
+                                }
+                            },
+                            {
+                                "day": 8,
+                                "fc": {
+                                    "CMU": 0.00,
+                                    "BF": 283.50,
+                                    "TAF": 0.00,
+                                    "TF": 283.50,
+                                    "NF": 283.50
+                                },
+                                "afc": {
+                                    "TAF": {
+                                        "TSF": 13.50,
+                                        "SAC": 36.29,
+                                        "SNP": 247.21,
+                                        "TTSF": 13.50,
+                                        "SBP": 270.00,
+                                        "TMF": 36.29,
+                                        "SGP": 283.50,
+                                        "SRC": 0.00
+                                    }
+                                }
+                            },
+                            {
+                                "day": 9,
+                                "fc": {
+                                    "CMU": 0.00,
+                                    "BF": 283.50,
+                                    "TAF": 0.00,
+                                    "TF": 283.50,
+                                    "NF": 283.50
+                                },
+                                "afc": {
+                                    "TAF": {
+                                        "TSF": 13.50,
+                                        "SAC": 36.29,
+                                        "SNP": 247.21,
+                                        "TTSF": 13.50,
+                                        "SBP": 270.00,
+                                        "TMF": 36.29,
+                                        "SGP": 283.50,
+                                        "SRC": 0.00
+                                    }
+                                }
+                            },
+                            {
+                                "day": 10,
+                                "fc": {
+                                    "CMU": 0.00,
+                                    "BF": 283.50,
+                                    "TAF": 0.00,
+                                    "TF": 283.50,
+                                    "NF": 283.50
+                                },
+                                "afc": {
+                                    "TAF": {
+                                        "TSF": 13.50,
+                                        "SAC": 36.29,
+                                        "SNP": 247.21,
+                                        "TTSF": 13.50,
+                                        "SBP": 270.00,
+                                        "TMF": 36.29,
+                                        "SGP": 283.50,
+                                        "SRC": 0.00
+                                    }
+                                }
+                            },
+                            {
+                                "day": 11,
+                                "fc": {
+                                    "CMU": 0.00,
+                                    "BF": 283.50,
+                                    "TAF": 0.00,
+                                    "TF": 283.50,
+                                    "NF": 283.50
+                                },
+                                "afc": {
+                                    "TAF": {
+                                        "TSF": 13.50,
+                                        "SAC": 36.29,
+                                        "SNP": 247.21,
+                                        "TTSF": 13.50,
+                                        "SBP": 270.00,
+                                        "TMF": 36.29,
+                                        "SGP": 283.50,
+                                        "SRC": 0.00
+                                    }
+                                }
+                            },
+                            {
+                                "day": 12,
+                                "fc": {
+                                    "CMU": 0.00,
+                                    "BF": 283.50,
+                                    "TAF": 0.00,
+                                    "TF": 283.50,
+                                    "NF": 283.50
+                                },
+                                "afc": {
+                                    "TAF": {
+                                        "TSF": 13.50,
+                                        "SAC": 36.29,
+                                        "SNP": 247.21,
+                                        "TTSF": 13.50,
+                                        "SBP": 270.00,
+                                        "TMF": 36.29,
+                                        "SGP": 283.50,
+                                        "SRC": 0.00
+                                    }
+                                }
+                            },
+                            {
+                                "day": 13,
+                                "fc": {
+                                    "CMU": 0.00,
+                                    "BF": 283.50,
+                                    "TAF": 0.00,
+                                    "TF": 283.50,
+                                    "NF": 283.50
+                                },
+                                "afc": {
+                                    "TAF": {
+                                        "TSF": 13.50,
+                                        "SAC": 36.29,
+                                        "SNP": 247.21,
+                                        "TTSF": 13.50,
+                                        "SBP": 270.00,
+                                        "TMF": 36.29,
+                                        "SGP": 283.50,
+                                        "SRC": 0.00
+                                    }
+                                }
+                            },
+                            {
+                                "day": 14,
+                                "fc": {
+                                    "CMU": 0.00,
+                                    "BF": 283.50,
+                                    "TAF": 0.00,
+                                    "TF": 283.50,
+                                    "NF": 283.50
+                                },
+                                "afc": {
+                                    "TAF": {
+                                        "TSF": 13.50,
+                                        "SAC": 36.29,
+                                        "SNP": 247.21,
+                                        "TTSF": 13.50,
+                                        "SBP": 270.00,
+                                        "TMF": 36.29,
+                                        "SGP": 283.50,
+                                        "SRC": 0.00
+                                    }
+                                }
+                            }
+                        ],
+                        "fcs": [
+                            "Free WiFi"
+                        ],
+                        "imgs": [
+                            {
+                                "url": "https://i.travelapi.com/lodging/5000000/4930000/4928500/4928439/65104771_z.jpg",
+                                "sz": "XXL",
+                                "rids": [
+                                    "200148645",
+                                    "211803612"
+                                ]
+                            }
+                        ],
+                        "irrh": true,
+                        "radi": {
+                            "rid": "200148645"
+                        },
+                        "op": "1",
+                        "rexb": {
+                            "BENEFIT": [
+                                {
+                                    "values": [
+                                        "Free WiFi"
+                                    ]
+                                }
+                            ],
+                            "SERVICE": [
+                                {
+                                    "values": [
+                                        "SharedRoom: Yes",
+                                        "GenderPreference: MaleOnly"
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "id": "42_1_4928439",
+                "tp": 3969.00,
+                "sc": "INR",
+                "roe": 1.0,
+                "cnp": {
+                    "id": "200148645_200828477_37407",
+                    "ifra": true,
+                    "inra": false,
+                    "pd": [
+                        {
+                            "fdt": "2026-03-13T03:04",
+                            "tdt": "2026-08-29T23:59",
+                            "am": 0.00,
+                            "pp": 0.00
+                        },
+                        {
+                            "fdt": "2026-08-29T23:59",
+                            "tdt": "2026-09-01T00:00",
+                            "am": 283.50,
+                            "rn": 1
+                        },
+                        {
+                            "fdt": "2026-09-01T00:00",
+                            "tdt": "2026-09-15T23:59",
+                            "am": 3969.00
+                        }
+                    ]
+                },
+                "ddt": "2026-08-29T23:59",
+                "oai": {
+                    "sid": "42"
+                },
+                "ipr": true,
+                "omid": "-1405541858",
+                "ipm": false,
+                "cpb": 24
+            },
+            {
+                "ris": [
+                    {
+                        "id": "200148642_200828472_37310##1",
+                        "rc": "Deluxe Room, 1 Queen Bed",
+                        "rt": "Deluxe Room, 1 Queen Bed-1 Queen Bed",
+                        "srn": "Deluxe, Queen",
+                        "adt": 1,
+                        "chd": 0,
+                        "pdes": [],
+                        "mb": "ROOM ONLY",
+                        "tp": 11505.20,
+                        "tfcs": {
+                            "TAF": 0.00,
+                            "TF": 11505.20,
+                            "NF": 11505.20,
+                            "CMU": 0.00,
+                            "BF": 11505.20
+                        },
+                        "tafcs": {
+                            "TAF": {
+                                "TSF": 552.16,
+                                "SAC": 1473.64,
+                                "SNP": 10031.56,
+                                "TTSF": 552.16,
+                                "SBP": 10953.04,
+                                "TMF": 1473.64,
+                                "SGP": 11505.20,
+                                "SRC": 0.00
+                            }
+                        },
+                        "pis": [
+                            {
+                                "day": 1,
+                                "fc": {
+                                    "CMU": 0.00,
+                                    "BF": 821.80,
+                                    "TAF": 0.00,
+                                    "TF": 821.80,
+                                    "NF": 821.80
+                                },
+                                "afc": {
+                                    "TAF": {
+                                        "TSF": 39.44,
+                                        "SAC": 105.26,
+                                        "SNP": 716.54,
+                                        "TTSF": 39.44,
+                                        "SBP": 782.36,
+                                        "TMF": 105.26,
+                                        "SGP": 821.80,
+                                        "SRC": 0.00
+                                    }
+                                }
+                            },
+                            {
+                                "day": 2,
+                                "fc": {
+                                    "CMU": 0.00,
+                                    "BF": 821.80,
+                                    "TAF": 0.00,
+                                    "TF": 821.80,
+                                    "NF": 821.80
+                                },
+                                "afc": {
+                                    "TAF": {
+                                        "TSF": 39.44,
+                                        "SAC": 105.26,
+                                        "SNP": 716.54,
+                                        "TTSF": 39.44,
+                                        "SBP": 782.36,
+                                        "TMF": 105.26,
+                                        "SGP": 821.80,
+                                        "SRC": 0.00
+                                    }
+                                }
+                            },
+                            {
+                                "day": 3,
+                                "fc": {
+                                    "CMU": 0.00,
+                                    "BF": 821.80,
+                                    "TAF": 0.00,
+                                    "TF": 821.80,
+                                    "NF": 821.80
+                                },
+                                "afc": {
+                                    "TAF": {
+                                        "TSF": 39.44,
+                                        "SAC": 105.26,
+                                        "SNP": 716.54,
+                                        "TTSF": 39.44,
+                                        "SBP": 782.36,
+                                        "TMF": 105.26,
+                                        "SGP": 821.80,
+                                        "SRC": 0.00
+                                    }
+                                }
+                            },
+                            {
+                                "day": 4,
+                                "fc": {
+                                    "CMU": 0.00,
+                                    "BF": 821.80,
+                                    "TAF": 0.00,
+                                    "TF": 821.80,
+                                    "NF": 821.80
+                                },
+                                "afc": {
+                                    "TAF": {
+                                        "TSF": 39.44,
+                                        "SAC": 105.26,
+                                        "SNP": 716.54,
+                                        "TTSF": 39.44,
+                                        "SBP": 782.36,
+                                        "TMF": 105.26,
+                                        "SGP": 821.80,
+                                        "SRC": 0.00
+                                    }
+                                }
+                            },
+                            {
+                                "day": 5,
+                                "fc": {
+                                    "CMU": 0.00,
+                                    "BF": 821.80,
+                                    "TAF": 0.00,
+                                    "TF": 821.80,
+                                    "NF": 821.80
+                                },
+                                "afc": {
+                                    "TAF": {
+                                        "TSF": 39.44,
+                                        "SAC": 105.26,
+                                        "SNP": 716.54,
+                                        "TTSF": 39.44,
+                                        "SBP": 782.36,
+                                        "TMF": 105.26,
+                                        "SGP": 821.80,
+                                        "SRC": 0.00
+                                    }
+                                }
+                            },
+                            {
+                                "day": 6,
+                                "fc": {
+                                    "CMU": 0.00,
+                                    "BF": 821.80,
+                                    "TAF": 0.00,
+                                    "TF": 821.80,
+                                    "NF": 821.80
+                                },
+                                "afc": {
+                                    "TAF": {
+                                        "TSF": 39.44,
+                                        "SAC": 105.26,
+                                        "SNP": 716.54,
+                                        "TTSF": 39.44,
+                                        "SBP": 782.36,
+                                        "TMF": 105.26,
+                                        "SGP": 821.80,
+                                        "SRC": 0.00
+                                    }
+                                }
+                            },
+                            {
+                                "day": 7,
+                                "fc": {
+                                    "CMU": 0.00,
+                                    "BF": 821.80,
+                                    "TAF": 0.00,
+                                    "TF": 821.80,
+                                    "NF": 821.80
+                                },
+                                "afc": {
+                                    "TAF": {
+                                        "TSF": 39.44,
+                                        "SAC": 105.26,
+                                        "SNP": 716.54,
+                                        "TTSF": 39.44,
+                                        "SBP": 782.36,
+                                        "TMF": 105.26,
+                                        "SGP": 821.80,
+                                        "SRC": 0.00
+                                    }
+                                }
+                            },
+                            {
+                                "day": 8,
+                                "fc": {
+                                    "CMU": 0.00,
+                                    "BF": 821.80,
+                                    "TAF": 0.00,
+                                    "TF": 821.80,
+                                    "NF": 821.80
+                                },
+                                "afc": {
+                                    "TAF": {
+                                        "TSF": 39.44,
+                                        "SAC": 105.26,
+                                        "SNP": 716.54,
+                                        "TTSF": 39.44,
+                                        "SBP": 782.36,
+                                        "TMF": 105.26,
+                                        "SGP": 821.80,
+                                        "SRC": 0.00
+                                    }
+                                }
+                            },
+                            {
+                                "day": 9,
+                                "fc": {
+                                    "CMU": 0.00,
+                                    "BF": 821.80,
+                                    "TAF": 0.00,
+                                    "TF": 821.80,
+                                    "NF": 821.80
+                                },
+                                "afc": {
+                                    "TAF": {
+                                        "TSF": 39.44,
+                                        "SAC": 105.26,
+                                        "SNP": 716.54,
+                                        "TTSF": 39.44,
+                                        "SBP": 782.36,
+                                        "TMF": 105.26,
+                                        "SGP": 821.80,
+                                        "SRC": 0.00
+                                    }
+                                }
+                            },
+                            {
+                                "day": 10,
+                                "fc": {
+                                    "CMU": 0.00,
+                                    "BF": 821.80,
+                                    "TAF": 0.00,
+                                    "TF": 821.80,
+                                    "NF": 821.80
+                                },
+                                "afc": {
+                                    "TAF": {
+                                        "TSF": 39.44,
+                                        "SAC": 105.26,
+                                        "SNP": 716.54,
+                                        "TTSF": 39.44,
+                                        "SBP": 782.36,
+                                        "TMF": 105.26,
+                                        "SGP": 821.80,
+                                        "SRC": 0.00
+                                    }
+                                }
+                            },
+                            {
+                                "day": 11,
+                                "fc": {
+                                    "CMU": 0.00,
+                                    "BF": 821.80,
+                                    "TAF": 0.00,
+                                    "TF": 821.80,
+                                    "NF": 821.80
+                                },
+                                "afc": {
+                                    "TAF": {
+                                        "TSF": 39.44,
+                                        "SAC": 105.26,
+                                        "SNP": 716.54,
+                                        "TTSF": 39.44,
+                                        "SBP": 782.36,
+                                        "TMF": 105.26,
+                                        "SGP": 821.80,
+                                        "SRC": 0.00
+                                    }
+                                }
+                            },
+                            {
+                                "day": 12,
+                                "fc": {
+                                    "CMU": 0.00,
+                                    "BF": 821.80,
+                                    "TAF": 0.00,
+                                    "TF": 821.80,
+                                    "NF": 821.80
+                                },
+                                "afc": {
+                                    "TAF": {
+                                        "TSF": 39.44,
+                                        "SAC": 105.26,
+                                        "SNP": 716.54,
+                                        "TTSF": 39.44,
+                                        "SBP": 782.36,
+                                        "TMF": 105.26,
+                                        "SGP": 821.80,
+                                        "SRC": 0.00
+                                    }
+                                }
+                            },
+                            {
+                                "day": 13,
+                                "fc": {
+                                    "CMU": 0.00,
+                                    "BF": 821.80,
+                                    "TAF": 0.00,
+                                    "TF": 821.80,
+                                    "NF": 821.80
+                                },
+                                "afc": {
+                                    "TAF": {
+                                        "TSF": 39.44,
+                                        "SAC": 105.26,
+                                        "SNP": 716.54,
+                                        "TTSF": 39.44,
+                                        "SBP": 782.36,
+                                        "TMF": 105.26,
+                                        "SGP": 821.80,
+                                        "SRC": 0.00
+                                    }
+                                }
+                            },
+                            {
+                                "day": 14,
+                                "fc": {
+                                    "CMU": 0.00,
+                                    "BF": 821.80,
+                                    "TAF": 0.00,
+                                    "TF": 821.80,
+                                    "NF": 821.80
+                                },
+                                "afc": {
+                                    "TAF": {
+                                        "TSF": 39.44,
+                                        "SAC": 105.26,
+                                        "SNP": 716.54,
+                                        "TTSF": 39.44,
+                                        "SBP": 782.36,
+                                        "TMF": 105.26,
+                                        "SGP": 821.80,
+                                        "SRC": 0.00
+                                    }
+                                }
+                            }
+                        ],
+                        "fcs": [
+                            "Free WiFi"
+                        ],
+                        "imgs": [
+                            {
+                                "url": "https://i.travelapi.com/lodging/5000000/4930000/4928500/4928439/64dbf9ab_z.jpg",
+                                "sz": "XXL",
+                                "rids": [
+                                    "200148642"
+                                ]
+                            }
+                        ],
+                        "irrh": true,
+                        "radi": {
+                            "rid": "200148642",
+                            "bds": [
+                                {
+                                    "bt": "Queen",
+                                    "bc": 1
+                                }
+                            ]
+                        },
+                        "op": "1",
+                        "rexb": {
+                            "BENEFIT": [
+                                {
+                                    "values": [
+                                        "Free WiFi"
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "id": "44_0_4928439",
+                "tp": 11505.20,
+                "sc": "USD",
+                "roe": 71.71,
+                "cnp": {
+                    "id": "200148642_200828472_37310",
+                    "ifra": true,
+                    "inra": false,
+                    "pd": [
+                        {
+                            "fdt": "2026-03-13T03:04",
+                            "tdt": "2026-08-29T23:59",
+                            "am": 0.00,
+                            "pp": 0.00
+                        },
+                        {
+                            "fdt": "2026-08-29T23:59",
+                            "tdt": "2026-09-01T00:00",
+                            "am": 821.80,
+                            "rn": 1
+                        },
+                        {
+                            "fdt": "2026-09-01T00:00",
+                            "tdt": "2026-09-15T23:59",
+                            "am": 11505.20
+                        }
+                    ]
+                },
+                "ddt": "2026-08-29T23:59",
+                "oai": {
+                    "sid": "44"
+                },
+                "ipr": true,
+                "omid": "1942507381",
+                "ipm": false,
+                "cpb": 24
+            },
+            {
+                "ris": [
+                    {
+                        "id": "211803612_232071334_37321##1",
+                        "rc": "Economy Room, 2 Bedrooms",
+                        "rt": "Economy Room, 2 Bedrooms-1 King Bed",
+                        "srn": "Economy, 2 Bedroom",
+                        "adt": 1,
+                        "chd": 0,
+                        "pdes": [],
+                        "mb": "ROOM ONLY",
+                        "tp": 13141.52,
+                        "tfcs": {
+                            "TAF": 0.00,
+                            "TF": 13141.52,
+                            "NF": 13141.52,
+                            "CMU": 0.00,
+                            "BF": 13141.52
+                        },
+                        "tafcs": {
+                            "TAF": {
+                                "TSF": 622.44,
+                                "SAC": 1680.14,
+                                "SNP": 11461.38,
+                                "TTSF": 622.44,
+                                "SBP": 12519.08,
+                                "TMF": 1680.14,
+                                "SGP": 13141.52,
+                                "SRC": 0.00
+                            }
+                        },
+                        "pis": [
+                            {
+                                "day": 1,
+                                "fc": {
+                                    "CMU": 0.00,
+                                    "BF": 938.68,
+                                    "TAF": 0.00,
+                                    "TF": 938.68,
+                                    "NF": 938.68
+                                },
+                                "afc": {
+                                    "TAF": {
+                                        "TSF": 44.46,
+                                        "SAC": 120.01,
+                                        "SNP": 818.67,
+                                        "TTSF": 44.46,
+                                        "SBP": 894.22,
+                                        "TMF": 120.01,
+                                        "SGP": 938.68,
+                                        "SRC": 0.00
+                                    }
+                                }
+                            },
+                            {
+                                "day": 2,
+                                "fc": {
+                                    "CMU": 0.00,
+                                    "BF": 938.68,
+                                    "TAF": 0.00,
+                                    "TF": 938.68,
+                                    "NF": 938.68
+                                },
+                                "afc": {
+                                    "TAF": {
+                                        "TSF": 44.46,
+                                        "SAC": 120.01,
+                                        "SNP": 818.67,
+                                        "TTSF": 44.46,
+                                        "SBP": 894.22,
+                                        "TMF": 120.01,
+                                        "SGP": 938.68,
+                                        "SRC": 0.00
+                                    }
+                                }
+                            },
+                            {
+                                "day": 3,
+                                "fc": {
+                                    "CMU": 0.00,
+                                    "BF": 938.68,
+                                    "TAF": 0.00,
+                                    "TF": 938.68,
+                                    "NF": 938.68
+                                },
+                                "afc": {
+                                    "TAF": {
+                                        "TSF": 44.46,
+                                        "SAC": 120.01,
+                                        "SNP": 818.67,
+                                        "TTSF": 44.46,
+                                        "SBP": 894.22,
+                                        "TMF": 120.01,
+                                        "SGP": 938.68,
+                                        "SRC": 0.00
+                                    }
+                                }
+                            },
+                            {
+                                "day": 4,
+                                "fc": {
+                                    "CMU": 0.00,
+                                    "BF": 938.68,
+                                    "TAF": 0.00,
+                                    "TF": 938.68,
+                                    "NF": 938.68
+                                },
+                                "afc": {
+                                    "TAF": {
+                                        "TSF": 44.46,
+                                        "SAC": 120.01,
+                                        "SNP": 818.67,
+                                        "TTSF": 44.46,
+                                        "SBP": 894.22,
+                                        "TMF": 120.01,
+                                        "SGP": 938.68,
+                                        "SRC": 0.00
+                                    }
+                                }
+                            },
+                            {
+                                "day": 5,
+                                "fc": {
+                                    "CMU": 0.00,
+                                    "BF": 938.68,
+                                    "TAF": 0.00,
+                                    "TF": 938.68,
+                                    "NF": 938.68
+                                },
+                                "afc": {
+                                    "TAF": {
+                                        "TSF": 44.46,
+                                        "SAC": 120.01,
+                                        "SNP": 818.67,
+                                        "TTSF": 44.46,
+                                        "SBP": 894.22,
+                                        "TMF": 120.01,
+                                        "SGP": 938.68,
+                                        "SRC": 0.00
+                                    }
+                                }
+                            },
+                            {
+                                "day": 6,
+                                "fc": {
+                                    "CMU": 0.00,
+                                    "BF": 938.68,
+                                    "TAF": 0.00,
+                                    "TF": 938.68,
+                                    "NF": 938.68
+                                },
+                                "afc": {
+                                    "TAF": {
+                                        "TSF": 44.46,
+                                        "SAC": 120.01,
+                                        "SNP": 818.67,
+                                        "TTSF": 44.46,
+                                        "SBP": 894.22,
+                                        "TMF": 120.01,
+                                        "SGP": 938.68,
+                                        "SRC": 0.00
+                                    }
+                                }
+                            },
+                            {
+                                "day": 7,
+                                "fc": {
+                                    "CMU": 0.00,
+                                    "BF": 938.68,
+                                    "TAF": 0.00,
+                                    "TF": 938.68,
+                                    "NF": 938.68
+                                },
+                                "afc": {
+                                    "TAF": {
+                                        "TSF": 44.46,
+                                        "SAC": 120.01,
+                                        "SNP": 818.67,
+                                        "TTSF": 44.46,
+                                        "SBP": 894.22,
+                                        "TMF": 120.01,
+                                        "SGP": 938.68,
+                                        "SRC": 0.00
+                                    }
+                                }
+                            },
+                            {
+                                "day": 8,
+                                "fc": {
+                                    "CMU": 0.00,
+                                    "BF": 938.68,
+                                    "TAF": 0.00,
+                                    "TF": 938.68,
+                                    "NF": 938.68
+                                },
+                                "afc": {
+                                    "TAF": {
+                                        "TSF": 44.46,
+                                        "SAC": 120.01,
+                                        "SNP": 818.67,
+                                        "TTSF": 44.46,
+                                        "SBP": 894.22,
+                                        "TMF": 120.01,
+                                        "SGP": 938.68,
+                                        "SRC": 0.00
+                                    }
+                                }
+                            },
+                            {
+                                "day": 9,
+                                "fc": {
+                                    "CMU": 0.00,
+                                    "BF": 938.68,
+                                    "TAF": 0.00,
+                                    "TF": 938.68,
+                                    "NF": 938.68
+                                },
+                                "afc": {
+                                    "TAF": {
+                                        "TSF": 44.46,
+                                        "SAC": 120.01,
+                                        "SNP": 818.67,
+                                        "TTSF": 44.46,
+                                        "SBP": 894.22,
+                                        "TMF": 120.01,
+                                        "SGP": 938.68,
+                                        "SRC": 0.00
+                                    }
+                                }
+                            },
+                            {
+                                "day": 10,
+                                "fc": {
+                                    "CMU": 0.00,
+                                    "BF": 938.68,
+                                    "TAF": 0.00,
+                                    "TF": 938.68,
+                                    "NF": 938.68
+                                },
+                                "afc": {
+                                    "TAF": {
+                                        "TSF": 44.46,
+                                        "SAC": 120.01,
+                                        "SNP": 818.67,
+                                        "TTSF": 44.46,
+                                        "SBP": 894.22,
+                                        "TMF": 120.01,
+                                        "SGP": 938.68,
+                                        "SRC": 0.00
+                                    }
+                                }
+                            },
+                            {
+                                "day": 11,
+                                "fc": {
+                                    "CMU": 0.00,
+                                    "BF": 938.68,
+                                    "TAF": 0.00,
+                                    "TF": 938.68,
+                                    "NF": 938.68
+                                },
+                                "afc": {
+                                    "TAF": {
+                                        "TSF": 44.46,
+                                        "SAC": 120.01,
+                                        "SNP": 818.67,
+                                        "TTSF": 44.46,
+                                        "SBP": 894.22,
+                                        "TMF": 120.01,
+                                        "SGP": 938.68,
+                                        "SRC": 0.00
+                                    }
+                                }
+                            },
+                            {
+                                "day": 12,
+                                "fc": {
+                                    "CMU": 0.00,
+                                    "BF": 938.68,
+                                    "TAF": 0.00,
+                                    "TF": 938.68,
+                                    "NF": 938.68
+                                },
+                                "afc": {
+                                    "TAF": {
+                                        "TSF": 44.46,
+                                        "SAC": 120.01,
+                                        "SNP": 818.67,
+                                        "TTSF": 44.46,
+                                        "SBP": 894.22,
+                                        "TMF": 120.01,
+                                        "SGP": 938.68,
+                                        "SRC": 0.00
+                                    }
+                                }
+                            },
+                            {
+                                "day": 13,
+                                "fc": {
+                                    "CMU": 0.00,
+                                    "BF": 938.68,
+                                    "TAF": 0.00,
+                                    "TF": 938.68,
+                                    "NF": 938.68
+                                },
+                                "afc": {
+                                    "TAF": {
+                                        "TSF": 44.46,
+                                        "SAC": 120.01,
+                                        "SNP": 818.67,
+                                        "TTSF": 44.46,
+                                        "SBP": 894.22,
+                                        "TMF": 120.01,
+                                        "SGP": 938.68,
+                                        "SRC": 0.00
+                                    }
+                                }
+                            },
+                            {
+                                "day": 14,
+                                "fc": {
+                                    "CMU": 0.00,
+                                    "BF": 938.68,
+                                    "TAF": 0.00,
+                                    "TF": 938.68,
+                                    "NF": 938.68
+                                },
+                                "afc": {
+                                    "TAF": {
+                                        "TSF": 44.46,
+                                        "SAC": 120.01,
+                                        "SNP": 818.67,
+                                        "TTSF": 44.46,
+                                        "SBP": 894.22,
+                                        "TMF": 120.01,
+                                        "SGP": 938.68,
+                                        "SRC": 0.00
+                                    }
+                                }
+                            }
+                        ],
+                        "fcs": [
+                            "Free WiFi"
+                        ],
+                        "imgs": [
+                            {
+                                "url": "https://i.travelapi.com/lodging/5000000/4930000/4928500/4928439/65104771_z.jpg",
+                                "sz": "XXL",
+                                "rids": [
+                                    "200148645",
+                                    "211803612"
+                                ]
+                            }
+                        ],
+                        "irrh": true,
+                        "radi": {
+                            "rid": "211803612"
+                        },
+                        "op": "1",
+                        "rexb": {
+                            "BENEFIT": [
+                                {
+                                    "values": [
+                                        "Free WiFi"
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "id": "44_2_4928439",
+                "tp": 13141.52,
+                "sc": "USD",
+                "roe": 71.71,
+                "cnp": {
+                    "id": "211803612_232071334_37321",
+                    "ifra": true,
+                    "inra": false,
+                    "pd": [
+                        {
+                            "fdt": "2026-03-13T03:04",
+                            "tdt": "2026-08-29T23:59",
+                            "am": 0.00,
+                            "pp": 0.00
+                        },
+                        {
+                            "fdt": "2026-08-29T23:59",
+                            "tdt": "2026-09-01T00:00",
+                            "am": 938.68,
+                            "rn": 1
+                        },
+                        {
+                            "fdt": "2026-09-01T00:00",
+                            "tdt": "2026-09-15T23:59",
+                            "am": 13141.52
+                        }
+                    ]
+                },
+                "ddt": "2026-08-29T23:59",
+                "oai": {
+                    "sid": "44"
+                },
+                "ipr": true,
+                "omid": "334220312",
+                "ipm": false,
+                "cpb": 24
+            },
+            {
+                "ris": [
+                    {
+                        "id": "200148642_401246284_37310##1",
+                        "rc": "Deluxe Room, 1 Queen Bed",
+                        "rt": "Deluxe Room, 1 Queen Bed-1 Queen Bed - Package Deal",
+                        "srn": "Deluxe, Queen",
+                        "adt": 1,
+                        "chd": 0,
+                        "pdes": [],
+                        "mb": "ROOM ONLY",
+                        "tp": 13246.80,
+                        "tfcs": {
+                            "TAF": 0.00,
+                            "TF": 13246.80,
+                            "NF": 13246.80,
+                            "CMU": 0.00,
+                            "BF": 13246.80
+                        },
+                        "tafcs": {
+                            "TAF": {
+                                "TSF": 703.08,
+                                "SAC": 1047.76,
+                                "SNP": 12199.04,
+                                "TTSF": 703.08,
+                                "SBP": 12543.72,
+                                "TMF": 1047.76,
+                                "SGP": 13246.80,
+                                "SRC": 0.00
+                            }
+                        },
+                        "pis": [
+                            {
+                                "day": 1,
+                                "fc": {
+                                    "CMU": 0.00,
+                                    "BF": 946.20,
+                                    "TAF": 0.00,
+                                    "TF": 946.20,
+                                    "NF": 946.20
+                                },
+                                "afc": {
+                                    "TAF": {
+                                        "TSF": 50.22,
+                                        "SAC": 74.84,
+                                        "SNP": 871.36,
+                                        "TTSF": 50.22,
+                                        "SBP": 895.98,
+                                        "TMF": 74.84,
+                                        "SGP": 946.20,
+                                        "SRC": 0.00
+                                    }
+                                }
+                            },
+                            {
+                                "day": 2,
+                                "fc": {
+                                    "CMU": 0.00,
+                                    "BF": 946.20,
+                                    "TAF": 0.00,
+                                    "TF": 946.20,
+                                    "NF": 946.20
+                                },
+                                "afc": {
+                                    "TAF": {
+                                        "TSF": 50.22,
+                                        "SAC": 74.84,
+                                        "SNP": 871.36,
+                                        "TTSF": 50.22,
+                                        "SBP": 895.98,
+                                        "TMF": 74.84,
+                                        "SGP": 946.20,
+                                        "SRC": 0.00
+                                    }
+                                }
+                            },
+                            {
+                                "day": 3,
+                                "fc": {
+                                    "CMU": 0.00,
+                                    "BF": 946.20,
+                                    "TAF": 0.00,
+                                    "TF": 946.20,
+                                    "NF": 946.20
+                                },
+                                "afc": {
+                                    "TAF": {
+                                        "TSF": 50.22,
+                                        "SAC": 74.84,
+                                        "SNP": 871.36,
+                                        "TTSF": 50.22,
+                                        "SBP": 895.98,
+                                        "TMF": 74.84,
+                                        "SGP": 946.20,
+                                        "SRC": 0.00
+                                    }
+                                }
+                            },
+                            {
+                                "day": 4,
+                                "fc": {
+                                    "CMU": 0.00,
+                                    "BF": 946.20,
+                                    "TAF": 0.00,
+                                    "TF": 946.20,
+                                    "NF": 946.20
+                                },
+                                "afc": {
+                                    "TAF": {
+                                        "TSF": 50.22,
+                                        "SAC": 74.84,
+                                        "SNP": 871.36,
+                                        "TTSF": 50.22,
+                                        "SBP": 895.98,
+                                        "TMF": 74.84,
+                                        "SGP": 946.20,
+                                        "SRC": 0.00
+                                    }
+                                }
+                            },
+                            {
+                                "day": 5,
+                                "fc": {
+                                    "CMU": 0.00,
+                                    "BF": 946.20,
+                                    "TAF": 0.00,
+                                    "TF": 946.20,
+                                    "NF": 946.20
+                                },
+                                "afc": {
+                                    "TAF": {
+                                        "TSF": 50.22,
+                                        "SAC": 74.84,
+                                        "SNP": 871.36,
+                                        "TTSF": 50.22,
+                                        "SBP": 895.98,
+                                        "TMF": 74.84,
+                                        "SGP": 946.20,
+                                        "SRC": 0.00
+                                    }
+                                }
+                            },
+                            {
+                                "day": 6,
+                                "fc": {
+                                    "CMU": 0.00,
+                                    "BF": 946.20,
+                                    "TAF": 0.00,
+                                    "TF": 946.20,
+                                    "NF": 946.20
+                                },
+                                "afc": {
+                                    "TAF": {
+                                        "TSF": 50.22,
+                                        "SAC": 74.84,
+                                        "SNP": 871.36,
+                                        "TTSF": 50.22,
+                                        "SBP": 895.98,
+                                        "TMF": 74.84,
+                                        "SGP": 946.20,
+                                        "SRC": 0.00
+                                    }
+                                }
+                            },
+                            {
+                                "day": 7,
+                                "fc": {
+                                    "CMU": 0.00,
+                                    "BF": 946.20,
+                                    "TAF": 0.00,
+                                    "TF": 946.20,
+                                    "NF": 946.20
+                                },
+                                "afc": {
+                                    "TAF": {
+                                        "TSF": 50.22,
+                                        "SAC": 74.84,
+                                        "SNP": 871.36,
+                                        "TTSF": 50.22,
+                                        "SBP": 895.98,
+                                        "TMF": 74.84,
+                                        "SGP": 946.20,
+                                        "SRC": 0.00
+                                    }
+                                }
+                            },
+                            {
+                                "day": 8,
+                                "fc": {
+                                    "CMU": 0.00,
+                                    "BF": 946.20,
+                                    "TAF": 0.00,
+                                    "TF": 946.20,
+                                    "NF": 946.20
+                                },
+                                "afc": {
+                                    "TAF": {
+                                        "TSF": 50.22,
+                                        "SAC": 74.84,
+                                        "SNP": 871.36,
+                                        "TTSF": 50.22,
+                                        "SBP": 895.98,
+                                        "TMF": 74.84,
+                                        "SGP": 946.20,
+                                        "SRC": 0.00
+                                    }
+                                }
+                            },
+                            {
+                                "day": 9,
+                                "fc": {
+                                    "CMU": 0.00,
+                                    "BF": 946.20,
+                                    "TAF": 0.00,
+                                    "TF": 946.20,
+                                    "NF": 946.20
+                                },
+                                "afc": {
+                                    "TAF": {
+                                        "TSF": 50.22,
+                                        "SAC": 74.84,
+                                        "SNP": 871.36,
+                                        "TTSF": 50.22,
+                                        "SBP": 895.98,
+                                        "TMF": 74.84,
+                                        "SGP": 946.20,
+                                        "SRC": 0.00
+                                    }
+                                }
+                            },
+                            {
+                                "day": 10,
+                                "fc": {
+                                    "CMU": 0.00,
+                                    "BF": 946.20,
+                                    "TAF": 0.00,
+                                    "TF": 946.20,
+                                    "NF": 946.20
+                                },
+                                "afc": {
+                                    "TAF": {
+                                        "TSF": 50.22,
+                                        "SAC": 74.84,
+                                        "SNP": 871.36,
+                                        "TTSF": 50.22,
+                                        "SBP": 895.98,
+                                        "TMF": 74.84,
+                                        "SGP": 946.20,
+                                        "SRC": 0.00
+                                    }
+                                }
+                            },
+                            {
+                                "day": 11,
+                                "fc": {
+                                    "CMU": 0.00,
+                                    "BF": 946.20,
+                                    "TAF": 0.00,
+                                    "TF": 946.20,
+                                    "NF": 946.20
+                                },
+                                "afc": {
+                                    "TAF": {
+                                        "TSF": 50.22,
+                                        "SAC": 74.84,
+                                        "SNP": 871.36,
+                                        "TTSF": 50.22,
+                                        "SBP": 895.98,
+                                        "TMF": 74.84,
+                                        "SGP": 946.20,
+                                        "SRC": 0.00
+                                    }
+                                }
+                            },
+                            {
+                                "day": 12,
+                                "fc": {
+                                    "CMU": 0.00,
+                                    "BF": 946.20,
+                                    "TAF": 0.00,
+                                    "TF": 946.20,
+                                    "NF": 946.20
+                                },
+                                "afc": {
+                                    "TAF": {
+                                        "TSF": 50.22,
+                                        "SAC": 74.84,
+                                        "SNP": 871.36,
+                                        "TTSF": 50.22,
+                                        "SBP": 895.98,
+                                        "TMF": 74.84,
+                                        "SGP": 946.20,
+                                        "SRC": 0.00
+                                    }
+                                }
+                            },
+                            {
+                                "day": 13,
+                                "fc": {
+                                    "CMU": 0.00,
+                                    "BF": 946.20,
+                                    "TAF": 0.00,
+                                    "TF": 946.20,
+                                    "NF": 946.20
+                                },
+                                "afc": {
+                                    "TAF": {
+                                        "TSF": 50.22,
+                                        "SAC": 74.84,
+                                        "SNP": 871.36,
+                                        "TTSF": 50.22,
+                                        "SBP": 895.98,
+                                        "TMF": 74.84,
+                                        "SGP": 946.20,
+                                        "SRC": 0.00
+                                    }
+                                }
+                            },
+                            {
+                                "day": 14,
+                                "fc": {
+                                    "CMU": 0.00,
+                                    "BF": 946.20,
+                                    "TAF": 0.00,
+                                    "TF": 946.20,
+                                    "NF": 946.20
+                                },
+                                "afc": {
+                                    "TAF": {
+                                        "TSF": 50.22,
+                                        "SAC": 74.84,
+                                        "SNP": 871.36,
+                                        "TTSF": 50.22,
+                                        "SBP": 895.98,
+                                        "TMF": 74.84,
+                                        "SGP": 946.20,
+                                        "SRC": 0.00
+                                    }
+                                }
+                            }
+                        ],
+                        "fcs": [
+                            "Free WiFi"
+                        ],
+                        "imgs": [
+                            {
+                                "url": "https://i.travelapi.com/lodging/5000000/4930000/4928500/4928439/64dbf9ab_z.jpg",
+                                "sz": "XXL",
+                                "rids": [
+                                    "200148642"
+                                ]
+                            }
+                        ],
+                        "irrh": true,
+                        "radi": {
+                            "rid": "200148642",
+                            "bds": [
+                                {
+                                    "bt": "Queen",
+                                    "bc": 1
+                                }
+                            ]
+                        },
+                        "op": "1",
+                        "rexb": {
+                            "BENEFIT": [
+                                {
+                                    "values": [
+                                        "Free WiFi"
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "id": "45_1_4928439",
+                "tp": 13246.80,
+                "sc": "INR",
+                "roe": 1.0,
+                "cnp": {
+                    "id": "200148642_401246284_37310--48788654",
+                    "ifra": true,
+                    "inra": false,
+                    "pd": [
+                        {
+                            "fdt": "2026-03-13T03:04",
+                            "tdt": "2026-08-29T23:59",
+                            "am": 0.00,
+                            "pp": 0.00
+                        },
+                        {
+                            "fdt": "2026-08-29T23:59",
+                            "tdt": "2026-09-01T00:00",
+                            "am": 946.20,
+                            "rn": 1
+                        },
+                        {
+                            "fdt": "2026-09-01T00:00",
+                            "tdt": "2026-09-15T23:59",
+                            "am": 13246.80
+                        }
+                    ]
+                },
+                "ddt": "2026-08-29T23:59",
+                "oai": {
+                    "sid": "45"
+                },
+                "ispr": true,
+                "ipr": true,
+                "omid": "1942507381",
+                "ipm": false,
+                "cpb": 24
+            },
+            {
+                "ris": [
+                    {
+                        "id": "200148642_200828472_37310##1",
+                        "rc": "Deluxe Room, 1 Queen Bed",
+                        "rt": "Deluxe Room, 1 Queen Bed-1 Queen Bed",
+                        "srn": "Deluxe, Queen",
+                        "adt": 1,
+                        "chd": 0,
+                        "pdes": [],
+                        "mb": "ROOM ONLY",
+                        "tp": 14765.52,
+                        "tfcs": {
+                            "TAF": 0.00,
+                            "TF": 14765.52,
+                            "NF": 14765.52,
+                            "CMU": 0.00,
+                            "BF": 14765.52
+                        },
+                        "tafcs": {
+                            "TAF": {
+                                "TSF": 703.08,
+                                "SAC": 1890.28,
+                                "SNP": 12875.24,
+                                "TTSF": 703.08,
+                                "SBP": 14062.44,
+                                "TMF": 1890.28,
+                                "SGP": 14765.52,
+                                "SRC": 0.00
+                            }
+                        },
+                        "pis": [
+                            {
+                                "day": 1,
+                                "fc": {
+                                    "CMU": 0.00,
+                                    "BF": 1054.68,
+                                    "TAF": 0.00,
+                                    "TF": 1054.68,
+                                    "NF": 1054.68
+                                },
+                                "afc": {
+                                    "TAF": {
+                                        "TSF": 50.22,
+                                        "SAC": 135.02,
+                                        "SNP": 919.66,
+                                        "TTSF": 50.22,
+                                        "SBP": 1004.46,
+                                        "TMF": 135.02,
+                                        "SGP": 1054.68,
+                                        "SRC": 0.00
+                                    }
+                                }
+                            },
+                            {
+                                "day": 2,
+                                "fc": {
+                                    "CMU": 0.00,
+                                    "BF": 1054.68,
+                                    "TAF": 0.00,
+                                    "TF": 1054.68,
+                                    "NF": 1054.68
+                                },
+                                "afc": {
+                                    "TAF": {
+                                        "TSF": 50.22,
+                                        "SAC": 135.02,
+                                        "SNP": 919.66,
+                                        "TTSF": 50.22,
+                                        "SBP": 1004.46,
+                                        "TMF": 135.02,
+                                        "SGP": 1054.68,
+                                        "SRC": 0.00
+                                    }
+                                }
+                            },
+                            {
+                                "day": 3,
+                                "fc": {
+                                    "CMU": 0.00,
+                                    "BF": 1054.68,
+                                    "TAF": 0.00,
+                                    "TF": 1054.68,
+                                    "NF": 1054.68
+                                },
+                                "afc": {
+                                    "TAF": {
+                                        "TSF": 50.22,
+                                        "SAC": 135.02,
+                                        "SNP": 919.66,
+                                        "TTSF": 50.22,
+                                        "SBP": 1004.46,
+                                        "TMF": 135.02,
+                                        "SGP": 1054.68,
+                                        "SRC": 0.00
+                                    }
+                                }
+                            },
+                            {
+                                "day": 4,
+                                "fc": {
+                                    "CMU": 0.00,
+                                    "BF": 1054.68,
+                                    "TAF": 0.00,
+                                    "TF": 1054.68,
+                                    "NF": 1054.68
+                                },
+                                "afc": {
+                                    "TAF": {
+                                        "TSF": 50.22,
+                                        "SAC": 135.02,
+                                        "SNP": 919.66,
+                                        "TTSF": 50.22,
+                                        "SBP": 1004.46,
+                                        "TMF": 135.02,
+                                        "SGP": 1054.68,
+                                        "SRC": 0.00
+                                    }
+                                }
+                            },
+                            {
+                                "day": 5,
+                                "fc": {
+                                    "CMU": 0.00,
+                                    "BF": 1054.68,
+                                    "TAF": 0.00,
+                                    "TF": 1054.68,
+                                    "NF": 1054.68
+                                },
+                                "afc": {
+                                    "TAF": {
+                                        "TSF": 50.22,
+                                        "SAC": 135.02,
+                                        "SNP": 919.66,
+                                        "TTSF": 50.22,
+                                        "SBP": 1004.46,
+                                        "TMF": 135.02,
+                                        "SGP": 1054.68,
+                                        "SRC": 0.00
+                                    }
+                                }
+                            },
+                            {
+                                "day": 6,
+                                "fc": {
+                                    "CMU": 0.00,
+                                    "BF": 1054.68,
+                                    "TAF": 0.00,
+                                    "TF": 1054.68,
+                                    "NF": 1054.68
+                                },
+                                "afc": {
+                                    "TAF": {
+                                        "TSF": 50.22,
+                                        "SAC": 135.02,
+                                        "SNP": 919.66,
+                                        "TTSF": 50.22,
+                                        "SBP": 1004.46,
+                                        "TMF": 135.02,
+                                        "SGP": 1054.68,
+                                        "SRC": 0.00
+                                    }
+                                }
+                            },
+                            {
+                                "day": 7,
+                                "fc": {
+                                    "CMU": 0.00,
+                                    "BF": 1054.68,
+                                    "TAF": 0.00,
+                                    "TF": 1054.68,
+                                    "NF": 1054.68
+                                },
+                                "afc": {
+                                    "TAF": {
+                                        "TSF": 50.22,
+                                        "SAC": 135.02,
+                                        "SNP": 919.66,
+                                        "TTSF": 50.22,
+                                        "SBP": 1004.46,
+                                        "TMF": 135.02,
+                                        "SGP": 1054.68,
+                                        "SRC": 0.00
+                                    }
+                                }
+                            },
+                            {
+                                "day": 8,
+                                "fc": {
+                                    "CMU": 0.00,
+                                    "BF": 1054.68,
+                                    "TAF": 0.00,
+                                    "TF": 1054.68,
+                                    "NF": 1054.68
+                                },
+                                "afc": {
+                                    "TAF": {
+                                        "TSF": 50.22,
+                                        "SAC": 135.02,
+                                        "SNP": 919.66,
+                                        "TTSF": 50.22,
+                                        "SBP": 1004.46,
+                                        "TMF": 135.02,
+                                        "SGP": 1054.68,
+                                        "SRC": 0.00
+                                    }
+                                }
+                            },
+                            {
+                                "day": 9,
+                                "fc": {
+                                    "CMU": 0.00,
+                                    "BF": 1054.68,
+                                    "TAF": 0.00,
+                                    "TF": 1054.68,
+                                    "NF": 1054.68
+                                },
+                                "afc": {
+                                    "TAF": {
+                                        "TSF": 50.22,
+                                        "SAC": 135.02,
+                                        "SNP": 919.66,
+                                        "TTSF": 50.22,
+                                        "SBP": 1004.46,
+                                        "TMF": 135.02,
+                                        "SGP": 1054.68,
+                                        "SRC": 0.00
+                                    }
+                                }
+                            },
+                            {
+                                "day": 10,
+                                "fc": {
+                                    "CMU": 0.00,
+                                    "BF": 1054.68,
+                                    "TAF": 0.00,
+                                    "TF": 1054.68,
+                                    "NF": 1054.68
+                                },
+                                "afc": {
+                                    "TAF": {
+                                        "TSF": 50.22,
+                                        "SAC": 135.02,
+                                        "SNP": 919.66,
+                                        "TTSF": 50.22,
+                                        "SBP": 1004.46,
+                                        "TMF": 135.02,
+                                        "SGP": 1054.68,
+                                        "SRC": 0.00
+                                    }
+                                }
+                            },
+                            {
+                                "day": 11,
+                                "fc": {
+                                    "CMU": 0.00,
+                                    "BF": 1054.68,
+                                    "TAF": 0.00,
+                                    "TF": 1054.68,
+                                    "NF": 1054.68
+                                },
+                                "afc": {
+                                    "TAF": {
+                                        "TSF": 50.22,
+                                        "SAC": 135.02,
+                                        "SNP": 919.66,
+                                        "TTSF": 50.22,
+                                        "SBP": 1004.46,
+                                        "TMF": 135.02,
+                                        "SGP": 1054.68,
+                                        "SRC": 0.00
+                                    }
+                                }
+                            },
+                            {
+                                "day": 12,
+                                "fc": {
+                                    "CMU": 0.00,
+                                    "BF": 1054.68,
+                                    "TAF": 0.00,
+                                    "TF": 1054.68,
+                                    "NF": 1054.68
+                                },
+                                "afc": {
+                                    "TAF": {
+                                        "TSF": 50.22,
+                                        "SAC": 135.02,
+                                        "SNP": 919.66,
+                                        "TTSF": 50.22,
+                                        "SBP": 1004.46,
+                                        "TMF": 135.02,
+                                        "SGP": 1054.68,
+                                        "SRC": 0.00
+                                    }
+                                }
+                            },
+                            {
+                                "day": 13,
+                                "fc": {
+                                    "CMU": 0.00,
+                                    "BF": 1054.68,
+                                    "TAF": 0.00,
+                                    "TF": 1054.68,
+                                    "NF": 1054.68
+                                },
+                                "afc": {
+                                    "TAF": {
+                                        "TSF": 50.22,
+                                        "SAC": 135.02,
+                                        "SNP": 919.66,
+                                        "TTSF": 50.22,
+                                        "SBP": 1004.46,
+                                        "TMF": 135.02,
+                                        "SGP": 1054.68,
+                                        "SRC": 0.00
+                                    }
+                                }
+                            },
+                            {
+                                "day": 14,
+                                "fc": {
+                                    "CMU": 0.00,
+                                    "BF": 1054.68,
+                                    "TAF": 0.00,
+                                    "TF": 1054.68,
+                                    "NF": 1054.68
+                                },
+                                "afc": {
+                                    "TAF": {
+                                        "TSF": 50.22,
+                                        "SAC": 135.02,
+                                        "SNP": 919.66,
+                                        "TTSF": 50.22,
+                                        "SBP": 1004.46,
+                                        "TMF": 135.02,
+                                        "SGP": 1054.68,
+                                        "SRC": 0.00
+                                    }
+                                }
+                            }
+                        ],
+                        "fcs": [
+                            "Free WiFi"
+                        ],
+                        "imgs": [
+                            {
+                                "url": "https://i.travelapi.com/lodging/5000000/4930000/4928500/4928439/64dbf9ab_z.jpg",
+                                "sz": "XXL",
+                                "rids": [
+                                    "200148642"
+                                ]
+                            }
+                        ],
+                        "irrh": true,
+                        "radi": {
+                            "rid": "200148642",
+                            "bds": [
+                                {
+                                    "bt": "Queen",
+                                    "bc": 1
+                                }
+                            ]
+                        },
+                        "op": "1",
+                        "rexb": {
+                            "BENEFIT": [
+                                {
+                                    "values": [
+                                        "Free WiFi"
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "id": "42_0_4928439",
+                "tp": 14765.52,
+                "sc": "INR",
+                "roe": 1.0,
+                "cnp": {
+                    "id": "200148642_200828472_37310",
+                    "ifra": true,
+                    "inra": false,
+                    "pd": [
+                        {
+                            "fdt": "2026-03-13T03:04",
+                            "tdt": "2026-08-29T23:59",
+                            "am": 0.00,
+                            "pp": 0.00
+                        },
+                        {
+                            "fdt": "2026-08-29T23:59",
+                            "tdt": "2026-09-01T00:00",
+                            "am": 1054.68,
+                            "rn": 1
+                        },
+                        {
+                            "fdt": "2026-09-01T00:00",
+                            "tdt": "2026-09-15T23:59",
+                            "am": 14765.52
+                        }
+                    ]
+                },
+                "ddt": "2026-08-29T23:59",
+                "oai": {
+                    "sid": "42"
+                },
+                "ipr": true,
+                "omid": "1942507381",
+                "ipm": false,
+                "cpb": 24
+            },
+            {
+                "ris": [
+                    {
+                        "id": "211803612_401174725_37321##1",
+                        "rc": "Economy Room, 2 Bedrooms",
+                        "rt": "Economy Room, 2 Bedrooms-1 King Bed - Package Deal",
+                        "srn": "Economy, 2 Bedroom",
+                        "adt": 1,
+                        "chd": 0,
+                        "pdes": [],
+                        "mb": "ROOM ONLY",
+                        "tp": 15139.32,
+                        "tfcs": {
+                            "TAF": 0.00,
+                            "TF": 15139.32,
+                            "NF": 15139.32,
+                            "CMU": 0.00,
+                            "BF": 15139.32
+                        },
+                        "tafcs": {
+                            "TAF": {
+                                "TSF": 803.60,
+                                "SAC": 1197.42,
+                                "SNP": 13941.90,
+                                "TTSF": 803.60,
+                                "SBP": 14335.72,
+                                "TMF": 1197.42,
+                                "SGP": 15139.32,
+                                "SRC": 0.00
+                            }
+                        },
+                        "pis": [
+                            {
+                                "day": 1,
+                                "fc": {
+                                    "CMU": 0.00,
+                                    "BF": 1081.38,
+                                    "TAF": 0.00,
+                                    "TF": 1081.38,
+                                    "NF": 1081.38
+                                },
+                                "afc": {
+                                    "TAF": {
+                                        "TSF": 57.40,
+                                        "SAC": 85.53,
+                                        "SNP": 995.85,
+                                        "TTSF": 57.40,
+                                        "SBP": 1023.98,
+                                        "TMF": 85.53,
+                                        "SGP": 1081.38,
+                                        "SRC": 0.00
+                                    }
+                                }
+                            },
+                            {
+                                "day": 2,
+                                "fc": {
+                                    "CMU": 0.00,
+                                    "BF": 1081.38,
+                                    "TAF": 0.00,
+                                    "TF": 1081.38,
+                                    "NF": 1081.38
+                                },
+                                "afc": {
+                                    "TAF": {
+                                        "TSF": 57.40,
+                                        "SAC": 85.53,
+                                        "SNP": 995.85,
+                                        "TTSF": 57.40,
+                                        "SBP": 1023.98,
+                                        "TMF": 85.53,
+                                        "SGP": 1081.38,
+                                        "SRC": 0.00
+                                    }
+                                }
+                            },
+                            {
+                                "day": 3,
+                                "fc": {
+                                    "CMU": 0.00,
+                                    "BF": 1081.38,
+                                    "TAF": 0.00,
+                                    "TF": 1081.38,
+                                    "NF": 1081.38
+                                },
+                                "afc": {
+                                    "TAF": {
+                                        "TSF": 57.40,
+                                        "SAC": 85.53,
+                                        "SNP": 995.85,
+                                        "TTSF": 57.40,
+                                        "SBP": 1023.98,
+                                        "TMF": 85.53,
+                                        "SGP": 1081.38,
+                                        "SRC": 0.00
+                                    }
+                                }
+                            },
+                            {
+                                "day": 4,
+                                "fc": {
+                                    "CMU": 0.00,
+                                    "BF": 1081.38,
+                                    "TAF": 0.00,
+                                    "TF": 1081.38,
+                                    "NF": 1081.38
+                                },
+                                "afc": {
+                                    "TAF": {
+                                        "TSF": 57.40,
+                                        "SAC": 85.53,
+                                        "SNP": 995.85,
+                                        "TTSF": 57.40,
+                                        "SBP": 1023.98,
+                                        "TMF": 85.53,
+                                        "SGP": 1081.38,
+                                        "SRC": 0.00
+                                    }
+                                }
+                            },
+                            {
+                                "day": 5,
+                                "fc": {
+                                    "CMU": 0.00,
+                                    "BF": 1081.38,
+                                    "TAF": 0.00,
+                                    "TF": 1081.38,
+                                    "NF": 1081.38
+                                },
+                                "afc": {
+                                    "TAF": {
+                                        "TSF": 57.40,
+                                        "SAC": 85.53,
+                                        "SNP": 995.85,
+                                        "TTSF": 57.40,
+                                        "SBP": 1023.98,
+                                        "TMF": 85.53,
+                                        "SGP": 1081.38,
+                                        "SRC": 0.00
+                                    }
+                                }
+                            },
+                            {
+                                "day": 6,
+                                "fc": {
+                                    "CMU": 0.00,
+                                    "BF": 1081.38,
+                                    "TAF": 0.00,
+                                    "TF": 1081.38,
+                                    "NF": 1081.38
+                                },
+                                "afc": {
+                                    "TAF": {
+                                        "TSF": 57.40,
+                                        "SAC": 85.53,
+                                        "SNP": 995.85,
+                                        "TTSF": 57.40,
+                                        "SBP": 1023.98,
+                                        "TMF": 85.53,
+                                        "SGP": 1081.38,
+                                        "SRC": 0.00
+                                    }
+                                }
+                            },
+                            {
+                                "day": 7,
+                                "fc": {
+                                    "CMU": 0.00,
+                                    "BF": 1081.38,
+                                    "TAF": 0.00,
+                                    "TF": 1081.38,
+                                    "NF": 1081.38
+                                },
+                                "afc": {
+                                    "TAF": {
+                                        "TSF": 57.40,
+                                        "SAC": 85.53,
+                                        "SNP": 995.85,
+                                        "TTSF": 57.40,
+                                        "SBP": 1023.98,
+                                        "TMF": 85.53,
+                                        "SGP": 1081.38,
+                                        "SRC": 0.00
+                                    }
+                                }
+                            },
+                            {
+                                "day": 8,
+                                "fc": {
+                                    "CMU": 0.00,
+                                    "BF": 1081.38,
+                                    "TAF": 0.00,
+                                    "TF": 1081.38,
+                                    "NF": 1081.38
+                                },
+                                "afc": {
+                                    "TAF": {
+                                        "TSF": 57.40,
+                                        "SAC": 85.53,
+                                        "SNP": 995.85,
+                                        "TTSF": 57.40,
+                                        "SBP": 1023.98,
+                                        "TMF": 85.53,
+                                        "SGP": 1081.38,
+                                        "SRC": 0.00
+                                    }
+                                }
+                            },
+                            {
+                                "day": 9,
+                                "fc": {
+                                    "CMU": 0.00,
+                                    "BF": 1081.38,
+                                    "TAF": 0.00,
+                                    "TF": 1081.38,
+                                    "NF": 1081.38
+                                },
+                                "afc": {
+                                    "TAF": {
+                                        "TSF": 57.40,
+                                        "SAC": 85.53,
+                                        "SNP": 995.85,
+                                        "TTSF": 57.40,
+                                        "SBP": 1023.98,
+                                        "TMF": 85.53,
+                                        "SGP": 1081.38,
+                                        "SRC": 0.00
+                                    }
+                                }
+                            },
+                            {
+                                "day": 10,
+                                "fc": {
+                                    "CMU": 0.00,
+                                    "BF": 1081.38,
+                                    "TAF": 0.00,
+                                    "TF": 1081.38,
+                                    "NF": 1081.38
+                                },
+                                "afc": {
+                                    "TAF": {
+                                        "TSF": 57.40,
+                                        "SAC": 85.53,
+                                        "SNP": 995.85,
+                                        "TTSF": 57.40,
+                                        "SBP": 1023.98,
+                                        "TMF": 85.53,
+                                        "SGP": 1081.38,
+                                        "SRC": 0.00
+                                    }
+                                }
+                            },
+                            {
+                                "day": 11,
+                                "fc": {
+                                    "CMU": 0.00,
+                                    "BF": 1081.38,
+                                    "TAF": 0.00,
+                                    "TF": 1081.38,
+                                    "NF": 1081.38
+                                },
+                                "afc": {
+                                    "TAF": {
+                                        "TSF": 57.40,
+                                        "SAC": 85.53,
+                                        "SNP": 995.85,
+                                        "TTSF": 57.40,
+                                        "SBP": 1023.98,
+                                        "TMF": 85.53,
+                                        "SGP": 1081.38,
+                                        "SRC": 0.00
+                                    }
+                                }
+                            },
+                            {
+                                "day": 12,
+                                "fc": {
+                                    "CMU": 0.00,
+                                    "BF": 1081.38,
+                                    "TAF": 0.00,
+                                    "TF": 1081.38,
+                                    "NF": 1081.38
+                                },
+                                "afc": {
+                                    "TAF": {
+                                        "TSF": 57.40,
+                                        "SAC": 85.53,
+                                        "SNP": 995.85,
+                                        "TTSF": 57.40,
+                                        "SBP": 1023.98,
+                                        "TMF": 85.53,
+                                        "SGP": 1081.38,
+                                        "SRC": 0.00
+                                    }
+                                }
+                            },
+                            {
+                                "day": 13,
+                                "fc": {
+                                    "CMU": 0.00,
+                                    "BF": 1081.38,
+                                    "TAF": 0.00,
+                                    "TF": 1081.38,
+                                    "NF": 1081.38
+                                },
+                                "afc": {
+                                    "TAF": {
+                                        "TSF": 57.40,
+                                        "SAC": 85.53,
+                                        "SNP": 995.85,
+                                        "TTSF": 57.40,
+                                        "SBP": 1023.98,
+                                        "TMF": 85.53,
+                                        "SGP": 1081.38,
+                                        "SRC": 0.00
+                                    }
+                                }
+                            },
+                            {
+                                "day": 14,
+                                "fc": {
+                                    "CMU": 0.00,
+                                    "BF": 1081.38,
+                                    "TAF": 0.00,
+                                    "TF": 1081.38,
+                                    "NF": 1081.38
+                                },
+                                "afc": {
+                                    "TAF": {
+                                        "TSF": 57.40,
+                                        "SAC": 85.53,
+                                        "SNP": 995.85,
+                                        "TTSF": 57.40,
+                                        "SBP": 1023.98,
+                                        "TMF": 85.53,
+                                        "SGP": 1081.38,
+                                        "SRC": 0.00
+                                    }
+                                }
+                            }
+                        ],
+                        "fcs": [
+                            "Free WiFi"
+                        ],
+                        "imgs": [
+                            {
+                                "url": "https://i.travelapi.com/lodging/5000000/4930000/4928500/4928439/65104771_z.jpg",
+                                "sz": "XXL",
+                                "rids": [
+                                    "200148645",
+                                    "211803612"
+                                ]
+                            }
+                        ],
+                        "irrh": true,
+                        "radi": {
+                            "rid": "211803612"
+                        },
+                        "op": "1",
+                        "rexb": {
+                            "BENEFIT": [
+                                {
+                                    "values": [
+                                        "Free WiFi"
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "id": "45_0_4928439",
+                "tp": 15139.32,
+                "sc": "INR",
+                "roe": 1.0,
+                "cnp": {
+                    "id": "211803612_401174725_37321--48788686",
+                    "ifra": true,
+                    "inra": false,
+                    "pd": [
+                        {
+                            "fdt": "2026-03-13T03:04",
+                            "tdt": "2026-08-29T23:59",
+                            "am": 0.00,
+                            "pp": 0.00
+                        },
+                        {
+                            "fdt": "2026-08-29T23:59",
+                            "tdt": "2026-09-01T00:00",
+                            "am": 1081.38,
+                            "rn": 1
+                        },
+                        {
+                            "fdt": "2026-09-01T00:00",
+                            "tdt": "2026-09-15T23:59",
+                            "am": 15139.32
+                        }
+                    ]
+                },
+                "ddt": "2026-08-29T23:59",
+                "oai": {
+                    "sid": "45"
+                },
+                "ispr": true,
+                "ipr": true,
+                "omid": "334220312",
+                "ipm": false,
+                "cpb": 24
+            },
+            {
+                "ris": [
+                    {
+                        "id": "211803612_232071334_37321##1",
+                        "rc": "Economy Room, 2 Bedrooms",
+                        "rt": "Economy Room, 2 Bedrooms-1 King Bed",
+                        "srn": "Economy, 2 Bedroom",
+                        "adt": 1,
+                        "chd": 0,
+                        "pdes": [],
+                        "mb": "ROOM ONLY",
+                        "tp": 16875.04,
+                        "tfcs": {
+                            "TAF": 0.00,
+                            "TF": 16875.04,
+                            "NF": 16875.04,
+                            "CMU": 0.00,
+                            "BF": 16875.04
+                        },
+                        "tafcs": {
+                            "TAF": {
+                                "TSF": 803.60,
+                                "SAC": 2160.20,
+                                "SNP": 14714.84,
+                                "TTSF": 803.60,
+                                "SBP": 16071.44,
+                                "TMF": 2160.20,
+                                "SGP": 16875.04,
+                                "SRC": 0.00
+                            }
+                        },
+                        "pis": [
+                            {
+                                "day": 1,
+                                "fc": {
+                                    "CMU": 0.00,
+                                    "BF": 1205.36,
+                                    "TAF": 0.00,
+                                    "TF": 1205.36,
+                                    "NF": 1205.36
+                                },
+                                "afc": {
+                                    "TAF": {
+                                        "TSF": 57.40,
+                                        "SAC": 154.30,
+                                        "SNP": 1051.06,
+                                        "TTSF": 57.40,
+                                        "SBP": 1147.96,
+                                        "TMF": 154.30,
+                                        "SGP": 1205.36,
+                                        "SRC": 0.00
+                                    }
+                                }
+                            },
+                            {
+                                "day": 2,
+                                "fc": {
+                                    "CMU": 0.00,
+                                    "BF": 1205.36,
+                                    "TAF": 0.00,
+                                    "TF": 1205.36,
+                                    "NF": 1205.36
+                                },
+                                "afc": {
+                                    "TAF": {
+                                        "TSF": 57.40,
+                                        "SAC": 154.30,
+                                        "SNP": 1051.06,
+                                        "TTSF": 57.40,
+                                        "SBP": 1147.96,
+                                        "TMF": 154.30,
+                                        "SGP": 1205.36,
+                                        "SRC": 0.00
+                                    }
+                                }
+                            },
+                            {
+                                "day": 3,
+                                "fc": {
+                                    "CMU": 0.00,
+                                    "BF": 1205.36,
+                                    "TAF": 0.00,
+                                    "TF": 1205.36,
+                                    "NF": 1205.36
+                                },
+                                "afc": {
+                                    "TAF": {
+                                        "TSF": 57.40,
+                                        "SAC": 154.30,
+                                        "SNP": 1051.06,
+                                        "TTSF": 57.40,
+                                        "SBP": 1147.96,
+                                        "TMF": 154.30,
+                                        "SGP": 1205.36,
+                                        "SRC": 0.00
+                                    }
+                                }
+                            },
+                            {
+                                "day": 4,
+                                "fc": {
+                                    "CMU": 0.00,
+                                    "BF": 1205.36,
+                                    "TAF": 0.00,
+                                    "TF": 1205.36,
+                                    "NF": 1205.36
+                                },
+                                "afc": {
+                                    "TAF": {
+                                        "TSF": 57.40,
+                                        "SAC": 154.30,
+                                        "SNP": 1051.06,
+                                        "TTSF": 57.40,
+                                        "SBP": 1147.96,
+                                        "TMF": 154.30,
+                                        "SGP": 1205.36,
+                                        "SRC": 0.00
+                                    }
+                                }
+                            },
+                            {
+                                "day": 5,
+                                "fc": {
+                                    "CMU": 0.00,
+                                    "BF": 1205.36,
+                                    "TAF": 0.00,
+                                    "TF": 1205.36,
+                                    "NF": 1205.36
+                                },
+                                "afc": {
+                                    "TAF": {
+                                        "TSF": 57.40,
+                                        "SAC": 154.30,
+                                        "SNP": 1051.06,
+                                        "TTSF": 57.40,
+                                        "SBP": 1147.96,
+                                        "TMF": 154.30,
+                                        "SGP": 1205.36,
+                                        "SRC": 0.00
+                                    }
+                                }
+                            },
+                            {
+                                "day": 6,
+                                "fc": {
+                                    "CMU": 0.00,
+                                    "BF": 1205.36,
+                                    "TAF": 0.00,
+                                    "TF": 1205.36,
+                                    "NF": 1205.36
+                                },
+                                "afc": {
+                                    "TAF": {
+                                        "TSF": 57.40,
+                                        "SAC": 154.30,
+                                        "SNP": 1051.06,
+                                        "TTSF": 57.40,
+                                        "SBP": 1147.96,
+                                        "TMF": 154.30,
+                                        "SGP": 1205.36,
+                                        "SRC": 0.00
+                                    }
+                                }
+                            },
+                            {
+                                "day": 7,
+                                "fc": {
+                                    "CMU": 0.00,
+                                    "BF": 1205.36,
+                                    "TAF": 0.00,
+                                    "TF": 1205.36,
+                                    "NF": 1205.36
+                                },
+                                "afc": {
+                                    "TAF": {
+                                        "TSF": 57.40,
+                                        "SAC": 154.30,
+                                        "SNP": 1051.06,
+                                        "TTSF": 57.40,
+                                        "SBP": 1147.96,
+                                        "TMF": 154.30,
+                                        "SGP": 1205.36,
+                                        "SRC": 0.00
+                                    }
+                                }
+                            },
+                            {
+                                "day": 8,
+                                "fc": {
+                                    "CMU": 0.00,
+                                    "BF": 1205.36,
+                                    "TAF": 0.00,
+                                    "TF": 1205.36,
+                                    "NF": 1205.36
+                                },
+                                "afc": {
+                                    "TAF": {
+                                        "TSF": 57.40,
+                                        "SAC": 154.30,
+                                        "SNP": 1051.06,
+                                        "TTSF": 57.40,
+                                        "SBP": 1147.96,
+                                        "TMF": 154.30,
+                                        "SGP": 1205.36,
+                                        "SRC": 0.00
+                                    }
+                                }
+                            },
+                            {
+                                "day": 9,
+                                "fc": {
+                                    "CMU": 0.00,
+                                    "BF": 1205.36,
+                                    "TAF": 0.00,
+                                    "TF": 1205.36,
+                                    "NF": 1205.36
+                                },
+                                "afc": {
+                                    "TAF": {
+                                        "TSF": 57.40,
+                                        "SAC": 154.30,
+                                        "SNP": 1051.06,
+                                        "TTSF": 57.40,
+                                        "SBP": 1147.96,
+                                        "TMF": 154.30,
+                                        "SGP": 1205.36,
+                                        "SRC": 0.00
+                                    }
+                                }
+                            },
+                            {
+                                "day": 10,
+                                "fc": {
+                                    "CMU": 0.00,
+                                    "BF": 1205.36,
+                                    "TAF": 0.00,
+                                    "TF": 1205.36,
+                                    "NF": 1205.36
+                                },
+                                "afc": {
+                                    "TAF": {
+                                        "TSF": 57.40,
+                                        "SAC": 154.30,
+                                        "SNP": 1051.06,
+                                        "TTSF": 57.40,
+                                        "SBP": 1147.96,
+                                        "TMF": 154.30,
+                                        "SGP": 1205.36,
+                                        "SRC": 0.00
+                                    }
+                                }
+                            },
+                            {
+                                "day": 11,
+                                "fc": {
+                                    "CMU": 0.00,
+                                    "BF": 1205.36,
+                                    "TAF": 0.00,
+                                    "TF": 1205.36,
+                                    "NF": 1205.36
+                                },
+                                "afc": {
+                                    "TAF": {
+                                        "TSF": 57.40,
+                                        "SAC": 154.30,
+                                        "SNP": 1051.06,
+                                        "TTSF": 57.40,
+                                        "SBP": 1147.96,
+                                        "TMF": 154.30,
+                                        "SGP": 1205.36,
+                                        "SRC": 0.00
+                                    }
+                                }
+                            },
+                            {
+                                "day": 12,
+                                "fc": {
+                                    "CMU": 0.00,
+                                    "BF": 1205.36,
+                                    "TAF": 0.00,
+                                    "TF": 1205.36,
+                                    "NF": 1205.36
+                                },
+                                "afc": {
+                                    "TAF": {
+                                        "TSF": 57.40,
+                                        "SAC": 154.30,
+                                        "SNP": 1051.06,
+                                        "TTSF": 57.40,
+                                        "SBP": 1147.96,
+                                        "TMF": 154.30,
+                                        "SGP": 1205.36,
+                                        "SRC": 0.00
+                                    }
+                                }
+                            },
+                            {
+                                "day": 13,
+                                "fc": {
+                                    "CMU": 0.00,
+                                    "BF": 1205.36,
+                                    "TAF": 0.00,
+                                    "TF": 1205.36,
+                                    "NF": 1205.36
+                                },
+                                "afc": {
+                                    "TAF": {
+                                        "TSF": 57.40,
+                                        "SAC": 154.30,
+                                        "SNP": 1051.06,
+                                        "TTSF": 57.40,
+                                        "SBP": 1147.96,
+                                        "TMF": 154.30,
+                                        "SGP": 1205.36,
+                                        "SRC": 0.00
+                                    }
+                                }
+                            },
+                            {
+                                "day": 14,
+                                "fc": {
+                                    "CMU": 0.00,
+                                    "BF": 1205.36,
+                                    "TAF": 0.00,
+                                    "TF": 1205.36,
+                                    "NF": 1205.36
+                                },
+                                "afc": {
+                                    "TAF": {
+                                        "TSF": 57.40,
+                                        "SAC": 154.30,
+                                        "SNP": 1051.06,
+                                        "TTSF": 57.40,
+                                        "SBP": 1147.96,
+                                        "TMF": 154.30,
+                                        "SGP": 1205.36,
+                                        "SRC": 0.00
+                                    }
+                                }
+                            }
+                        ],
+                        "fcs": [
+                            "Free WiFi"
+                        ],
+                        "imgs": [
+                            {
+                                "url": "https://i.travelapi.com/lodging/5000000/4930000/4928500/4928439/65104771_z.jpg",
+                                "sz": "XXL",
+                                "rids": [
+                                    "200148645",
+                                    "211803612"
+                                ]
+                            }
+                        ],
+                        "irrh": true,
+                        "radi": {
+                            "rid": "211803612"
+                        },
+                        "op": "1",
+                        "rexb": {
+                            "BENEFIT": [
+                                {
+                                    "values": [
+                                        "Free WiFi"
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "id": "42_2_4928439",
+                "tp": 16875.04,
+                "sc": "INR",
+                "roe": 1.0,
+                "cnp": {
+                    "id": "211803612_232071334_37321",
+                    "ifra": true,
+                    "inra": false,
+                    "pd": [
+                        {
+                            "fdt": "2026-03-13T03:04",
+                            "tdt": "2026-08-29T23:59",
+                            "am": 0.00,
+                            "pp": 0.00
+                        },
+                        {
+                            "fdt": "2026-08-29T23:59",
+                            "tdt": "2026-09-01T00:00",
+                            "am": 1205.36,
+                            "rn": 1
+                        },
+                        {
+                            "fdt": "2026-09-01T00:00",
+                            "tdt": "2026-09-15T23:59",
+                            "am": 16875.04
+                        }
+                    ]
+                },
+                "ddt": "2026-08-29T23:59",
+                "oai": {
+                    "sid": "42"
+                },
+                "ipr": true,
+                "omid": "334220312",
+                "ipm": false,
+                "cpb": 24
+            }
+        ],
+        "pops": [
+            {
+                "fc": [
+                    "ROOM ONLY"
+                ],
+                "tpc": 3092.18,
+                "cb": 0.00
+            }
+        ],
+        "uid": "15079424",
+        "ifca": true,
+        "istjv": false,
+        "iuma": false,
+        "tjid": "100000430458",
+        "checkInTime": {
+            "endTime": "anytime",
+            "minAge": 18.00
+        },
+        "checkOutTime": {
+            "beginTime": "11:00 AM"
+        }
+    },
+    "searchQuery": {
+        "checkinDate": "2026-09-01",
+        "checkoutDate": "2026-09-15",
+        "roomInfo": [
+            {
+                "numberOfAdults": 1,
+                "numberOfChild": 0,
+                "childAge": []
+            }
+        ],
+        "searchCriteria": {
+            "city": "699261",
+            "countryName": "INDIA",
+            "cityName": "MUMBAI",
+            "nationality": "106",
+            "regionType": "MULTI_CITY_VICINITY"
+        },
+        "searchPreferences": {
+            "ratings": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "currency": "INR",
+            "fsc": true,
+            "ldo": false
+        },
+        "searchId": "hsid4753824254",
+        "isSearchCompleted": true,
+        "miscInfo": {}
+    },
+    "status": {
+        "success": true,
+        "httpStatus": 200
+    }
+}

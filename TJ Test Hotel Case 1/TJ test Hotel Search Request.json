@@ -1,0 +1,29 @@
+{
+    "searchQuery": {
+        "checkinDate": "2026-09-01",
+        "checkoutDate": "2026-09-15",
+        "roomInfo": [
+            {
+                "numberOfAdults": 1,
+                "numberOfChild": 0,
+                "childAge": []
+            }
+        ],
+        "searchCriteria": {
+            "city": "699261",
+            "nationality": "106",
+            "currency": "INR"
+        },
+        "searchPreferences": {
+            "ratings": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "fsc": true
+        }
+    },
+    "sync": true
+}

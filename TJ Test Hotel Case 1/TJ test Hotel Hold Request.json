@@ -1,0 +1,28 @@
+{
+    "bookingId": "TJS202602005956",
+    "roomTravellerInfo": [
+        {
+            "travellerInfo": [
+                {
+                    "fN": "testuser",
+                    "lN": "sdfsd",
+                    "ti": "Mr",
+                    "pt": "ADULT",
+                    "pan": "DUMPD8730H"
+                }
+            ]
+        }
+    ],
+    "deliveryInfo": {
+        "emails": [
+            "xyz@technogramsolutions.com"
+        ],
+        "contacts": [
+            "1234567890"
+        ],
+        "code": [
+            "+91"
+        ]
+    },
+    "type": "HOTEL"
+}

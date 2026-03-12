@@ -1,0 +1,531 @@
+{
+    "order": {
+        "bookingId": "TJS209002005966",
+        "amount": 10300.36,
+        "markup": 0.00,
+        "deliveryInfo": {
+            "emails": [
+                "xyz@technogramsolutions.com"
+            ],
+            "contacts": [
+                "1234567890"
+            ],
+            "code": [
+                "+91"
+            ]
+        },
+        "status": "SUCCESS",
+        "createdOn": "2026-03-13T03:38:58.818"
+    },
+    "itemInfos": {
+        "HOTEL": {
+            "hInfo": {
+                "name": "Urban Stays",
+                "des": "{\"amenities\":\"This hostel offers designated smoking areas.\",\"spoken_languages\":\"Hindi, English\",\"rooms\":\"Make yourself at home in one of the 90 guestrooms. Complimentary wireless internet access is available to keep you connected. Bathrooms have showers and complimentary toiletries.\",\"onsite_payments\":\"Debit cards, Cash, American Express\",\"dining\":\"Mingle with other guests at the complimentary reception, held daily.\",\"business_amenities\":\"Featured amenities include complimentary newspapers in the lobby, a 24-hour front desk, and laundry facilities.\",\"location\":\"With a stay at Urban Stays in Mumbai (Masjid Bandar), you'll be within a 5-minute drive of Colaba Causeway and Gateway of India.  This hostel is 10.2 mi (16.4 km) from U.S. Consulate General and 3.3 mi (5.3 km) from Marine Drive.\",\"attractions\":\"Distances are displayed to the nearest 0.1 mile and kilometer.  Mohammed Ali Road - 0.9 km / 0.6 mi  Crawford Market - 1.2 km / 0.7 mi  St George Hospital - 1.4 km / 0.9 mi  Shri Swaminarayan Temple - 1.5 km / 0.9 mi  St. Xavier's College - 1.7 km / 1.1 mi  Fashion Street Market - 1.9 km / 1.2 mi  Chor Bazaar - 2.1 km / 1.3 mi  Bombay Hospital - 2.3 km / 1.5 mi  Mumbai International Cruise Terminal - 2.4 km / 1.5 mi  Marine Drive - 2.4 km / 1.5 mi  Horniman Circle Gardens - 2.5 km / 1.5 mi  Reserve Bank of India - 2.5 km / 1.6 mi  Bombay Castle - 2.7 km / 1.7 mi  Prince Aly Khan Hospital - 2.8 km / 1.8 mi  Wankhede Stadium - 3 km / 1.9 mi  The nearest major airport is Chhatrapati Shivaji International Airport (BOM) - 28.3 km / 17.6 mi\",\"headline\":\"In Mumbai (Masjid Bandar)\"}",
+                "rt": 2,
+                "gl": {},
+                "ad": {
+                    "adr": "46 P D'Mello Rd A Rawal house",
+                    "postalCode": "400009",
+                    "city": {
+                        "name": "Mumbai"
+                    },
+                    "state": {
+                        "name": "MH"
+                    },
+                    "country": {
+                        "code": "IN",
+                        "name": "India"
+                    },
+                    "ctn": "Mumbai",
+                    "cn": "India"
+                },
+                "ops": [
+                    {
+                        "ris": [
+                            {
+                                "id": "328113551_408109869_37419##1",
+                                "rc": "Bed in 10 Bed Mixed AC Dormitory Room with Ensuite Bathroom",
+                                "rt": "Bed in 10 Bed Mixed AC Dormitory Room with Ensuite Bathroom-5 Twin Bunk Beds",
+                                "srn": "Dormitory Ensuite, 10 Bed",
+                                "adt": 4,
+                                "chd": 2,
+                                "pdes": [],
+                                "mb": "ROOM ONLY",
+                                "tp": 10300.36,
+                                "tfcs": {
+                                    "TAF": 0.00,
+                                    "TF": 10300.36,
+                                    "NF": 10300.36,
+                                    "CMU": 0.00,
+                                    "BF": 10300.36
+                                },
+                                "tafcs": {
+                                    "TAF": {
+                                        "SAC": 930.86,
+                                        "SNP": 9369.64,
+                                        "TSF": 491.96,
+                                        "TTSF": 491.96,
+                                        "SBP": 9808.54,
+                                        "SGP": 10300.36,
+                                        "TMF": 930.86,
+                                        "SRC": 0.00
+                                    }
+                                },
+                                "ddt": "2026-08-30T18:00",
+                                "pis": [
+                                    {
+                                        "day": 1,
+                                        "fc": {
+                                            "BF": 735.74,
+                                            "NF": 735.74,
+                                            "TF": 735.74,
+                                            "CMU": 0.00,
+                                            "TAF": 0.00
+                                        },
+                                        "afc": {
+                                            "TAF": {
+                                                "SAC": 66.49,
+                                                "SNP": 669.26,
+                                                "TSF": 35.14,
+                                                "TTSF": 35.14,
+                                                "SBP": 700.61,
+                                                "SGP": 735.74,
+                                                "TMF": 66.49,
+                                                "SRC": 0.00
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "day": 2,
+                                        "fc": {
+                                            "BF": 735.74,
+                                            "NF": 735.74,
+                                            "TF": 735.74,
+                                            "CMU": 0.00,
+                                            "TAF": 0.00
+                                        },
+                                        "afc": {
+                                            "TAF": {
+                                                "SAC": 66.49,
+                                                "SNP": 669.26,
+                                                "TSF": 35.14,
+                                                "TTSF": 35.14,
+                                                "SBP": 700.61,
+                                                "SGP": 735.74,
+                                                "TMF": 66.49,
+                                                "SRC": 0.00
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "day": 3,
+                                        "fc": {
+                                            "BF": 735.74,
+                                            "NF": 735.74,
+                                            "TF": 735.74,
+                                            "CMU": 0.00,
+                                            "TAF": 0.00
+                                        },
+                                        "afc": {
+                                            "TAF": {
+                                                "SAC": 66.49,
+                                                "SNP": 669.26,
+                                                "TSF": 35.14,
+                                                "TTSF": 35.14,
+                                                "SBP": 700.61,
+                                                "SGP": 735.74,
+                                                "TMF": 66.49,
+                                                "SRC": 0.00
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "day": 4,
+                                        "fc": {
+                                            "BF": 735.74,
+                                            "NF": 735.74,
+                                            "TF": 735.74,
+                                            "CMU": 0.00,
+                                            "TAF": 0.00
+                                        },
+                                        "afc": {
+                                            "TAF": {
+                                                "SAC": 66.49,
+                                                "SNP": 669.26,
+                                                "TSF": 35.14,
+                                                "TTSF": 35.14,
+                                                "SBP": 700.61,
+                                                "SGP": 735.74,
+                                                "TMF": 66.49,
+                                                "SRC": 0.00
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "day": 5,
+                                        "fc": {
+                                            "BF": 735.74,
+                                            "NF": 735.74,
+                                            "TF": 735.74,
+                                            "CMU": 0.00,
+                                            "TAF": 0.00
+                                        },
+                                        "afc": {
+                                            "TAF": {
+                                                "SAC": 66.49,
+                                                "SNP": 669.26,
+                                                "TSF": 35.14,
+                                                "TTSF": 35.14,
+                                                "SBP": 700.61,
+                                                "SGP": 735.74,
+                                                "TMF": 66.49,
+                                                "SRC": 0.00
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "day": 6,
+                                        "fc": {
+                                            "BF": 735.74,
+                                            "NF": 735.74,
+                                            "TF": 735.74,
+                                            "CMU": 0.00,
+                                            "TAF": 0.00
+                                        },
+                                        "afc": {
+                                            "TAF": {
+                                                "SAC": 66.49,
+                                                "SNP": 669.26,
+                                                "TSF": 35.14,
+                                                "TTSF": 35.14,
+                                                "SBP": 700.61,
+                                                "SGP": 735.74,
+                                                "TMF": 66.49,
+                                                "SRC": 0.00
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "day": 7,
+                                        "fc": {
+                                            "BF": 735.74,
+                                            "NF": 735.74,
+                                            "TF": 735.74,
+                                            "CMU": 0.00,
+                                            "TAF": 0.00
+                                        },
+                                        "afc": {
+                                            "TAF": {
+                                                "SAC": 66.49,
+                                                "SNP": 669.26,
+                                                "TSF": 35.14,
+                                                "TTSF": 35.14,
+                                                "SBP": 700.61,
+                                                "SGP": 735.74,
+                                                "TMF": 66.49,
+                                                "SRC": 0.00
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "day": 8,
+                                        "fc": {
+                                            "BF": 735.74,
+                                            "NF": 735.74,
+                                            "TF": 735.74,
+                                            "CMU": 0.00,
+                                            "TAF": 0.00
+                                        },
+                                        "afc": {
+                                            "TAF": {
+                                                "SAC": 66.49,
+                                                "SNP": 669.26,
+                                                "TSF": 35.14,
+                                                "TTSF": 35.14,
+                                                "SBP": 700.61,
+                                                "SGP": 735.74,
+                                                "TMF": 66.49,
+                                                "SRC": 0.00
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "day": 9,
+                                        "fc": {
+                                            "BF": 735.74,
+                                            "NF": 735.74,
+                                            "TF": 735.74,
+                                            "CMU": 0.00,
+                                            "TAF": 0.00
+                                        },
+                                        "afc": {
+                                            "TAF": {
+                                                "SAC": 66.49,
+                                                "SNP": 669.26,
+                                                "TSF": 35.14,
+                                                "TTSF": 35.14,
+                                                "SBP": 700.61,
+                                                "SGP": 735.74,
+                                                "TMF": 66.49,
+                                                "SRC": 0.00
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "day": 10,
+                                        "fc": {
+                                            "BF": 735.74,
+                                            "NF": 735.74,
+                                            "TF": 735.74,
+                                            "CMU": 0.00,
+                                            "TAF": 0.00
+                                        },
+                                        "afc": {
+                                            "TAF": {
+                                                "SAC": 66.49,
+                                                "SNP": 669.26,
+                                                "TSF": 35.14,
+                                                "TTSF": 35.14,
+                                                "SBP": 700.61,
+                                                "SGP": 735.74,
+                                                "TMF": 66.49,
+                                                "SRC": 0.00
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "day": 11,
+                                        "fc": {
+                                            "BF": 735.74,
+                                            "NF": 735.74,
+                                            "TF": 735.74,
+                                            "CMU": 0.00,
+                                            "TAF": 0.00
+                                        },
+                                        "afc": {
+                                            "TAF": {
+                                                "SAC": 66.49,
+                                                "SNP": 669.26,
+                                                "TSF": 35.14,
+                                                "TTSF": 35.14,
+                                                "SBP": 700.61,
+                                                "SGP": 735.74,
+                                                "TMF": 66.49,
+                                                "SRC": 0.00
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "day": 12,
+                                        "fc": {
+                                            "BF": 735.74,
+                                            "NF": 735.74,
+                                            "TF": 735.74,
+                                            "CMU": 0.00,
+                                            "TAF": 0.00
+                                        },
+                                        "afc": {
+                                            "TAF": {
+                                                "SAC": 66.49,
+                                                "SNP": 669.26,
+                                                "TSF": 35.14,
+                                                "TTSF": 35.14,
+                                                "SBP": 700.61,
+                                                "SGP": 735.74,
+                                                "TMF": 66.49,
+                                                "SRC": 0.00
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "day": 13,
+                                        "fc": {
+                                            "BF": 735.74,
+                                            "NF": 735.74,
+                                            "TF": 735.74,
+                                            "CMU": 0.00,
+                                            "TAF": 0.00
+                                        },
+                                        "afc": {
+                                            "TAF": {
+                                                "SAC": 66.49,
+                                                "SNP": 669.26,
+                                                "TSF": 35.14,
+                                                "TTSF": 35.14,
+                                                "SBP": 700.61,
+                                                "SGP": 735.74,
+                                                "TMF": 66.49,
+                                                "SRC": 0.00
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "day": 14,
+                                        "fc": {
+                                            "BF": 735.74,
+                                            "NF": 735.74,
+                                            "TF": 735.74,
+                                            "CMU": 0.00,
+                                            "TAF": 0.00
+                                        },
+                                        "afc": {
+                                            "TAF": {
+                                                "SAC": 66.49,
+                                                "SNP": 669.26,
+                                                "TSF": 35.14,
+                                                "TTSF": 35.14,
+                                                "SBP": 700.61,
+                                                "SGP": 735.74,
+                                                "TMF": 66.49,
+                                                "SRC": 0.00
+                                            }
+                                        }
+                                    }
+                                ],
+                                "checkInDate": "2026-09-01",
+                                "checkOutDate": "2026-09-15",
+                                "ti": [
+                                    {
+                                        "ti": "Mr",
+                                        "pt": "ADULT",
+                                        "fN": "Maxine",
+                                        "lN": "Wallace"
+                                    },
+                                    {
+                                        "ti": "Mr",
+                                        "pt": "ADULT",
+                                        "fN": "Sigourney",
+                                        "lN": "Jenkins"
+                                    },
+                                    {
+                                        "ti": "Mr",
+                                        "pt": "ADULT",
+                                        "fN": "Petter",
+                                        "lN": "Jenkins"
+                                    },
+                                    {
+                                        "ti": "Mr",
+                                        "pt": "ADULT",
+                                        "fN": "maria",
+                                        "lN": "Jenkins"
+                                    },
+                                    {
+                                        "ti": "Master",
+                                        "pt": "CHILD",
+                                        "fN": "Child",
+                                        "lN": "Childa",
+                                        "age": 2
+                                    },
+                                    {
+                                        "ti": "Master",
+                                        "pt": "CHILD",
+                                        "fN": "Child",
+                                        "lN": "Childb",
+                                        "age": 3
+                                    }
+                                ],
+                                "ispfap": false,
+                                "iopr": false,
+                                "irrh": true,
+                                "radi": {
+                                    "rid": "328113551",
+                                    "bds": [
+                                        {
+                                            "bc": 10
+                                        }
+                                    ]
+                                },
+                                "op": "4-2,3",
+                                "rexb": {
+                                    "BENEFIT": [
+                                        {
+                                            "values": [
+                                                "Free WiFi"
+                                            ]
+                                        }
+                                    ]
+                                },
+                                "rsta": "S"
+                            }
+                        ],
+                        "tp": 10300.36,
+                        "sc": "USD",
+                        "roe": 71.71,
+                        "cnp": {
+                            "id": "328113551_408109869_37419",
+                            "ifra": true,
+                            "inra": false,
+                            "pd": [
+                                {
+                                    "fdt": "2026-03-13T03:29",
+                                    "tdt": "2026-08-30T18:00",
+                                    "am": 0.00,
+                                    "pp": 0.00
+                                },
+                                {
+                                    "fdt": "2026-08-30T18:00",
+                                    "tdt": "2026-09-01T00:00",
+                                    "am": 735.74,
+                                    "rn": 1
+                                },
+                                {
+                                    "fdt": "2026-09-01T00:00",
+                                    "tdt": "2026-09-15T23:59",
+                                    "am": 10300.36
+                                }
+                            ],
+                            "cpb": 24
+                        },
+                        "ddt": "2026-08-30T18:00",
+                        "inst": [],
+                        "oai": {
+                            "sid": "44"
+                        },
+                        "iopr": false,
+                        "ipr": true,
+                        "ipm": false,
+                        "iba": 10300.36
+                    }
+                ],
+                "uid": "72270820",
+                "checkInTime": {
+                    "minAge": 16.00,
+                    "endTime": "midnight"
+                },
+                "checkOutTime": {
+                    "beginTime": "11:00 AM"
+                }
+            },
+            "query": {
+                "checkinDate": "2026-09-01",
+                "checkoutDate": "2026-09-15",
+                "roomInfo": [
+                    {
+                        "numberOfAdults": 4,
+                        "numberOfChild": 2
+                    }
+                ],
+                "searchCriteria": {
+                    "city": "699261",
+                    "countryName": "INDIA",
+                    "nationality": "106"
+                },
+                "searchPreferences": {
+                    "currency": "INR"
+                },
+                "searchId": "hsid9366460258",
+                "isSearchCompleted": false
+            }
+        }
+    },
+    "gstInfo": {
+        "isez": false
+    },
+    "currentTime": "2026-03-13T03:39:41.007",
+    "isSystemPending": true,
+    "status": {
+        "success": true,
+        "httpStatus": 200
+    }
+}

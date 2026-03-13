@@ -1,0 +1,2684 @@
+{
+    "order": {
+        "bookingId": "TJS203202006049",
+        "amount": 202939.10,
+        "markup": 0.00,
+        "deliveryInfo": {
+            "emails": [
+                "xyz@technogramsolutions.com"
+            ],
+            "contacts": [
+                "1234567890"
+            ],
+            "code": [
+                "+91"
+            ]
+        },
+        "status": "CANCELLED",
+        "createdOn": "2026-03-13T10:31:32.008"
+    },
+    "itemInfos": {
+        "HOTEL": {
+            "hInfo": {
+                "name": "White Fort Hotel",
+                "des": "{\"amenities\":\"Take in the views from a garden and make use of amenities such as complimentary wireless internet access and concierge services.\",\"spoken_languages\":\"Hindi, Arabic, English\",\"rooms\":\"Make yourself at home in one of the 96 air-conditioned rooms featuring refrigerators and LED televisions. Complimentary wireless internet access keeps you connected, and cable programming is available for your entertainment. Private bathrooms with showers feature complimentary toiletries and hair dryers. Conveniences include phones, as well as safes and desks.\",\"onsite_payments\":\"Visa, Diners Club, Debit cards, Discover, Cash, American Express, JCB International, Mastercard\",\"dining\":\"Enjoy Chinese cuisine at White Fort, one of the hotel's 2 restaurants, or stay in and take advantage of the 24-hour room service. Buffet breakfasts are available daily from 8 AM to 10 AM for a fee.\",\"business_amenities\":\"Featured amenities include a business center, express check-out, and complimentary newspapers in the lobby.\",\"location\":\"With a stay at White Fort Hotel in Dubai (Deira), you'll be within a 5-minute drive of Gold Souk and City Centre Deira.  This hotel is 3.6 mi (5.8 km) from Dubai Creek and 7.4 mi (11.8 km) from Dubai Mall.\",\"attractions\":\"Distances are displayed to the nearest 0.1 mile and kilometer.  Naif Souq - 0.5 km / 0.3 mi  Deira Twin Towers Shopping Centre - 0.6 km / 0.3 mi  Spice Souq - 1 km / 0.6 mi  Deira Spice Souq - 1.1 km / 0.7 mi  Fish Roundabout - 1.1 km / 0.7 mi  Gold Souk - 1.1 km / 0.7 mi  Al Ghurair Centre - 1.4 km / 0.9 mi  Burj Nahar Mall - 1.4 km / 0.9 mi  Hindi Lane - 1.6 km / 1 mi  Dubai Museum - 1.8 km / 1.1 mi  Textile Souq - 2 km / 1.2 mi  Grand Mosque - 2 km / 1.3 mi  Sheikh Saeed Al Maktoum House - 2.1 km / 1.3 mi  The Dubai Heritage Village - 2.2 km / 1.3 mi  Meena Bazaar - 2.3 km / 1.4 mi  The nearest airports are:Dubai Intl. Airport (DXB) - 6.5 km / 4 mi Sharjah (SHJ-Sharjah Intl.) - 29.7 km / 18.4 mi Al Maktoum Intl. Airport (DWC) - 67.6 km / 42 mi The preferred airport for White Fort Hotel is Dubai Intl. Airport (DXB). \",\"headline\":\"Near Gold Souk\"}",
+                "rt": 1,
+                "gl": {},
+                "ad": {
+                    "adr": "Nasser Square, Near Baniyas",
+                    "adr2": "Metro Station",
+                    "postalCode": "83163",
+                    "city": {
+                        "name": "Dubai"
+                    },
+                    "state": {},
+                    "country": {
+                        "code": "AE",
+                        "name": "United Arab Emirates"
+                    },
+                    "ctn": "Dubai",
+                    "cn": "United Arab Emirates"
+                },
+                "ops": [
+                    {
+                        "ris": [
+                            {
+                                "id": "200931335_381785703_37341##3",
+                                "rc": "Standard Double or Twin Room-2 Twin Beds",
+                                "rt": "Standard Double or Twin Room-2 Twin Beds",
+                                "srn": "DoubleOrTwin Room",
+                                "adt": 1,
+                                "chd": 2,
+                                "pdes": [],
+                                "mb": "ROOM ONLY",
+                                "tp": 40587.82,
+                                "tfcs": {
+                                    "BF": 40587.82,
+                                    "AAR": 0.00,
+                                    "TF": 40587.82,
+                                    "CMU": 0.00,
+                                    "TAF": 0.00,
+                                    "NF": 40587.82,
+                                    "CTDS": 0.00,
+                                    "CNWTDS": 0.00
+                                },
+                                "tafcs": {
+                                    "TAF": {
+                                        "SDS": 0.00,
+                                        "SAC": 0.00,
+                                        "TMF": 2179.94,
+                                        "SNP": 0.00,
+                                        "TTSF": 0.00,
+                                        "PRF": 3542.42,
+                                        "SRC": 0.00,
+                                        "SCF": 40587.82,
+                                        "TSF": 4427.36,
+                                        "CB": 0.00,
+                                        "CBTDS": 0.00,
+                                        "SBP": 0.00,
+                                        "SGP": 0.00
+                                    }
+                                },
+                                "ddt": "2026-03-13T10:27:39.922",
+                                "pis": [
+                                    {
+                                        "day": 1,
+                                        "fc": {
+                                            "BF": 2899.13,
+                                            "NF": 2899.13,
+                                            "TF": 2899.13,
+                                            "AAR": 0.00,
+                                            "CMU": 0.00,
+                                            "CTDS": 0.00,
+                                            "CNWTDS": 0.00,
+                                            "TAF": 0.00
+                                        },
+                                        "afc": {
+                                            "TAF": {
+                                                "SDS": 0.00,
+                                                "SAC": 0.00,
+                                                "TMF": 155.71,
+                                                "SNP": 0.00,
+                                                "TTSF": 0.00,
+                                                "PRF": 253.03,
+                                                "SRC": 0.00,
+                                                "SCF": 2899.13,
+                                                "TSF": 316.24,
+                                                "CB": 0.00,
+                                                "CBTDS": 0.00,
+                                                "SBP": 0.00,
+                                                "SGP": 0.00
+                                            }
+                                        },
+                                        "trbf": false
+                                    },
+                                    {
+                                        "day": 2,
+                                        "fc": {
+                                            "BF": 2899.13,
+                                            "NF": 2899.13,
+                                            "TF": 2899.13,
+                                            "AAR": 0.00,
+                                            "CMU": 0.00,
+                                            "CTDS": 0.00,
+                                            "CNWTDS": 0.00,
+                                            "TAF": 0.00
+                                        },
+                                        "afc": {
+                                            "TAF": {
+                                                "SDS": 0.00,
+                                                "SAC": 0.00,
+                                                "TMF": 155.71,
+                                                "SNP": 0.00,
+                                                "TTSF": 0.00,
+                                                "PRF": 253.03,
+                                                "SRC": 0.00,
+                                                "SCF": 2899.13,
+                                                "TSF": 316.24,
+                                                "CB": 0.00,
+                                                "CBTDS": 0.00,
+                                                "SBP": 0.00,
+                                                "SGP": 0.00
+                                            }
+                                        },
+                                        "trbf": false
+                                    },
+                                    {
+                                        "day": 3,
+                                        "fc": {
+                                            "BF": 2899.13,
+                                            "NF": 2899.13,
+                                            "TF": 2899.13,
+                                            "AAR": 0.00,
+                                            "CMU": 0.00,
+                                            "CTDS": 0.00,
+                                            "CNWTDS": 0.00,
+                                            "TAF": 0.00
+                                        },
+                                        "afc": {
+                                            "TAF": {
+                                                "SDS": 0.00,
+                                                "SAC": 0.00,
+                                                "TMF": 155.71,
+                                                "SNP": 0.00,
+                                                "TTSF": 0.00,
+                                                "PRF": 253.03,
+                                                "SRC": 0.00,
+                                                "SCF": 2899.13,
+                                                "TSF": 316.24,
+                                                "CB": 0.00,
+                                                "CBTDS": 0.00,
+                                                "SBP": 0.00,
+                                                "SGP": 0.00
+                                            }
+                                        },
+                                        "trbf": false
+                                    },
+                                    {
+                                        "day": 4,
+                                        "fc": {
+                                            "BF": 2899.13,
+                                            "NF": 2899.13,
+                                            "TF": 2899.13,
+                                            "AAR": 0.00,
+                                            "CMU": 0.00,
+                                            "CTDS": 0.00,
+                                            "CNWTDS": 0.00,
+                                            "TAF": 0.00
+                                        },
+                                        "afc": {
+                                            "TAF": {
+                                                "SDS": 0.00,
+                                                "SAC": 0.00,
+                                                "TMF": 155.71,
+                                                "SNP": 0.00,
+                                                "TTSF": 0.00,
+                                                "PRF": 253.03,
+                                                "SRC": 0.00,
+                                                "SCF": 2899.13,
+                                                "TSF": 316.24,
+                                                "CB": 0.00,
+                                                "CBTDS": 0.00,
+                                                "SBP": 0.00,
+                                                "SGP": 0.00
+                                            }
+                                        },
+                                        "trbf": false
+                                    },
+                                    {
+                                        "day": 5,
+                                        "fc": {
+                                            "BF": 2899.13,
+                                            "NF": 2899.13,
+                                            "TF": 2899.13,
+                                            "AAR": 0.00,
+                                            "CMU": 0.00,
+                                            "CTDS": 0.00,
+                                            "CNWTDS": 0.00,
+                                            "TAF": 0.00
+                                        },
+                                        "afc": {
+                                            "TAF": {
+                                                "SDS": 0.00,
+                                                "SAC": 0.00,
+                                                "TMF": 155.71,
+                                                "SNP": 0.00,
+                                                "TTSF": 0.00,
+                                                "PRF": 253.03,
+                                                "SRC": 0.00,
+                                                "SCF": 2899.13,
+                                                "TSF": 316.24,
+                                                "CB": 0.00,
+                                                "CBTDS": 0.00,
+                                                "SBP": 0.00,
+                                                "SGP": 0.00
+                                            }
+                                        },
+                                        "trbf": false
+                                    },
+                                    {
+                                        "day": 6,
+                                        "fc": {
+                                            "BF": 2899.13,
+                                            "NF": 2899.13,
+                                            "TF": 2899.13,
+                                            "AAR": 0.00,
+                                            "CMU": 0.00,
+                                            "CTDS": 0.00,
+                                            "CNWTDS": 0.00,
+                                            "TAF": 0.00
+                                        },
+                                        "afc": {
+                                            "TAF": {
+                                                "SDS": 0.00,
+                                                "SAC": 0.00,
+                                                "TMF": 155.71,
+                                                "SNP": 0.00,
+                                                "TTSF": 0.00,
+                                                "PRF": 253.03,
+                                                "SRC": 0.00,
+                                                "SCF": 2899.13,
+                                                "TSF": 316.24,
+                                                "CB": 0.00,
+                                                "CBTDS": 0.00,
+                                                "SBP": 0.00,
+                                                "SGP": 0.00
+                                            }
+                                        },
+                                        "trbf": false
+                                    },
+                                    {
+                                        "day": 7,
+                                        "fc": {
+                                            "BF": 2899.13,
+                                            "NF": 2899.13,
+                                            "TF": 2899.13,
+                                            "AAR": 0.00,
+                                            "CMU": 0.00,
+                                            "CTDS": 0.00,
+                                            "CNWTDS": 0.00,
+                                            "TAF": 0.00
+                                        },
+                                        "afc": {
+                                            "TAF": {
+                                                "SDS": 0.00,
+                                                "SAC": 0.00,
+                                                "TMF": 155.71,
+                                                "SNP": 0.00,
+                                                "TTSF": 0.00,
+                                                "PRF": 253.03,
+                                                "SRC": 0.00,
+                                                "SCF": 2899.13,
+                                                "TSF": 316.24,
+                                                "CB": 0.00,
+                                                "CBTDS": 0.00,
+                                                "SBP": 0.00,
+                                                "SGP": 0.00
+                                            }
+                                        },
+                                        "trbf": false
+                                    },
+                                    {
+                                        "day": 8,
+                                        "fc": {
+                                            "BF": 2899.13,
+                                            "NF": 2899.13,
+                                            "TF": 2899.13,
+                                            "AAR": 0.00,
+                                            "CMU": 0.00,
+                                            "CTDS": 0.00,
+                                            "CNWTDS": 0.00,
+                                            "TAF": 0.00
+                                        },
+                                        "afc": {
+                                            "TAF": {
+                                                "SDS": 0.00,
+                                                "SAC": 0.00,
+                                                "TMF": 155.71,
+                                                "SNP": 0.00,
+                                                "TTSF": 0.00,
+                                                "PRF": 253.03,
+                                                "SRC": 0.00,
+                                                "SCF": 2899.13,
+                                                "TSF": 316.24,
+                                                "CB": 0.00,
+                                                "CBTDS": 0.00,
+                                                "SBP": 0.00,
+                                                "SGP": 0.00
+                                            }
+                                        },
+                                        "trbf": false
+                                    },
+                                    {
+                                        "day": 9,
+                                        "fc": {
+                                            "BF": 2899.13,
+                                            "NF": 2899.13,
+                                            "TF": 2899.13,
+                                            "AAR": 0.00,
+                                            "CMU": 0.00,
+                                            "CTDS": 0.00,
+                                            "CNWTDS": 0.00,
+                                            "TAF": 0.00
+                                        },
+                                        "afc": {
+                                            "TAF": {
+                                                "SDS": 0.00,
+                                                "SAC": 0.00,
+                                                "TMF": 155.71,
+                                                "SNP": 0.00,
+                                                "TTSF": 0.00,
+                                                "PRF": 253.03,
+                                                "SRC": 0.00,
+                                                "SCF": 2899.13,
+                                                "TSF": 316.24,
+                                                "CB": 0.00,
+                                                "CBTDS": 0.00,
+                                                "SBP": 0.00,
+                                                "SGP": 0.00
+                                            }
+                                        },
+                                        "trbf": false
+                                    },
+                                    {
+                                        "day": 10,
+                                        "fc": {
+                                            "BF": 2899.13,
+                                            "NF": 2899.13,
+                                            "TF": 2899.13,
+                                            "AAR": 0.00,
+                                            "CMU": 0.00,
+                                            "CTDS": 0.00,
+                                            "CNWTDS": 0.00,
+                                            "TAF": 0.00
+                                        },
+                                        "afc": {
+                                            "TAF": {
+                                                "SDS": 0.00,
+                                                "SAC": 0.00,
+                                                "TMF": 155.71,
+                                                "SNP": 0.00,
+                                                "TTSF": 0.00,
+                                                "PRF": 253.03,
+                                                "SRC": 0.00,
+                                                "SCF": 2899.13,
+                                                "TSF": 316.24,
+                                                "CB": 0.00,
+                                                "CBTDS": 0.00,
+                                                "SBP": 0.00,
+                                                "SGP": 0.00
+                                            }
+                                        },
+                                        "trbf": false
+                                    },
+                                    {
+                                        "day": 11,
+                                        "fc": {
+                                            "BF": 2899.13,
+                                            "NF": 2899.13,
+                                            "TF": 2899.13,
+                                            "AAR": 0.00,
+                                            "CMU": 0.00,
+                                            "CTDS": 0.00,
+                                            "CNWTDS": 0.00,
+                                            "TAF": 0.00
+                                        },
+                                        "afc": {
+                                            "TAF": {
+                                                "SDS": 0.00,
+                                                "SAC": 0.00,
+                                                "TMF": 155.71,
+                                                "SNP": 0.00,
+                                                "TTSF": 0.00,
+                                                "PRF": 253.03,
+                                                "SRC": 0.00,
+                                                "SCF": 2899.13,
+                                                "TSF": 316.24,
+                                                "CB": 0.00,
+                                                "CBTDS": 0.00,
+                                                "SBP": 0.00,
+                                                "SGP": 0.00
+                                            }
+                                        },
+                                        "trbf": false
+                                    },
+                                    {
+                                        "day": 12,
+                                        "fc": {
+                                            "BF": 2899.13,
+                                            "NF": 2899.13,
+                                            "TF": 2899.13,
+                                            "AAR": 0.00,
+                                            "CMU": 0.00,
+                                            "CTDS": 0.00,
+                                            "CNWTDS": 0.00,
+                                            "TAF": 0.00
+                                        },
+                                        "afc": {
+                                            "TAF": {
+                                                "SDS": 0.00,
+                                                "SAC": 0.00,
+                                                "TMF": 155.71,
+                                                "SNP": 0.00,
+                                                "TTSF": 0.00,
+                                                "PRF": 253.03,
+                                                "SRC": 0.00,
+                                                "SCF": 2899.13,
+                                                "TSF": 316.24,
+                                                "CB": 0.00,
+                                                "CBTDS": 0.00,
+                                                "SBP": 0.00,
+                                                "SGP": 0.00
+                                            }
+                                        },
+                                        "trbf": false
+                                    },
+                                    {
+                                        "day": 13,
+                                        "fc": {
+                                            "BF": 2899.13,
+                                            "NF": 2899.13,
+                                            "TF": 2899.13,
+                                            "AAR": 0.00,
+                                            "CMU": 0.00,
+                                            "CTDS": 0.00,
+                                            "CNWTDS": 0.00,
+                                            "TAF": 0.00
+                                        },
+                                        "afc": {
+                                            "TAF": {
+                                                "SDS": 0.00,
+                                                "SAC": 0.00,
+                                                "TMF": 155.71,
+                                                "SNP": 0.00,
+                                                "TTSF": 0.00,
+                                                "PRF": 253.03,
+                                                "SRC": 0.00,
+                                                "SCF": 2899.13,
+                                                "TSF": 316.24,
+                                                "CB": 0.00,
+                                                "CBTDS": 0.00,
+                                                "SBP": 0.00,
+                                                "SGP": 0.00
+                                            }
+                                        },
+                                        "trbf": false
+                                    },
+                                    {
+                                        "day": 14,
+                                        "fc": {
+                                            "BF": 2899.13,
+                                            "NF": 2899.13,
+                                            "TF": 2899.13,
+                                            "AAR": 0.00,
+                                            "CMU": 0.00,
+                                            "CTDS": 0.00,
+                                            "CNWTDS": 0.00,
+                                            "TAF": 0.00
+                                        },
+                                        "afc": {
+                                            "TAF": {
+                                                "SDS": 0.00,
+                                                "SAC": 0.00,
+                                                "TMF": 155.71,
+                                                "SNP": 0.00,
+                                                "TTSF": 0.00,
+                                                "PRF": 253.03,
+                                                "SRC": 0.00,
+                                                "SCF": 2899.13,
+                                                "TSF": 316.24,
+                                                "CB": 0.00,
+                                                "CBTDS": 0.00,
+                                                "SBP": 0.00,
+                                                "SGP": 0.00
+                                            }
+                                        },
+                                        "trbf": false
+                                    }
+                                ],
+                                "checkInDate": "2026-09-01",
+                                "checkOutDate": "2026-09-15",
+                                "ti": [
+                                    {
+                                        "ti": "Mr",
+                                        "pt": "ADULT",
+                                        "fN": "Ram",
+                                        "lN": "Adulta"
+                                    },
+                                    {
+                                        "ti": "Master",
+                                        "pt": "CHILD",
+                                        "fN": "Shyam",
+                                        "lN": "Childa",
+                                        "age": 2
+                                    },
+                                    {
+                                        "ti": "Master",
+                                        "pt": "CHILD",
+                                        "fN": "Hari",
+                                        "lN": "Childb",
+                                        "age": 3
+                                    }
+                                ],
+                                "ispfap": false,
+                                "iopr": false,
+                                "irrh": true,
+                                "radi": {
+                                    "rid": "200931335"
+                                },
+                                "op": "1-2,3",
+                                "rexb": {
+                                    "BENEFIT": [
+                                        {
+                                            "values": [
+                                                "Free WiFi"
+                                            ]
+                                        }
+                                    ]
+                                },
+                                "rsta": "C"
+                            },
+                            {
+                                "id": "200931335_381785703_37341##5",
+                                "rc": "Standard Double or Twin Room-2 Twin Beds",
+                                "rt": "Standard Double or Twin Room-2 Twin Beds",
+                                "srn": "DoubleOrTwin Room",
+                                "adt": 2,
+                                "chd": 1,
+                                "pdes": [],
+                                "mb": "ROOM ONLY",
+                                "tp": 40587.82,
+                                "tfcs": {
+                                    "BF": 40587.82,
+                                    "AAR": 0.00,
+                                    "TF": 40587.82,
+                                    "CMU": 0.00,
+                                    "TAF": 0.00,
+                                    "NF": 40587.82,
+                                    "CTDS": 0.00,
+                                    "CNWTDS": 0.00
+                                },
+                                "tafcs": {
+                                    "TAF": {
+                                        "SDS": 0.00,
+                                        "SAC": 0.00,
+                                        "TMF": 2179.94,
+                                        "SNP": 0.00,
+                                        "TTSF": 0.00,
+                                        "PRF": 3542.42,
+                                        "SRC": 0.00,
+                                        "SCF": 40587.82,
+                                        "TSF": 4427.36,
+                                        "CB": 0.00,
+                                        "CBTDS": 0.00,
+                                        "SBP": 0.00,
+                                        "SGP": 0.00
+                                    }
+                                },
+                                "ddt": "2026-03-13T10:27:39.922",
+                                "pis": [
+                                    {
+                                        "day": 1,
+                                        "fc": {
+                                            "BF": 2899.13,
+                                            "NF": 2899.13,
+                                            "TF": 2899.13,
+                                            "AAR": 0.00,
+                                            "CMU": 0.00,
+                                            "CTDS": 0.00,
+                                            "CNWTDS": 0.00,
+                                            "TAF": 0.00
+                                        },
+                                        "afc": {
+                                            "TAF": {
+                                                "SDS": 0.00,
+                                                "SAC": 0.00,
+                                                "TMF": 155.71,
+                                                "SNP": 0.00,
+                                                "TTSF": 0.00,
+                                                "PRF": 253.03,
+                                                "SRC": 0.00,
+                                                "SCF": 2899.13,
+                                                "TSF": 316.24,
+                                                "CB": 0.00,
+                                                "CBTDS": 0.00,
+                                                "SBP": 0.00,
+                                                "SGP": 0.00
+                                            }
+                                        },
+                                        "trbf": false
+                                    },
+                                    {
+                                        "day": 2,
+                                        "fc": {
+                                            "BF": 2899.13,
+                                            "NF": 2899.13,
+                                            "TF": 2899.13,
+                                            "AAR": 0.00,
+                                            "CMU": 0.00,
+                                            "CTDS": 0.00,
+                                            "CNWTDS": 0.00,
+                                            "TAF": 0.00
+                                        },
+                                        "afc": {
+                                            "TAF": {
+                                                "SDS": 0.00,
+                                                "SAC": 0.00,
+                                                "TMF": 155.71,
+                                                "SNP": 0.00,
+                                                "TTSF": 0.00,
+                                                "PRF": 253.03,
+                                                "SRC": 0.00,
+                                                "SCF": 2899.13,
+                                                "TSF": 316.24,
+                                                "CB": 0.00,
+                                                "CBTDS": 0.00,
+                                                "SBP": 0.00,
+                                                "SGP": 0.00
+                                            }
+                                        },
+                                        "trbf": false
+                                    },
+                                    {
+                                        "day": 3,
+                                        "fc": {
+                                            "BF": 2899.13,
+                                            "NF": 2899.13,
+                                            "TF": 2899.13,
+                                            "AAR": 0.00,
+                                            "CMU": 0.00,
+                                            "CTDS": 0.00,
+                                            "CNWTDS": 0.00,
+                                            "TAF": 0.00
+                                        },
+                                        "afc": {
+                                            "TAF": {
+                                                "SDS": 0.00,
+                                                "SAC": 0.00,
+                                                "TMF": 155.71,
+                                                "SNP": 0.00,
+                                                "TTSF": 0.00,
+                                                "PRF": 253.03,
+                                                "SRC": 0.00,
+                                                "SCF": 2899.13,
+                                                "TSF": 316.24,
+                                                "CB": 0.00,
+                                                "CBTDS": 0.00,
+                                                "SBP": 0.00,
+                                                "SGP": 0.00
+                                            }
+                                        },
+                                        "trbf": false
+                                    },
+                                    {
+                                        "day": 4,
+                                        "fc": {
+                                            "BF": 2899.13,
+                                            "NF": 2899.13,
+                                            "TF": 2899.13,
+                                            "AAR": 0.00,
+                                            "CMU": 0.00,
+                                            "CTDS": 0.00,
+                                            "CNWTDS": 0.00,
+                                            "TAF": 0.00
+                                        },
+                                        "afc": {
+                                            "TAF": {
+                                                "SDS": 0.00,
+                                                "SAC": 0.00,
+                                                "TMF": 155.71,
+                                                "SNP": 0.00,
+                                                "TTSF": 0.00,
+                                                "PRF": 253.03,
+                                                "SRC": 0.00,
+                                                "SCF": 2899.13,
+                                                "TSF": 316.24,
+                                                "CB": 0.00,
+                                                "CBTDS": 0.00,
+                                                "SBP": 0.00,
+                                                "SGP": 0.00
+                                            }
+                                        },
+                                        "trbf": false
+                                    },
+                                    {
+                                        "day": 5,
+                                        "fc": {
+                                            "BF": 2899.13,
+                                            "NF": 2899.13,
+                                            "TF": 2899.13,
+                                            "AAR": 0.00,
+                                            "CMU": 0.00,
+                                            "CTDS": 0.00,
+                                            "CNWTDS": 0.00,
+                                            "TAF": 0.00
+                                        },
+                                        "afc": {
+                                            "TAF": {
+                                                "SDS": 0.00,
+                                                "SAC": 0.00,
+                                                "TMF": 155.71,
+                                                "SNP": 0.00,
+                                                "TTSF": 0.00,
+                                                "PRF": 253.03,
+                                                "SRC": 0.00,
+                                                "SCF": 2899.13,
+                                                "TSF": 316.24,
+                                                "CB": 0.00,
+                                                "CBTDS": 0.00,
+                                                "SBP": 0.00,
+                                                "SGP": 0.00
+                                            }
+                                        },
+                                        "trbf": false
+                                    },
+                                    {
+                                        "day": 6,
+                                        "fc": {
+                                            "BF": 2899.13,
+                                            "NF": 2899.13,
+                                            "TF": 2899.13,
+                                            "AAR": 0.00,
+                                            "CMU": 0.00,
+                                            "CTDS": 0.00,
+                                            "CNWTDS": 0.00,
+                                            "TAF": 0.00
+                                        },
+                                        "afc": {
+                                            "TAF": {
+                                                "SDS": 0.00,
+                                                "SAC": 0.00,
+                                                "TMF": 155.71,
+                                                "SNP": 0.00,
+                                                "TTSF": 0.00,
+                                                "PRF": 253.03,
+                                                "SRC": 0.00,
+                                                "SCF": 2899.13,
+                                                "TSF": 316.24,
+                                                "CB": 0.00,
+                                                "CBTDS": 0.00,
+                                                "SBP": 0.00,
+                                                "SGP": 0.00
+                                            }
+                                        },
+                                        "trbf": false
+                                    },
+                                    {
+                                        "day": 7,
+                                        "fc": {
+                                            "BF": 2899.13,
+                                            "NF": 2899.13,
+                                            "TF": 2899.13,
+                                            "AAR": 0.00,
+                                            "CMU": 0.00,
+                                            "CTDS": 0.00,
+                                            "CNWTDS": 0.00,
+                                            "TAF": 0.00
+                                        },
+                                        "afc": {
+                                            "TAF": {
+                                                "SDS": 0.00,
+                                                "SAC": 0.00,
+                                                "TMF": 155.71,
+                                                "SNP": 0.00,
+                                                "TTSF": 0.00,
+                                                "PRF": 253.03,
+                                                "SRC": 0.00,
+                                                "SCF": 2899.13,
+                                                "TSF": 316.24,
+                                                "CB": 0.00,
+                                                "CBTDS": 0.00,
+                                                "SBP": 0.00,
+                                                "SGP": 0.00
+                                            }
+                                        },
+                                        "trbf": false
+                                    },
+                                    {
+                                        "day": 8,
+                                        "fc": {
+                                            "BF": 2899.13,
+                                            "NF": 2899.13,
+                                            "TF": 2899.13,
+                                            "AAR": 0.00,
+                                            "CMU": 0.00,
+                                            "CTDS": 0.00,
+                                            "CNWTDS": 0.00,
+                                            "TAF": 0.00
+                                        },
+                                        "afc": {
+                                            "TAF": {
+                                                "SDS": 0.00,
+                                                "SAC": 0.00,
+                                                "TMF": 155.71,
+                                                "SNP": 0.00,
+                                                "TTSF": 0.00,
+                                                "PRF": 253.03,
+                                                "SRC": 0.00,
+                                                "SCF": 2899.13,
+                                                "TSF": 316.24,
+                                                "CB": 0.00,
+                                                "CBTDS": 0.00,
+                                                "SBP": 0.00,
+                                                "SGP": 0.00
+                                            }
+                                        },
+                                        "trbf": false
+                                    },
+                                    {
+                                        "day": 9,
+                                        "fc": {
+                                            "BF": 2899.13,
+                                            "NF": 2899.13,
+                                            "TF": 2899.13,
+                                            "AAR": 0.00,
+                                            "CMU": 0.00,
+                                            "CTDS": 0.00,
+                                            "CNWTDS": 0.00,
+                                            "TAF": 0.00
+                                        },
+                                        "afc": {
+                                            "TAF": {
+                                                "SDS": 0.00,
+                                                "SAC": 0.00,
+                                                "TMF": 155.71,
+                                                "SNP": 0.00,
+                                                "TTSF": 0.00,
+                                                "PRF": 253.03,
+                                                "SRC": 0.00,
+                                                "SCF": 2899.13,
+                                                "TSF": 316.24,
+                                                "CB": 0.00,
+                                                "CBTDS": 0.00,
+                                                "SBP": 0.00,
+                                                "SGP": 0.00
+                                            }
+                                        },
+                                        "trbf": false
+                                    },
+                                    {
+                                        "day": 10,
+                                        "fc": {
+                                            "BF": 2899.13,
+                                            "NF": 2899.13,
+                                            "TF": 2899.13,
+                                            "AAR": 0.00,
+                                            "CMU": 0.00,
+                                            "CTDS": 0.00,
+                                            "CNWTDS": 0.00,
+                                            "TAF": 0.00
+                                        },
+                                        "afc": {
+                                            "TAF": {
+                                                "SDS": 0.00,
+                                                "SAC": 0.00,
+                                                "TMF": 155.71,
+                                                "SNP": 0.00,
+                                                "TTSF": 0.00,
+                                                "PRF": 253.03,
+                                                "SRC": 0.00,
+                                                "SCF": 2899.13,
+                                                "TSF": 316.24,
+                                                "CB": 0.00,
+                                                "CBTDS": 0.00,
+                                                "SBP": 0.00,
+                                                "SGP": 0.00
+                                            }
+                                        },
+                                        "trbf": false
+                                    },
+                                    {
+                                        "day": 11,
+                                        "fc": {
+                                            "BF": 2899.13,
+                                            "NF": 2899.13,
+                                            "TF": 2899.13,
+                                            "AAR": 0.00,
+                                            "CMU": 0.00,
+                                            "CTDS": 0.00,
+                                            "CNWTDS": 0.00,
+                                            "TAF": 0.00
+                                        },
+                                        "afc": {
+                                            "TAF": {
+                                                "SDS": 0.00,
+                                                "SAC": 0.00,
+                                                "TMF": 155.71,
+                                                "SNP": 0.00,
+                                                "TTSF": 0.00,
+                                                "PRF": 253.03,
+                                                "SRC": 0.00,
+                                                "SCF": 2899.13,
+                                                "TSF": 316.24,
+                                                "CB": 0.00,
+                                                "CBTDS": 0.00,
+                                                "SBP": 0.00,
+                                                "SGP": 0.00
+                                            }
+                                        },
+                                        "trbf": false
+                                    },
+                                    {
+                                        "day": 12,
+                                        "fc": {
+                                            "BF": 2899.13,
+                                            "NF": 2899.13,
+                                            "TF": 2899.13,
+                                            "AAR": 0.00,
+                                            "CMU": 0.00,
+                                            "CTDS": 0.00,
+                                            "CNWTDS": 0.00,
+                                            "TAF": 0.00
+                                        },
+                                        "afc": {
+                                            "TAF": {
+                                                "SDS": 0.00,
+                                                "SAC": 0.00,
+                                                "TMF": 155.71,
+                                                "SNP": 0.00,
+                                                "TTSF": 0.00,
+                                                "PRF": 253.03,
+                                                "SRC": 0.00,
+                                                "SCF": 2899.13,
+                                                "TSF": 316.24,
+                                                "CB": 0.00,
+                                                "CBTDS": 0.00,
+                                                "SBP": 0.00,
+                                                "SGP": 0.00
+                                            }
+                                        },
+                                        "trbf": false
+                                    },
+                                    {
+                                        "day": 13,
+                                        "fc": {
+                                            "BF": 2899.13,
+                                            "NF": 2899.13,
+                                            "TF": 2899.13,
+                                            "AAR": 0.00,
+                                            "CMU": 0.00,
+                                            "CTDS": 0.00,
+                                            "CNWTDS": 0.00,
+                                            "TAF": 0.00
+                                        },
+                                        "afc": {
+                                            "TAF": {
+                                                "SDS": 0.00,
+                                                "SAC": 0.00,
+                                                "TMF": 155.71,
+                                                "SNP": 0.00,
+                                                "TTSF": 0.00,
+                                                "PRF": 253.03,
+                                                "SRC": 0.00,
+                                                "SCF": 2899.13,
+                                                "TSF": 316.24,
+                                                "CB": 0.00,
+                                                "CBTDS": 0.00,
+                                                "SBP": 0.00,
+                                                "SGP": 0.00
+                                            }
+                                        },
+                                        "trbf": false
+                                    },
+                                    {
+                                        "day": 14,
+                                        "fc": {
+                                            "BF": 2899.13,
+                                            "NF": 2899.13,
+                                            "TF": 2899.13,
+                                            "AAR": 0.00,
+                                            "CMU": 0.00,
+                                            "CTDS": 0.00,
+                                            "CNWTDS": 0.00,
+                                            "TAF": 0.00
+                                        },
+                                        "afc": {
+                                            "TAF": {
+                                                "SDS": 0.00,
+                                                "SAC": 0.00,
+                                                "TMF": 155.71,
+                                                "SNP": 0.00,
+                                                "TTSF": 0.00,
+                                                "PRF": 253.03,
+                                                "SRC": 0.00,
+                                                "SCF": 2899.13,
+                                                "TSF": 316.24,
+                                                "CB": 0.00,
+                                                "CBTDS": 0.00,
+                                                "SBP": 0.00,
+                                                "SGP": 0.00
+                                            }
+                                        },
+                                        "trbf": false
+                                    }
+                                ],
+                                "checkInDate": "2026-09-01",
+                                "checkOutDate": "2026-09-15",
+                                "ti": [
+                                    {
+                                        "ti": "Mr",
+                                        "pt": "ADULT",
+                                        "fN": "Gita",
+                                        "lN": "Adultaa"
+                                    },
+                                    {
+                                        "ti": "Mr",
+                                        "pt": "ADULT",
+                                        "fN": "Ramesh",
+                                        "lN": "Adultbb"
+                                    },
+                                    {
+                                        "ti": "Master",
+                                        "pt": "CHILD",
+                                        "fN": "Ram",
+                                        "lN": "Childaa",
+                                        "age": 2
+                                    }
+                                ],
+                                "ispfap": false,
+                                "iopr": false,
+                                "irrh": true,
+                                "radi": {
+                                    "rid": "200931335"
+                                },
+                                "op": "2-2",
+                                "rexb": {
+                                    "BENEFIT": [
+                                        {
+                                            "values": [
+                                                "Free WiFi"
+                                            ]
+                                        }
+                                    ]
+                                },
+                                "rsta": "C"
+                            },
+                            {
+                                "id": "200931335_381785703_37341##4",
+                                "rc": "Standard Double or Twin Room-2 Twin Beds",
+                                "rt": "Standard Double or Twin Room-2 Twin Beds",
+                                "srn": "DoubleOrTwin Room",
+                                "adt": 1,
+                                "chd": 1,
+                                "pdes": [],
+                                "mb": "ROOM ONLY",
+                                "tp": 40587.82,
+                                "tfcs": {
+                                    "BF": 40587.82,
+                                    "AAR": 0.00,
+                                    "TF": 40587.82,
+                                    "CMU": 0.00,
+                                    "TAF": 0.00,
+                                    "NF": 40587.82,
+                                    "CTDS": 0.00,
+                                    "CNWTDS": 0.00
+                                },
+                                "tafcs": {
+                                    "TAF": {
+                                        "SDS": 0.00,
+                                        "SAC": 0.00,
+                                        "TMF": 2179.94,
+                                        "SNP": 0.00,
+                                        "TTSF": 0.00,
+                                        "PRF": 3542.42,
+                                        "SRC": 0.00,
+                                        "SCF": 40587.82,
+                                        "TSF": 4427.36,
+                                        "CB": 0.00,
+                                        "CBTDS": 0.00,
+                                        "SBP": 0.00,
+                                        "SGP": 0.00
+                                    }
+                                },
+                                "ddt": "2026-03-13T10:27:39.922",
+                                "pis": [
+                                    {
+                                        "day": 1,
+                                        "fc": {
+                                            "BF": 2899.13,
+                                            "NF": 2899.13,
+                                            "TF": 2899.13,
+                                            "AAR": 0.00,
+                                            "CMU": 0.00,
+                                            "CTDS": 0.00,
+                                            "CNWTDS": 0.00,
+                                            "TAF": 0.00
+                                        },
+                                        "afc": {
+                                            "TAF": {
+                                                "SDS": 0.00,
+                                                "SAC": 0.00,
+                                                "TMF": 155.71,
+                                                "SNP": 0.00,
+                                                "TTSF": 0.00,
+                                                "PRF": 253.03,
+                                                "SRC": 0.00,
+                                                "SCF": 2899.13,
+                                                "TSF": 316.24,
+                                                "CB": 0.00,
+                                                "CBTDS": 0.00,
+                                                "SBP": 0.00,
+                                                "SGP": 0.00
+                                            }
+                                        },
+                                        "trbf": false
+                                    },
+                                    {
+                                        "day": 2,
+                                        "fc": {
+                                            "BF": 2899.13,
+                                            "NF": 2899.13,
+                                            "TF": 2899.13,
+                                            "AAR": 0.00,
+                                            "CMU": 0.00,
+                                            "CTDS": 0.00,
+                                            "CNWTDS": 0.00,
+                                            "TAF": 0.00
+                                        },
+                                        "afc": {
+                                            "TAF": {
+                                                "SDS": 0.00,
+                                                "SAC": 0.00,
+                                                "TMF": 155.71,
+                                                "SNP": 0.00,
+                                                "TTSF": 0.00,
+                                                "PRF": 253.03,
+                                                "SRC": 0.00,
+                                                "SCF": 2899.13,
+                                                "TSF": 316.24,
+                                                "CB": 0.00,
+                                                "CBTDS": 0.00,
+                                                "SBP": 0.00,
+                                                "SGP": 0.00
+                                            }
+                                        },
+                                        "trbf": false
+                                    },
+                                    {
+                                        "day": 3,
+                                        "fc": {
+                                            "BF": 2899.13,
+                                            "NF": 2899.13,
+                                            "TF": 2899.13,
+                                            "AAR": 0.00,
+                                            "CMU": 0.00,
+                                            "CTDS": 0.00,
+                                            "CNWTDS": 0.00,
+                                            "TAF": 0.00
+                                        },
+                                        "afc": {
+                                            "TAF": {
+                                                "SDS": 0.00,
+                                                "SAC": 0.00,
+                                                "TMF": 155.71,
+                                                "SNP": 0.00,
+                                                "TTSF": 0.00,
+                                                "PRF": 253.03,
+                                                "SRC": 0.00,
+                                                "SCF": 2899.13,
+                                                "TSF": 316.24,
+                                                "CB": 0.00,
+                                                "CBTDS": 0.00,
+                                                "SBP": 0.00,
+                                                "SGP": 0.00
+                                            }
+                                        },
+                                        "trbf": false
+                                    },
+                                    {
+                                        "day": 4,
+                                        "fc": {
+                                            "BF": 2899.13,
+                                            "NF": 2899.13,
+                                            "TF": 2899.13,
+                                            "AAR": 0.00,
+                                            "CMU": 0.00,
+                                            "CTDS": 0.00,
+                                            "CNWTDS": 0.00,
+                                            "TAF": 0.00
+                                        },
+                                        "afc": {
+                                            "TAF": {
+                                                "SDS": 0.00,
+                                                "SAC": 0.00,
+                                                "TMF": 155.71,
+                                                "SNP": 0.00,
+                                                "TTSF": 0.00,
+                                                "PRF": 253.03,
+                                                "SRC": 0.00,
+                                                "SCF": 2899.13,
+                                                "TSF": 316.24,
+                                                "CB": 0.00,
+                                                "CBTDS": 0.00,
+                                                "SBP": 0.00,
+                                                "SGP": 0.00
+                                            }
+                                        },
+                                        "trbf": false
+                                    },
+                                    {
+                                        "day": 5,
+                                        "fc": {
+                                            "BF": 2899.13,
+                                            "NF": 2899.13,
+                                            "TF": 2899.13,
+                                            "AAR": 0.00,
+                                            "CMU": 0.00,
+                                            "CTDS": 0.00,
+                                            "CNWTDS": 0.00,
+                                            "TAF": 0.00
+                                        },
+                                        "afc": {
+                                            "TAF": {
+                                                "SDS": 0.00,
+                                                "SAC": 0.00,
+                                                "TMF": 155.71,
+                                                "SNP": 0.00,
+                                                "TTSF": 0.00,
+                                                "PRF": 253.03,
+                                                "SRC": 0.00,
+                                                "SCF": 2899.13,
+                                                "TSF": 316.24,
+                                                "CB": 0.00,
+                                                "CBTDS": 0.00,
+                                                "SBP": 0.00,
+                                                "SGP": 0.00
+                                            }
+                                        },
+                                        "trbf": false
+                                    },
+                                    {
+                                        "day": 6,
+                                        "fc": {
+                                            "BF": 2899.13,
+                                            "NF": 2899.13,
+                                            "TF": 2899.13,
+                                            "AAR": 0.00,
+                                            "CMU": 0.00,
+                                            "CTDS": 0.00,
+                                            "CNWTDS": 0.00,
+                                            "TAF": 0.00
+                                        },
+                                        "afc": {
+                                            "TAF": {
+                                                "SDS": 0.00,
+                                                "SAC": 0.00,
+                                                "TMF": 155.71,
+                                                "SNP": 0.00,
+                                                "TTSF": 0.00,
+                                                "PRF": 253.03,
+                                                "SRC": 0.00,
+                                                "SCF": 2899.13,
+                                                "TSF": 316.24,
+                                                "CB": 0.00,
+                                                "CBTDS": 0.00,
+                                                "SBP": 0.00,
+                                                "SGP": 0.00
+                                            }
+                                        },
+                                        "trbf": false
+                                    },
+                                    {
+                                        "day": 7,
+                                        "fc": {
+                                            "BF": 2899.13,
+                                            "NF": 2899.13,
+                                            "TF": 2899.13,
+                                            "AAR": 0.00,
+                                            "CMU": 0.00,
+                                            "CTDS": 0.00,
+                                            "CNWTDS": 0.00,
+                                            "TAF": 0.00
+                                        },
+                                        "afc": {
+                                            "TAF": {
+                                                "SDS": 0.00,
+                                                "SAC": 0.00,
+                                                "TMF": 155.71,
+                                                "SNP": 0.00,
+                                                "TTSF": 0.00,
+                                                "PRF": 253.03,
+                                                "SRC": 0.00,
+                                                "SCF": 2899.13,
+                                                "TSF": 316.24,
+                                                "CB": 0.00,
+                                                "CBTDS": 0.00,
+                                                "SBP": 0.00,
+                                                "SGP": 0.00
+                                            }
+                                        },
+                                        "trbf": false
+                                    },
+                                    {
+                                        "day": 8,
+                                        "fc": {
+                                            "BF": 2899.13,
+                                            "NF": 2899.13,
+                                            "TF": 2899.13,
+                                            "AAR": 0.00,
+                                            "CMU": 0.00,
+                                            "CTDS": 0.00,
+                                            "CNWTDS": 0.00,
+                                            "TAF": 0.00
+                                        },
+                                        "afc": {
+                                            "TAF": {
+                                                "SDS": 0.00,
+                                                "SAC": 0.00,
+                                                "TMF": 155.71,
+                                                "SNP": 0.00,
+                                                "TTSF": 0.00,
+                                                "PRF": 253.03,
+                                                "SRC": 0.00,
+                                                "SCF": 2899.13,
+                                                "TSF": 316.24,
+                                                "CB": 0.00,
+                                                "CBTDS": 0.00,
+                                                "SBP": 0.00,
+                                                "SGP": 0.00
+                                            }
+                                        },
+                                        "trbf": false
+                                    },
+                                    {
+                                        "day": 9,
+                                        "fc": {
+                                            "BF": 2899.13,
+                                            "NF": 2899.13,
+                                            "TF": 2899.13,
+                                            "AAR": 0.00,
+                                            "CMU": 0.00,
+                                            "CTDS": 0.00,
+                                            "CNWTDS": 0.00,
+                                            "TAF": 0.00
+                                        },
+                                        "afc": {
+                                            "TAF": {
+                                                "SDS": 0.00,
+                                                "SAC": 0.00,
+                                                "TMF": 155.71,
+                                                "SNP": 0.00,
+                                                "TTSF": 0.00,
+                                                "PRF": 253.03,
+                                                "SRC": 0.00,
+                                                "SCF": 2899.13,
+                                                "TSF": 316.24,
+                                                "CB": 0.00,
+                                                "CBTDS": 0.00,
+                                                "SBP": 0.00,
+                                                "SGP": 0.00
+                                            }
+                                        },
+                                        "trbf": false
+                                    },
+                                    {
+                                        "day": 10,
+                                        "fc": {
+                                            "BF": 2899.13,
+                                            "NF": 2899.13,
+                                            "TF": 2899.13,
+                                            "AAR": 0.00,
+                                            "CMU": 0.00,
+                                            "CTDS": 0.00,
+                                            "CNWTDS": 0.00,
+                                            "TAF": 0.00
+                                        },
+                                        "afc": {
+                                            "TAF": {
+                                                "SDS": 0.00,
+                                                "SAC": 0.00,
+                                                "TMF": 155.71,
+                                                "SNP": 0.00,
+                                                "TTSF": 0.00,
+                                                "PRF": 253.03,
+                                                "SRC": 0.00,
+                                                "SCF": 2899.13,
+                                                "TSF": 316.24,
+                                                "CB": 0.00,
+                                                "CBTDS": 0.00,
+                                                "SBP": 0.00,
+                                                "SGP": 0.00
+                                            }
+                                        },
+                                        "trbf": false
+                                    },
+                                    {
+                                        "day": 11,
+                                        "fc": {
+                                            "BF": 2899.13,
+                                            "NF": 2899.13,
+                                            "TF": 2899.13,
+                                            "AAR": 0.00,
+                                            "CMU": 0.00,
+                                            "CTDS": 0.00,
+                                            "CNWTDS": 0.00,
+                                            "TAF": 0.00
+                                        },
+                                        "afc": {
+                                            "TAF": {
+                                                "SDS": 0.00,
+                                                "SAC": 0.00,
+                                                "TMF": 155.71,
+                                                "SNP": 0.00,
+                                                "TTSF": 0.00,
+                                                "PRF": 253.03,
+                                                "SRC": 0.00,
+                                                "SCF": 2899.13,
+                                                "TSF": 316.24,
+                                                "CB": 0.00,
+                                                "CBTDS": 0.00,
+                                                "SBP": 0.00,
+                                                "SGP": 0.00
+                                            }
+                                        },
+                                        "trbf": false
+                                    },
+                                    {
+                                        "day": 12,
+                                        "fc": {
+                                            "BF": 2899.13,
+                                            "NF": 2899.13,
+                                            "TF": 2899.13,
+                                            "AAR": 0.00,
+                                            "CMU": 0.00,
+                                            "CTDS": 0.00,
+                                            "CNWTDS": 0.00,
+                                            "TAF": 0.00
+                                        },
+                                        "afc": {
+                                            "TAF": {
+                                                "SDS": 0.00,
+                                                "SAC": 0.00,
+                                                "TMF": 155.71,
+                                                "SNP": 0.00,
+                                                "TTSF": 0.00,
+                                                "PRF": 253.03,
+                                                "SRC": 0.00,
+                                                "SCF": 2899.13,
+                                                "TSF": 316.24,
+                                                "CB": 0.00,
+                                                "CBTDS": 0.00,
+                                                "SBP": 0.00,
+                                                "SGP": 0.00
+                                            }
+                                        },
+                                        "trbf": false
+                                    },
+                                    {
+                                        "day": 13,
+                                        "fc": {
+                                            "BF": 2899.13,
+                                            "NF": 2899.13,
+                                            "TF": 2899.13,
+                                            "AAR": 0.00,
+                                            "CMU": 0.00,
+                                            "CTDS": 0.00,
+                                            "CNWTDS": 0.00,
+                                            "TAF": 0.00
+                                        },
+                                        "afc": {
+                                            "TAF": {
+                                                "SDS": 0.00,
+                                                "SAC": 0.00,
+                                                "TMF": 155.71,
+                                                "SNP": 0.00,
+                                                "TTSF": 0.00,
+                                                "PRF": 253.03,
+                                                "SRC": 0.00,
+                                                "SCF": 2899.13,
+                                                "TSF": 316.24,
+                                                "CB": 0.00,
+                                                "CBTDS": 0.00,
+                                                "SBP": 0.00,
+                                                "SGP": 0.00
+                                            }
+                                        },
+                                        "trbf": false
+                                    },
+                                    {
+                                        "day": 14,
+                                        "fc": {
+                                            "BF": 2899.13,
+                                            "NF": 2899.13,
+                                            "TF": 2899.13,
+                                            "AAR": 0.00,
+                                            "CMU": 0.00,
+                                            "CTDS": 0.00,
+                                            "CNWTDS": 0.00,
+                                            "TAF": 0.00
+                                        },
+                                        "afc": {
+                                            "TAF": {
+                                                "SDS": 0.00,
+                                                "SAC": 0.00,
+                                                "TMF": 155.71,
+                                                "SNP": 0.00,
+                                                "TTSF": 0.00,
+                                                "PRF": 253.03,
+                                                "SRC": 0.00,
+                                                "SCF": 2899.13,
+                                                "TSF": 316.24,
+                                                "CB": 0.00,
+                                                "CBTDS": 0.00,
+                                                "SBP": 0.00,
+                                                "SGP": 0.00
+                                            }
+                                        },
+                                        "trbf": false
+                                    }
+                                ],
+                                "checkInDate": "2026-09-01",
+                                "checkOutDate": "2026-09-15",
+                                "ti": [
+                                    {
+                                        "ti": "Mr",
+                                        "pt": "ADULT",
+                                        "fN": "Gopal",
+                                        "lN": "Adultaaa"
+                                    },
+                                    {
+                                        "ti": "Master",
+                                        "pt": "CHILD",
+                                        "fN": "Gopu",
+                                        "lN": "Childaaa",
+                                        "age": 2
+                                    }
+                                ],
+                                "ispfap": false,
+                                "iopr": false,
+                                "irrh": true,
+                                "radi": {
+                                    "rid": "200931335"
+                                },
+                                "op": "1-2",
+                                "rexb": {
+                                    "BENEFIT": [
+                                        {
+                                            "values": [
+                                                "Free WiFi"
+                                            ]
+                                        }
+                                    ]
+                                },
+                                "rsta": "C"
+                            },
+                            {
+                                "id": "200931335_381785703_37341##1",
+                                "rc": "Standard Double or Twin Room-2 Twin Beds",
+                                "rt": "Standard Double or Twin Room-2 Twin Beds",
+                                "srn": "DoubleOrTwin Room",
+                                "adt": 1,
+                                "chd": 0,
+                                "pdes": [],
+                                "mb": "ROOM ONLY",
+                                "tp": 40587.82,
+                                "tfcs": {
+                                    "BF": 40587.82,
+                                    "AAR": 0.00,
+                                    "TF": 40587.82,
+                                    "CMU": 0.00,
+                                    "TAF": 0.00,
+                                    "NF": 40587.82,
+                                    "CTDS": 0.00,
+                                    "CNWTDS": 0.00
+                                },
+                                "tafcs": {
+                                    "TAF": {
+                                        "SDS": 0.00,
+                                        "SAC": 0.00,
+                                        "TMF": 2179.94,
+                                        "SNP": 0.00,
+                                        "TTSF": 0.00,
+                                        "PRF": 3542.42,
+                                        "SRC": 0.00,
+                                        "SCF": 40587.82,
+                                        "TSF": 4427.36,
+                                        "CB": 0.00,
+                                        "CBTDS": 0.00,
+                                        "SBP": 0.00,
+                                        "SGP": 0.00
+                                    }
+                                },
+                                "ddt": "2026-03-13T10:27:39.922",
+                                "pis": [
+                                    {
+                                        "day": 1,
+                                        "fc": {
+                                            "BF": 2899.13,
+                                            "NF": 2899.13,
+                                            "TF": 2899.13,
+                                            "AAR": 0.00,
+                                            "CMU": 0.00,
+                                            "CTDS": 0.00,
+                                            "CNWTDS": 0.00,
+                                            "TAF": 0.00
+                                        },
+                                        "afc": {
+                                            "TAF": {
+                                                "SDS": 0.00,
+                                                "SAC": 0.00,
+                                                "TMF": 155.71,
+                                                "SNP": 0.00,
+                                                "TTSF": 0.00,
+                                                "PRF": 253.03,
+                                                "SRC": 0.00,
+                                                "SCF": 2899.13,
+                                                "TSF": 316.24,
+                                                "CB": 0.00,
+                                                "CBTDS": 0.00,
+                                                "SBP": 0.00,
+                                                "SGP": 0.00
+                                            }
+                                        },
+                                        "trbf": false
+                                    },
+                                    {
+                                        "day": 2,
+                                        "fc": {
+                                            "BF": 2899.13,
+                                            "NF": 2899.13,
+                                            "TF": 2899.13,
+                                            "AAR": 0.00,
+                                            "CMU": 0.00,
+                                            "CTDS": 0.00,
+                                            "CNWTDS": 0.00,
+                                            "TAF": 0.00
+                                        },
+                                        "afc": {
+                                            "TAF": {
+                                                "SDS": 0.00,
+                                                "SAC": 0.00,
+                                                "TMF": 155.71,
+                                                "SNP": 0.00,
+                                                "TTSF": 0.00,
+                                                "PRF": 253.03,
+                                                "SRC": 0.00,
+                                                "SCF": 2899.13,
+                                                "TSF": 316.24,
+                                                "CB": 0.00,
+                                                "CBTDS": 0.00,
+                                                "SBP": 0.00,
+                                                "SGP": 0.00
+                                            }
+                                        },
+                                        "trbf": false
+                                    },
+                                    {
+                                        "day": 3,
+                                        "fc": {
+                                            "BF": 2899.13,
+                                            "NF": 2899.13,
+                                            "TF": 2899.13,
+                                            "AAR": 0.00,
+                                            "CMU": 0.00,
+                                            "CTDS": 0.00,
+                                            "CNWTDS": 0.00,
+                                            "TAF": 0.00
+                                        },
+                                        "afc": {
+                                            "TAF": {
+                                                "SDS": 0.00,
+                                                "SAC": 0.00,
+                                                "TMF": 155.71,
+                                                "SNP": 0.00,
+                                                "TTSF": 0.00,
+                                                "PRF": 253.03,
+                                                "SRC": 0.00,
+                                                "SCF": 2899.13,
+                                                "TSF": 316.24,
+                                                "CB": 0.00,
+                                                "CBTDS": 0.00,
+                                                "SBP": 0.00,
+                                                "SGP": 0.00
+                                            }
+                                        },
+                                        "trbf": false
+                                    },
+                                    {
+                                        "day": 4,
+                                        "fc": {
+                                            "BF": 2899.13,
+                                            "NF": 2899.13,
+                                            "TF": 2899.13,
+                                            "AAR": 0.00,
+                                            "CMU": 0.00,
+                                            "CTDS": 0.00,
+                                            "CNWTDS": 0.00,
+                                            "TAF": 0.00
+                                        },
+                                        "afc": {
+                                            "TAF": {
+                                                "SDS": 0.00,
+                                                "SAC": 0.00,
+                                                "TMF": 155.71,
+                                                "SNP": 0.00,
+                                                "TTSF": 0.00,
+                                                "PRF": 253.03,
+                                                "SRC": 0.00,
+                                                "SCF": 2899.13,
+                                                "TSF": 316.24,
+                                                "CB": 0.00,
+                                                "CBTDS": 0.00,
+                                                "SBP": 0.00,
+                                                "SGP": 0.00
+                                            }
+                                        },
+                                        "trbf": false
+                                    },
+                                    {
+                                        "day": 5,
+                                        "fc": {
+                                            "BF": 2899.13,
+                                            "NF": 2899.13,
+                                            "TF": 2899.13,
+                                            "AAR": 0.00,
+                                            "CMU": 0.00,
+                                            "CTDS": 0.00,
+                                            "CNWTDS": 0.00,
+                                            "TAF": 0.00
+                                        },
+                                        "afc": {
+                                            "TAF": {
+                                                "SDS": 0.00,
+                                                "SAC": 0.00,
+                                                "TMF": 155.71,
+                                                "SNP": 0.00,
+                                                "TTSF": 0.00,
+                                                "PRF": 253.03,
+                                                "SRC": 0.00,
+                                                "SCF": 2899.13,
+                                                "TSF": 316.24,
+                                                "CB": 0.00,
+                                                "CBTDS": 0.00,
+                                                "SBP": 0.00,
+                                                "SGP": 0.00
+                                            }
+                                        },
+                                        "trbf": false
+                                    },
+                                    {
+                                        "day": 6,
+                                        "fc": {
+                                            "BF": 2899.13,
+                                            "NF": 2899.13,
+                                            "TF": 2899.13,
+                                            "AAR": 0.00,
+                                            "CMU": 0.00,
+                                            "CTDS": 0.00,
+                                            "CNWTDS": 0.00,
+                                            "TAF": 0.00
+                                        },
+                                        "afc": {
+                                            "TAF": {
+                                                "SDS": 0.00,
+                                                "SAC": 0.00,
+                                                "TMF": 155.71,
+                                                "SNP": 0.00,
+                                                "TTSF": 0.00,
+                                                "PRF": 253.03,
+                                                "SRC": 0.00,
+                                                "SCF": 2899.13,
+                                                "TSF": 316.24,
+                                                "CB": 0.00,
+                                                "CBTDS": 0.00,
+                                                "SBP": 0.00,
+                                                "SGP": 0.00
+                                            }
+                                        },
+                                        "trbf": false
+                                    },
+                                    {
+                                        "day": 7,
+                                        "fc": {
+                                            "BF": 2899.13,
+                                            "NF": 2899.13,
+                                            "TF": 2899.13,
+                                            "AAR": 0.00,
+                                            "CMU": 0.00,
+                                            "CTDS": 0.00,
+                                            "CNWTDS": 0.00,
+                                            "TAF": 0.00
+                                        },
+                                        "afc": {
+                                            "TAF": {
+                                                "SDS": 0.00,
+                                                "SAC": 0.00,
+                                                "TMF": 155.71,
+                                                "SNP": 0.00,
+                                                "TTSF": 0.00,
+                                                "PRF": 253.03,
+                                                "SRC": 0.00,
+                                                "SCF": 2899.13,
+                                                "TSF": 316.24,
+                                                "CB": 0.00,
+                                                "CBTDS": 0.00,
+                                                "SBP": 0.00,
+                                                "SGP": 0.00
+                                            }
+                                        },
+                                        "trbf": false
+                                    },
+                                    {
+                                        "day": 8,
+                                        "fc": {
+                                            "BF": 2899.13,
+                                            "NF": 2899.13,
+                                            "TF": 2899.13,
+                                            "AAR": 0.00,
+                                            "CMU": 0.00,
+                                            "CTDS": 0.00,
+                                            "CNWTDS": 0.00,
+                                            "TAF": 0.00
+                                        },
+                                        "afc": {
+                                            "TAF": {
+                                                "SDS": 0.00,
+                                                "SAC": 0.00,
+                                                "TMF": 155.71,
+                                                "SNP": 0.00,
+                                                "TTSF": 0.00,
+                                                "PRF": 253.03,
+                                                "SRC": 0.00,
+                                                "SCF": 2899.13,
+                                                "TSF": 316.24,
+                                                "CB": 0.00,
+                                                "CBTDS": 0.00,
+                                                "SBP": 0.00,
+                                                "SGP": 0.00
+                                            }
+                                        },
+                                        "trbf": false
+                                    },
+                                    {
+                                        "day": 9,
+                                        "fc": {
+                                            "BF": 2899.13,
+                                            "NF": 2899.13,
+                                            "TF": 2899.13,
+                                            "AAR": 0.00,
+                                            "CMU": 0.00,
+                                            "CTDS": 0.00,
+                                            "CNWTDS": 0.00,
+                                            "TAF": 0.00
+                                        },
+                                        "afc": {
+                                            "TAF": {
+                                                "SDS": 0.00,
+                                                "SAC": 0.00,
+                                                "TMF": 155.71,
+                                                "SNP": 0.00,
+                                                "TTSF": 0.00,
+                                                "PRF": 253.03,
+                                                "SRC": 0.00,
+                                                "SCF": 2899.13,
+                                                "TSF": 316.24,
+                                                "CB": 0.00,
+                                                "CBTDS": 0.00,
+                                                "SBP": 0.00,
+                                                "SGP": 0.00
+                                            }
+                                        },
+                                        "trbf": false
+                                    },
+                                    {
+                                        "day": 10,
+                                        "fc": {
+                                            "BF": 2899.13,
+                                            "NF": 2899.13,
+                                            "TF": 2899.13,
+                                            "AAR": 0.00,
+                                            "CMU": 0.00,
+                                            "CTDS": 0.00,
+                                            "CNWTDS": 0.00,
+                                            "TAF": 0.00
+                                        },
+                                        "afc": {
+                                            "TAF": {
+                                                "SDS": 0.00,
+                                                "SAC": 0.00,
+                                                "TMF": 155.71,
+                                                "SNP": 0.00,
+                                                "TTSF": 0.00,
+                                                "PRF": 253.03,
+                                                "SRC": 0.00,
+                                                "SCF": 2899.13,
+                                                "TSF": 316.24,
+                                                "CB": 0.00,
+                                                "CBTDS": 0.00,
+                                                "SBP": 0.00,
+                                                "SGP": 0.00
+                                            }
+                                        },
+                                        "trbf": false
+                                    },
+                                    {
+                                        "day": 11,
+                                        "fc": {
+                                            "BF": 2899.13,
+                                            "NF": 2899.13,
+                                            "TF": 2899.13,
+                                            "AAR": 0.00,
+                                            "CMU": 0.00,
+                                            "CTDS": 0.00,
+                                            "CNWTDS": 0.00,
+                                            "TAF": 0.00
+                                        },
+                                        "afc": {
+                                            "TAF": {
+                                                "SDS": 0.00,
+                                                "SAC": 0.00,
+                                                "TMF": 155.71,
+                                                "SNP": 0.00,
+                                                "TTSF": 0.00,
+                                                "PRF": 253.03,
+                                                "SRC": 0.00,
+                                                "SCF": 2899.13,
+                                                "TSF": 316.24,
+                                                "CB": 0.00,
+                                                "CBTDS": 0.00,
+                                                "SBP": 0.00,
+                                                "SGP": 0.00
+                                            }
+                                        },
+                                        "trbf": false
+                                    },
+                                    {
+                                        "day": 12,
+                                        "fc": {
+                                            "BF": 2899.13,
+                                            "NF": 2899.13,
+                                            "TF": 2899.13,
+                                            "AAR": 0.00,
+                                            "CMU": 0.00,
+                                            "CTDS": 0.00,
+                                            "CNWTDS": 0.00,
+                                            "TAF": 0.00
+                                        },
+                                        "afc": {
+                                            "TAF": {
+                                                "SDS": 0.00,
+                                                "SAC": 0.00,
+                                                "TMF": 155.71,
+                                                "SNP": 0.00,
+                                                "TTSF": 0.00,
+                                                "PRF": 253.03,
+                                                "SRC": 0.00,
+                                                "SCF": 2899.13,
+                                                "TSF": 316.24,
+                                                "CB": 0.00,
+                                                "CBTDS": 0.00,
+                                                "SBP": 0.00,
+                                                "SGP": 0.00
+                                            }
+                                        },
+                                        "trbf": false
+                                    },
+                                    {
+                                        "day": 13,
+                                        "fc": {
+                                            "BF": 2899.13,
+                                            "NF": 2899.13,
+                                            "TF": 2899.13,
+                                            "AAR": 0.00,
+                                            "CMU": 0.00,
+                                            "CTDS": 0.00,
+                                            "CNWTDS": 0.00,
+                                            "TAF": 0.00
+                                        },
+                                        "afc": {
+                                            "TAF": {
+                                                "SDS": 0.00,
+                                                "SAC": 0.00,
+                                                "TMF": 155.71,
+                                                "SNP": 0.00,
+                                                "TTSF": 0.00,
+                                                "PRF": 253.03,
+                                                "SRC": 0.00,
+                                                "SCF": 2899.13,
+                                                "TSF": 316.24,
+                                                "CB": 0.00,
+                                                "CBTDS": 0.00,
+                                                "SBP": 0.00,
+                                                "SGP": 0.00
+                                            }
+                                        },
+                                        "trbf": false
+                                    },
+                                    {
+                                        "day": 14,
+                                        "fc": {
+                                            "BF": 2899.13,
+                                            "NF": 2899.13,
+                                            "TF": 2899.13,
+                                            "AAR": 0.00,
+                                            "CMU": 0.00,
+                                            "CTDS": 0.00,
+                                            "CNWTDS": 0.00,
+                                            "TAF": 0.00
+                                        },
+                                        "afc": {
+                                            "TAF": {
+                                                "SDS": 0.00,
+                                                "SAC": 0.00,
+                                                "TMF": 155.71,
+                                                "SNP": 0.00,
+                                                "TTSF": 0.00,
+                                                "PRF": 253.03,
+                                                "SRC": 0.00,
+                                                "SCF": 2899.13,
+                                                "TSF": 316.24,
+                                                "CB": 0.00,
+                                                "CBTDS": 0.00,
+                                                "SBP": 0.00,
+                                                "SGP": 0.00
+                                            }
+                                        },
+                                        "trbf": false
+                                    }
+                                ],
+                                "checkInDate": "2026-09-01",
+                                "checkOutDate": "2026-09-15",
+                                "ti": [
+                                    {
+                                        "ti": "Mr",
+                                        "pt": "ADULT",
+                                        "fN": "Ramu",
+                                        "lN": "Adultaaaa"
+                                    }
+                                ],
+                                "ispfap": false,
+                                "iopr": false,
+                                "irrh": true,
+                                "radi": {
+                                    "rid": "200931335"
+                                },
+                                "op": "1",
+                                "rexb": {
+                                    "BENEFIT": [
+                                        {
+                                            "values": [
+                                                "Free WiFi"
+                                            ]
+                                        }
+                                    ]
+                                },
+                                "rsta": "C"
+                            },
+                            {
+                                "id": "200931335_381785703_37341##2",
+                                "rc": "Standard Double or Twin Room-2 Twin Beds",
+                                "rt": "Standard Double or Twin Room-2 Twin Beds",
+                                "srn": "DoubleOrTwin Room",
+                                "adt": 1,
+                                "chd": 0,
+                                "pdes": [],
+                                "mb": "ROOM ONLY",
+                                "tp": 40587.82,
+                                "tfcs": {
+                                    "BF": 40587.82,
+                                    "AAR": 0.00,
+                                    "TF": 40587.82,
+                                    "CMU": 0.00,
+                                    "TAF": 0.00,
+                                    "NF": 40587.82,
+                                    "CTDS": 0.00,
+                                    "CNWTDS": 0.00
+                                },
+                                "tafcs": {
+                                    "TAF": {
+                                        "SDS": 0.00,
+                                        "SAC": 0.00,
+                                        "TMF": 2179.94,
+                                        "SNP": 0.00,
+                                        "TTSF": 0.00,
+                                        "PRF": 3542.42,
+                                        "SRC": 0.00,
+                                        "SCF": 40587.82,
+                                        "TSF": 4427.36,
+                                        "CB": 0.00,
+                                        "CBTDS": 0.00,
+                                        "SBP": 0.00,
+                                        "SGP": 0.00
+                                    }
+                                },
+                                "ddt": "2026-03-13T10:27:39.922",
+                                "pis": [
+                                    {
+                                        "day": 1,
+                                        "fc": {
+                                            "BF": 2899.13,
+                                            "NF": 2899.13,
+                                            "TF": 2899.13,
+                                            "AAR": 0.00,
+                                            "CMU": 0.00,
+                                            "CTDS": 0.00,
+                                            "CNWTDS": 0.00,
+                                            "TAF": 0.00
+                                        },
+                                        "afc": {
+                                            "TAF": {
+                                                "SDS": 0.00,
+                                                "SAC": 0.00,
+                                                "TMF": 155.71,
+                                                "SNP": 0.00,
+                                                "TTSF": 0.00,
+                                                "PRF": 253.03,
+                                                "SRC": 0.00,
+                                                "SCF": 2899.13,
+                                                "TSF": 316.24,
+                                                "CB": 0.00,
+                                                "CBTDS": 0.00,
+                                                "SBP": 0.00,
+                                                "SGP": 0.00
+                                            }
+                                        },
+                                        "trbf": false
+                                    },
+                                    {
+                                        "day": 2,
+                                        "fc": {
+                                            "BF": 2899.13,
+                                            "NF": 2899.13,
+                                            "TF": 2899.13,
+                                            "AAR": 0.00,
+                                            "CMU": 0.00,
+                                            "CTDS": 0.00,
+                                            "CNWTDS": 0.00,
+                                            "TAF": 0.00
+                                        },
+                                        "afc": {
+                                            "TAF": {
+                                                "SDS": 0.00,
+                                                "SAC": 0.00,
+                                                "TMF": 155.71,
+                                                "SNP": 0.00,
+                                                "TTSF": 0.00,
+                                                "PRF": 253.03,
+                                                "SRC": 0.00,
+                                                "SCF": 2899.13,
+                                                "TSF": 316.24,
+                                                "CB": 0.00,
+                                                "CBTDS": 0.00,
+                                                "SBP": 0.00,
+                                                "SGP": 0.00
+                                            }
+                                        },
+                                        "trbf": false
+                                    },
+                                    {
+                                        "day": 3,
+                                        "fc": {
+                                            "BF": 2899.13,
+                                            "NF": 2899.13,
+                                            "TF": 2899.13,
+                                            "AAR": 0.00,
+                                            "CMU": 0.00,
+                                            "CTDS": 0.00,
+                                            "CNWTDS": 0.00,
+                                            "TAF": 0.00
+                                        },
+                                        "afc": {
+                                            "TAF": {
+                                                "SDS": 0.00,
+                                                "SAC": 0.00,
+                                                "TMF": 155.71,
+                                                "SNP": 0.00,
+                                                "TTSF": 0.00,
+                                                "PRF": 253.03,
+                                                "SRC": 0.00,
+                                                "SCF": 2899.13,
+                                                "TSF": 316.24,
+                                                "CB": 0.00,
+                                                "CBTDS": 0.00,
+                                                "SBP": 0.00,
+                                                "SGP": 0.00
+                                            }
+                                        },
+                                        "trbf": false
+                                    },
+                                    {
+                                        "day": 4,
+                                        "fc": {
+                                            "BF": 2899.13,
+                                            "NF": 2899.13,
+                                            "TF": 2899.13,
+                                            "AAR": 0.00,
+                                            "CMU": 0.00,
+                                            "CTDS": 0.00,
+                                            "CNWTDS": 0.00,
+                                            "TAF": 0.00
+                                        },
+                                        "afc": {
+                                            "TAF": {
+                                                "SDS": 0.00,
+                                                "SAC": 0.00,
+                                                "TMF": 155.71,
+                                                "SNP": 0.00,
+                                                "TTSF": 0.00,
+                                                "PRF": 253.03,
+                                                "SRC": 0.00,
+                                                "SCF": 2899.13,
+                                                "TSF": 316.24,
+                                                "CB": 0.00,
+                                                "CBTDS": 0.00,
+                                                "SBP": 0.00,
+                                                "SGP": 0.00
+                                            }
+                                        },
+                                        "trbf": false
+                                    },
+                                    {
+                                        "day": 5,
+                                        "fc": {
+                                            "BF": 2899.13,
+                                            "NF": 2899.13,
+                                            "TF": 2899.13,
+                                            "AAR": 0.00,
+                                            "CMU": 0.00,
+                                            "CTDS": 0.00,
+                                            "CNWTDS": 0.00,
+                                            "TAF": 0.00
+                                        },
+                                        "afc": {
+                                            "TAF": {
+                                                "SDS": 0.00,
+                                                "SAC": 0.00,
+                                                "TMF": 155.71,
+                                                "SNP": 0.00,
+                                                "TTSF": 0.00,
+                                                "PRF": 253.03,
+                                                "SRC": 0.00,
+                                                "SCF": 2899.13,
+                                                "TSF": 316.24,
+                                                "CB": 0.00,
+                                                "CBTDS": 0.00,
+                                                "SBP": 0.00,
+                                                "SGP": 0.00
+                                            }
+                                        },
+                                        "trbf": false
+                                    },
+                                    {
+                                        "day": 6,
+                                        "fc": {
+                                            "BF": 2899.13,
+                                            "NF": 2899.13,
+                                            "TF": 2899.13,
+                                            "AAR": 0.00,
+                                            "CMU": 0.00,
+                                            "CTDS": 0.00,
+                                            "CNWTDS": 0.00,
+                                            "TAF": 0.00
+                                        },
+                                        "afc": {
+                                            "TAF": {
+                                                "SDS": 0.00,
+                                                "SAC": 0.00,
+                                                "TMF": 155.71,
+                                                "SNP": 0.00,
+                                                "TTSF": 0.00,
+                                                "PRF": 253.03,
+                                                "SRC": 0.00,
+                                                "SCF": 2899.13,
+                                                "TSF": 316.24,
+                                                "CB": 0.00,
+                                                "CBTDS": 0.00,
+                                                "SBP": 0.00,
+                                                "SGP": 0.00
+                                            }
+                                        },
+                                        "trbf": false
+                                    },
+                                    {
+                                        "day": 7,
+                                        "fc": {
+                                            "BF": 2899.13,
+                                            "NF": 2899.13,
+                                            "TF": 2899.13,
+                                            "AAR": 0.00,
+                                            "CMU": 0.00,
+                                            "CTDS": 0.00,
+                                            "CNWTDS": 0.00,
+                                            "TAF": 0.00
+                                        },
+                                        "afc": {
+                                            "TAF": {
+                                                "SDS": 0.00,
+                                                "SAC": 0.00,
+                                                "TMF": 155.71,
+                                                "SNP": 0.00,
+                                                "TTSF": 0.00,
+                                                "PRF": 253.03,
+                                                "SRC": 0.00,
+                                                "SCF": 2899.13,
+                                                "TSF": 316.24,
+                                                "CB": 0.00,
+                                                "CBTDS": 0.00,
+                                                "SBP": 0.00,
+                                                "SGP": 0.00
+                                            }
+                                        },
+                                        "trbf": false
+                                    },
+                                    {
+                                        "day": 8,
+                                        "fc": {
+                                            "BF": 2899.13,
+                                            "NF": 2899.13,
+                                            "TF": 2899.13,
+                                            "AAR": 0.00,
+                                            "CMU": 0.00,
+                                            "CTDS": 0.00,
+                                            "CNWTDS": 0.00,
+                                            "TAF": 0.00
+                                        },
+                                        "afc": {
+                                            "TAF": {
+                                                "SDS": 0.00,
+                                                "SAC": 0.00,
+                                                "TMF": 155.71,
+                                                "SNP": 0.00,
+                                                "TTSF": 0.00,
+                                                "PRF": 253.03,
+                                                "SRC": 0.00,
+                                                "SCF": 2899.13,
+                                                "TSF": 316.24,
+                                                "CB": 0.00,
+                                                "CBTDS": 0.00,
+                                                "SBP": 0.00,
+                                                "SGP": 0.00
+                                            }
+                                        },
+                                        "trbf": false
+                                    },
+                                    {
+                                        "day": 9,
+                                        "fc": {
+                                            "BF": 2899.13,
+                                            "NF": 2899.13,
+                                            "TF": 2899.13,
+                                            "AAR": 0.00,
+                                            "CMU": 0.00,
+                                            "CTDS": 0.00,
+                                            "CNWTDS": 0.00,
+                                            "TAF": 0.00
+                                        },
+                                        "afc": {
+                                            "TAF": {
+                                                "SDS": 0.00,
+                                                "SAC": 0.00,
+                                                "TMF": 155.71,
+                                                "SNP": 0.00,
+                                                "TTSF": 0.00,
+                                                "PRF": 253.03,
+                                                "SRC": 0.00,
+                                                "SCF": 2899.13,
+                                                "TSF": 316.24,
+                                                "CB": 0.00,
+                                                "CBTDS": 0.00,
+                                                "SBP": 0.00,
+                                                "SGP": 0.00
+                                            }
+                                        },
+                                        "trbf": false
+                                    },
+                                    {
+                                        "day": 10,
+                                        "fc": {
+                                            "BF": 2899.13,
+                                            "NF": 2899.13,
+                                            "TF": 2899.13,
+                                            "AAR": 0.00,
+                                            "CMU": 0.00,
+                                            "CTDS": 0.00,
+                                            "CNWTDS": 0.00,
+                                            "TAF": 0.00
+                                        },
+                                        "afc": {
+                                            "TAF": {
+                                                "SDS": 0.00,
+                                                "SAC": 0.00,
+                                                "TMF": 155.71,
+                                                "SNP": 0.00,
+                                                "TTSF": 0.00,
+                                                "PRF": 253.03,
+                                                "SRC": 0.00,
+                                                "SCF": 2899.13,
+                                                "TSF": 316.24,
+                                                "CB": 0.00,
+                                                "CBTDS": 0.00,
+                                                "SBP": 0.00,
+                                                "SGP": 0.00
+                                            }
+                                        },
+                                        "trbf": false
+                                    },
+                                    {
+                                        "day": 11,
+                                        "fc": {
+                                            "BF": 2899.13,
+                                            "NF": 2899.13,
+                                            "TF": 2899.13,
+                                            "AAR": 0.00,
+                                            "CMU": 0.00,
+                                            "CTDS": 0.00,
+                                            "CNWTDS": 0.00,
+                                            "TAF": 0.00
+                                        },
+                                        "afc": {
+                                            "TAF": {
+                                                "SDS": 0.00,
+                                                "SAC": 0.00,
+                                                "TMF": 155.71,
+                                                "SNP": 0.00,
+                                                "TTSF": 0.00,
+                                                "PRF": 253.03,
+                                                "SRC": 0.00,
+                                                "SCF": 2899.13,
+                                                "TSF": 316.24,
+                                                "CB": 0.00,
+                                                "CBTDS": 0.00,
+                                                "SBP": 0.00,
+                                                "SGP": 0.00
+                                            }
+                                        },
+                                        "trbf": false
+                                    },
+                                    {
+                                        "day": 12,
+                                        "fc": {
+                                            "BF": 2899.13,
+                                            "NF": 2899.13,
+                                            "TF": 2899.13,
+                                            "AAR": 0.00,
+                                            "CMU": 0.00,
+                                            "CTDS": 0.00,
+                                            "CNWTDS": 0.00,
+                                            "TAF": 0.00
+                                        },
+                                        "afc": {
+                                            "TAF": {
+                                                "SDS": 0.00,
+                                                "SAC": 0.00,
+                                                "TMF": 155.71,
+                                                "SNP": 0.00,
+                                                "TTSF": 0.00,
+                                                "PRF": 253.03,
+                                                "SRC": 0.00,
+                                                "SCF": 2899.13,
+                                                "TSF": 316.24,
+                                                "CB": 0.00,
+                                                "CBTDS": 0.00,
+                                                "SBP": 0.00,
+                                                "SGP": 0.00
+                                            }
+                                        },
+                                        "trbf": false
+                                    },
+                                    {
+                                        "day": 13,
+                                        "fc": {
+                                            "BF": 2899.13,
+                                            "NF": 2899.13,
+                                            "TF": 2899.13,
+                                            "AAR": 0.00,
+                                            "CMU": 0.00,
+                                            "CTDS": 0.00,
+                                            "CNWTDS": 0.00,
+                                            "TAF": 0.00
+                                        },
+                                        "afc": {
+                                            "TAF": {
+                                                "SDS": 0.00,
+                                                "SAC": 0.00,
+                                                "TMF": 155.71,
+                                                "SNP": 0.00,
+                                                "TTSF": 0.00,
+                                                "PRF": 253.03,
+                                                "SRC": 0.00,
+                                                "SCF": 2899.13,
+                                                "TSF": 316.24,
+                                                "CB": 0.00,
+                                                "CBTDS": 0.00,
+                                                "SBP": 0.00,
+                                                "SGP": 0.00
+                                            }
+                                        },
+                                        "trbf": false
+                                    },
+                                    {
+                                        "day": 14,
+                                        "fc": {
+                                            "BF": 2899.13,
+                                            "NF": 2899.13,
+                                            "TF": 2899.13,
+                                            "AAR": 0.00,
+                                            "CMU": 0.00,
+                                            "CTDS": 0.00,
+                                            "CNWTDS": 0.00,
+                                            "TAF": 0.00
+                                        },
+                                        "afc": {
+                                            "TAF": {
+                                                "SDS": 0.00,
+                                                "SAC": 0.00,
+                                                "TMF": 155.71,
+                                                "SNP": 0.00,
+                                                "TTSF": 0.00,
+                                                "PRF": 253.03,
+                                                "SRC": 0.00,
+                                                "SCF": 2899.13,
+                                                "TSF": 316.24,
+                                                "CB": 0.00,
+                                                "CBTDS": 0.00,
+                                                "SBP": 0.00,
+                                                "SGP": 0.00
+                                            }
+                                        },
+                                        "trbf": false
+                                    }
+                                ],
+                                "checkInDate": "2026-09-01",
+                                "checkOutDate": "2026-09-15",
+                                "ti": [
+                                    {
+                                        "ti": "Mr",
+                                        "pt": "ADULT",
+                                        "fN": "Shyamu",
+                                        "lN": "Adultaaaaa"
+                                    }
+                                ],
+                                "ispfap": false,
+                                "iopr": false,
+                                "irrh": true,
+                                "radi": {
+                                    "rid": "200931335"
+                                },
+                                "op": "1",
+                                "rexb": {
+                                    "BENEFIT": [
+                                        {
+                                            "values": [
+                                                "Free WiFi"
+                                            ]
+                                        }
+                                    ]
+                                },
+                                "rsta": "C"
+                            }
+                        ],
+                        "tp": 202939.10,
+                        "sc": "USD",
+                        "roe": 71.71,
+                        "cnp": {
+                            "id": "200931335_381785703_37341",
+                            "ifra": false,
+                            "inra": true,
+                            "pd": [
+                                {
+                                    "fdt": "2026-03-13T10:27",
+                                    "tdt": "2026-09-01T00:00",
+                                    "am": 202939.26,
+                                    "pp": 100.00
+                                },
+                                {
+                                    "fdt": "2026-09-01T00:00",
+                                    "tdt": "2026-09-15T23:59",
+                                    "am": 202939.10
+                                }
+                            ],
+                            "cpb": 24
+                        },
+                        "ddt": "2026-03-13T10:27:39.922",
+                        "inst": [
+                            {
+                                "type": "MANDATORY_TAX",
+                                "msg": "106.72 USD"
+                            }
+                        ],
+                        "oai": {
+                            "sid": "44"
+                        },
+                        "iopr": false,
+                        "ipr": true,
+                        "ipm": false,
+                        "iba": 202939.10
+                    }
+                ],
+                "uid": "15606716",
+                "checkInTime": {
+                    "minAge": 18.00,
+                    "endTime": "midnight",
+                    "beginTime": "2:00 PM"
+                },
+                "checkOutTime": {
+                    "beginTime": "12:00 PM"
+                }
+            },
+            "query": {
+                "checkinDate": "2026-09-01",
+                "checkoutDate": "2026-09-15",
+                "roomInfo": [
+                    {
+                        "numberOfAdults": 1,
+                        "numberOfChild": 2
+                    },
+                    {
+                        "numberOfAdults": 2,
+                        "numberOfChild": 1
+                    },
+                    {
+                        "numberOfAdults": 1,
+                        "numberOfChild": 1
+                    },
+                    {
+                        "numberOfAdults": 1,
+                        "numberOfChild": 0
+                    },
+                    {
+                        "numberOfAdults": 1,
+                        "numberOfChild": 0
+                    }
+                ],
+                "searchCriteria": {
+                    "city": "147862",
+                    "countryName": "UNITED ARAB EMIRATES",
+                    "nationality": "106"
+                },
+                "searchPreferences": {
+                    "currency": "INR"
+                },
+                "isSearchCompleted": false
+            }
+        }
+    },
+    "gstInfo": {
+        "isez": false
+    },
+    "currentTime": "2026-03-13T10:36:33.244",
+    "isSystemPending": true,
+    "status": {
+        "success": true,
+        "httpStatus": 200
+    }
+}

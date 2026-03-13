@@ -1,0 +1,108 @@
+{
+    "bookingId": "TJS203202006049",
+    "roomTravellerInfo": [
+        {
+            "travellerInfo": [
+                {
+                    "fN": "Ram",
+                    "lN": "Adulta",
+                    "ti": "Mr",
+                    "pt": "ADULT",
+                    "pan": "NKSPS7313M"
+                },
+                {
+                    "fN": "Shyam",
+                    "lN": "Childa",
+                    "ti": "Master",
+                    "pt": "CHILD"
+                },
+                {
+                    "fN": "Hari",
+                    "lN": "Childb",
+                    "ti": "Master",
+                    "pt": "CHILD"
+                }
+            ]
+        },
+        {
+            "travellerInfo": [
+                {
+                    "fN": "Gita",
+                    "lN": "Adultaa",
+                    "ti": "Mr",
+                    "pt": "ADULT",
+                    "pan": "NKSPS7313M"
+                },
+                {
+                    "fN": "Ramesh",
+                    "lN": "Adultbb",
+                    "ti": "Mr",
+                    "pt": "ADULT",
+                    "pan": "NKSPS7313M"
+                },
+                {
+                    "fN": "Ram",
+                    "lN": "Childaa",
+                    "ti": "Master",
+                    "pt": "CHILD"
+                }
+            ]
+        },
+        {
+            "travellerInfo": [
+                {
+                    "fN": "Gopal",
+                    "lN": "Adultaaa",
+                    "ti": "Mr",
+                    "pt": "ADULT",
+                    "pan": "NKSPS7313M"
+                },
+                {
+                    "fN": "Gopu",
+                    "lN": "Childaaa",
+                    "ti": "Master",
+                    "pt": "CHILD"
+                }
+            ]
+        },
+        {
+            "travellerInfo": [
+                {
+                    "fN": "Ramu",
+                    "lN": "Adultaaaa",
+                    "ti": "Mr",
+                    "pt": "ADULT",
+                    "pan": "NKSPS7313M"
+                }
+            ]
+        },
+        {
+            "travellerInfo": [
+                {
+                    "fN": "Shyamu",
+                    "lN": "Adultaaaaa",
+                    "ti": "Mr",
+                    "pt": "ADULT",
+                    "pan": "NKSPS7313M"
+                }
+            ]
+        }
+    ],
+    "deliveryInfo": {
+        "emails": [
+            "xyz@technogramsolutions.com"
+        ],
+        "contacts": [
+            "1234567890"
+        ],
+        "code": [
+            "+91"
+        ]
+    },
+    "type": "HOTEL",
+    "paymentInfos": [
+        {
+            "amount": 202939.10
+        }
+    ]
+}

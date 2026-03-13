@@ -1,0 +1,102 @@
+{
+    "bookingId": "TJS209702006034",
+    "roomTravellerInfo": [
+        {
+            "travellerInfo": [
+                {
+                    "fN": "Adulta",
+                    "lN": "Adulta",
+                    "ti": "Mr",
+                    "pt": "ADULT",
+                    "pan": "NKSPS7313M"
+                },
+                {
+                    "fN": "Adultb",
+                    "lN": "Adultb",
+                    "ti": "Mr",
+                    "pt": "ADULT",
+                    "pan": "NKSPS7313M"
+                },
+                {
+                    "fN": "Childa",
+                    "lN": "Childa",
+                    "ti": "Master",
+                    "pt": "CHILD"
+                },
+                {
+                    "fN": "Childb",
+                    "lN": "Childb",
+                    "ti": "Master",
+                    "pt": "CHILD"
+                }
+            ]
+        },
+        {
+            "travellerInfo": [
+                {
+                    "fN": "Adultaa",
+                    "lN": "Adultaa",
+                    "ti": "Mr",
+                    "pt": "ADULT",
+                    "pan": "NKSPS7313M"
+                },
+                {
+                    "fN": "Adultbb",
+                    "lN": "Adultbb",
+                    "ti": "Mr",
+                    "pt": "ADULT",
+                    "pan": "NKSPS7313M"
+                },
+                {
+                    "fN": "Adultcc",
+                    "lN": "Adultcc",
+                    "ti": "Mr",
+                    "pt": "ADULT",
+                    "pan": "NKSPS7313M"
+                },
+                {
+                    "fN": "Childaa",
+                    "lN": "Childaa",
+                    "ti": "Master",
+                    "pt": "CHILD"
+                }
+            ]
+        },
+        {
+            "travellerInfo": [
+                {
+                    "fN": "Adultaaa",
+                    "lN": "Adultaaa",
+                    "ti": "Mr",
+                    "pt": "ADULT",
+                    "pan": "NKSPS7313M"
+                },
+                {
+                    "fN": "Adultbbb",
+                    "lN": "Adultbbb",
+                    "ti": "Mr",
+                    "pt": "ADULT",
+                    "pan": "NKSPS7313M"
+                },
+                {
+                    "fN": "Childaaa",
+                    "lN": "Childaaa",
+                    "ti": "Master",
+                    "pt": "CHILD"
+                }
+            ]
+        }
+    ],
+    "deliveryInfo": {
+        "emails": [
+            "xyz@technogramsolutions.com"
+        ],
+        "contacts": [
+            "1234567890"
+        ],
+        "code": [
+            "+91"
+        ]
+    },
+    "type": "HOTEL"
+}

@@ -1,0 +1,236 @@
+{
+    "order": {
+        "bookingId": "TJS209002005989",
+        "amount": 3764.06,
+        "markup": 0.00,
+        "deliveryInfo": {
+            "emails": [
+                "xyz@technogramsolutions.com"
+            ],
+            "contacts": [
+                "1234567890"
+            ],
+            "code": [
+                "+91"
+            ]
+        },
+        "status": "SUCCESS",
+        "createdOn": "2026-03-13T08:23:16.660"
+    },
+    "itemInfos": {
+        "HOTEL": {
+            "hInfo": {
+                "name": "Royce Youth Hostel",
+                "des": "{\"spoken_languages\":\"English\",\"rooms\":\"Make yourself at home in one of the 5 guestrooms featuring microwaves. Prepare your meals in the shared/communal kitchen. Complimentary wired and wireless internet access is available. Bathrooms have shower/tub combinations and slippers.\",\"onsite_payments\":\"Debit cards not accepted, Cash\",\"dining\":\"Grab a bite to eat at one of the hotel's many dining establishments, which include 2 restaurants and 2 coffee shops/cafes. Mingle with other guests at the complimentary reception, held daily.\",\"business_amenities\":\"Featured amenities include a 24-hour front desk and coffee/tea in a common area.\",\"location\":\"With a stay at Royce Youth Hostel , you'll be centrally located in Sharjah, within a 15-minute drive of Dubai Creek and City Centre Deira.  This hotel is 9.9 mi (16 km) from Gold Souk and 11.6 mi (18.7 km) from Dubai World Trade Centre.\",\"attractions\":\"Distances are displayed to the nearest 0.1 mile and kilometer.  Sharjah Mega Mall - 0.8 km / 0.5 mi  King Faisal Mosque - 1 km / 0.6 mi  Al Noor Mosque - 1.5 km / 0.9 mi  Sharjah Gold Souq - 1.5 km / 0.9 mi  Sharjah Gold Center - 1.6 km / 1 mi  Khalid Lake - 1.6 km / 1 mi  Al Noor Island - 1.9 km / 1.2 mi  Al Jazeera Park - 2.4 km / 1.5 mi  Al Majaz Waterfront - 2.4 km / 1.5 mi  Rolla Mall - 2.5 km / 1.5 mi  Al Qasba - 3.7 km / 2.3 mi  Sharjah Cricket Stadium - 3.9 km / 2.4 mi  Corniche Mosque - 4 km / 2.5 mi  Sharjah City Centre - 4.7 km / 2.9 mi  Expo Centre Sharjah - 5.6 km / 3.5 mi  The nearest airports are:Dubai Intl. Airport (DXB) - 15.4 km / 9.6 mi Sharjah (SHJ-Sharjah Intl.) - 16.7 km / 10.4 mi \",\"headline\":\"In Sharjah (Al Qasimia)\"}",
+                "rt": 3,
+                "gl": {},
+                "ad": {
+                    "adr": "28 Shuja'a Bin Wahab Street",
+                    "adr2": "Al Manal Building 2nd floor flat 206",
+                    "city": {
+                        "name": "Sharjah"
+                    },
+                    "state": {},
+                    "country": {
+                        "code": "AE",
+                        "name": "United Arab Emirates"
+                    },
+                    "ctn": "Sharjah",
+                    "cn": "United Arab Emirates"
+                },
+                "ops": [
+                    {
+                        "ris": [
+                            {
+                                "id": "324933545_396220743_117298##1",
+                                "rc": "Standard Quadruple Room, City View",
+                                "rt": "Standard Quadruple Room, City View-8 Twin Beds and 8 Large Twin Beds",
+                                "srn": "Standard, Quadruple, City View",
+                                "adt": 4,
+                                "chd": 2,
+                                "pdes": [],
+                                "mb": "ROOM ONLY",
+                                "tp": 3764.06,
+                                "tfcs": {
+                                    "TF": 3764.06,
+                                    "TAF": 0.00,
+                                    "BF": 3764.06,
+                                    "CMU": 0.00,
+                                    "NF": 3764.06
+                                },
+                                "tafcs": {
+                                    "TAF": {
+                                        "TSF": 501.97,
+                                        "SNP": 3457.14,
+                                        "TTSF": 501.97,
+                                        "SGP": 3764.06,
+                                        "SAC": 306.92,
+                                        "SBP": 3262.09,
+                                        "TMF": 306.92,
+                                        "SRC": 0.00
+                                    }
+                                },
+                                "ddt": "2026-03-13T08:19:35.334",
+                                "pis": [
+                                    {
+                                        "day": 1,
+                                        "fc": {
+                                            "BF": 3764.06,
+                                            "NF": 3764.06,
+                                            "TF": 3764.06,
+                                            "CMU": 0.00,
+                                            "TAF": 0.00
+                                        },
+                                        "afc": {
+                                            "TAF": {
+                                                "TSF": 501.97,
+                                                "SNP": 3457.14,
+                                                "TTSF": 501.97,
+                                                "SGP": 3764.06,
+                                                "SAC": 306.92,
+                                                "SBP": 3262.09,
+                                                "TMF": 306.92,
+                                                "SRC": 0.00
+                                            }
+                                        }
+                                    }
+                                ],
+                                "checkInDate": "2026-09-04",
+                                "checkOutDate": "2026-09-05",
+                                "ti": [
+                                    {
+                                        "ti": "Mr",
+                                        "pt": "ADULT",
+                                        "fN": "Adulta",
+                                        "lN": "Adulta"
+                                    },
+                                    {
+                                        "ti": "Mr",
+                                        "pt": "ADULT",
+                                        "fN": "Adultaa",
+                                        "lN": "Adultaa"
+                                    },
+                                    {
+                                        "ti": "Mr",
+                                        "pt": "ADULT",
+                                        "fN": "Adultaaa",
+                                        "lN": "Adultaaa"
+                                    },
+                                    {
+                                        "ti": "Mr",
+                                        "pt": "ADULT",
+                                        "fN": "Adultaaaa",
+                                        "lN": "Adultaaaa"
+                                    },
+                                    {
+                                        "ti": "Master",
+                                        "pt": "CHILD",
+                                        "fN": "Childa",
+                                        "lN": "Childa",
+                                        "age": 2
+                                    },
+                                    {
+                                        "ti": "Master",
+                                        "pt": "CHILD",
+                                        "fN": "Childb",
+                                        "lN": "Childb",
+                                        "age": 3
+                                    }
+                                ],
+                                "ispfap": false,
+                                "iopr": false,
+                                "irrh": true,
+                                "radi": {
+                                    "rid": "324933545",
+                                    "vi": [
+                                        "City"
+                                    ]
+                                },
+                                "op": "4-2,3",
+                                "rexb": {
+                                    "BENEFIT": [
+                                        {
+                                            "values": [
+                                                "Free WiFi"
+                                            ]
+                                        }
+                                    ]
+                                },
+                                "rsta": "S"
+                            }
+                        ],
+                        "tp": 3764.06,
+                        "sc": "USD",
+                        "roe": 71.71,
+                        "cnp": {
+                            "id": "324933545_396220743_117298",
+                            "ifra": false,
+                            "inra": true,
+                            "pd": [
+                                {
+                                    "fdt": "2026-03-13T08:19",
+                                    "tdt": "2026-09-04T00:00",
+                                    "am": 3764.06,
+                                    "pp": 100.00
+                                },
+                                {
+                                    "fdt": "2026-09-04T00:00",
+                                    "tdt": "2026-09-05T23:59",
+                                    "am": 3764.06
+                                }
+                            ],
+                            "cpb": 24
+                        },
+                        "ddt": "2026-03-13T08:19:35.334",
+                        "inst": [],
+                        "oai": {
+                            "sid": "44"
+                        },
+                        "iopr": false,
+                        "ipr": true,
+                        "ipm": false,
+                        "iba": 3764.06
+                    }
+                ],
+                "uid": "71134731",
+                "checkInTime": {
+                    "minAge": 18.00,
+                    "endTime": "6:30 PM",
+                    "beginTime": "10:00 AM"
+                },
+                "checkOutTime": {
+                    "beginTime": "3:00 PM"
+                }
+            },
+            "query": {
+                "checkinDate": "2026-09-04",
+                "checkoutDate": "2026-09-05",
+                "roomInfo": [
+                    {
+                        "numberOfAdults": 4,
+                        "numberOfChild": 2
+                    }
+                ],
+                "searchCriteria": {
+                    "city": "147862",
+                    "countryName": "UNITED ARAB EMIRATES",
+                    "nationality": "106"
+                },
+                "searchPreferences": {
+                    "currency": "INR"
+                },
+                "searchId": "hsid8848095279",
+                "isSearchCompleted": false
+            }
+        }
+    },
+    "gstInfo": {
+        "isez": false
+    },
+    "currentTime": "2026-03-13T08:23:37.189",
+    "isSystemPending": true,
+    "status": {
+        "success": true,
+        "httpStatus": 200
+    }
+}

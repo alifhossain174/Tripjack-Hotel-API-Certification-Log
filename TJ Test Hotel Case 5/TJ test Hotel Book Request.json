@@ -1,0 +1,66 @@
+{
+    "bookingId": "TJS209002005989",
+    "roomTravellerInfo": [
+        {
+            "travellerInfo": [
+                {
+                    "fN": "Adulta",
+                    "lN": "Adulta",
+                    "ti": "Mr",
+                    "pt": "ADULT",
+                    "pan": "NKSPS7313M"
+                },
+                {
+                    "fN": "Adultaa",
+                    "lN": "Adultaa",
+                    "ti": "Mr",
+                    "pt": "ADULT",
+                    "pan": "NKSPS7313M"
+                },
+                {
+                    "fN": "Adultaaa",
+                    "lN": "Adultaaa",
+                    "ti": "Mr",
+                    "pt": "ADULT",
+                    "pan": "NKSPS7313M"
+                },
+                {
+                    "fN": "Adultaaaa",
+                    "lN": "Adultaaaa",
+                    "ti": "Mr",
+                    "pt": "ADULT",
+                    "pan": "NKSPS7313M"
+                },
+                {
+                    "fN": "Childa",
+                    "lN": "Childa",
+                    "ti": "Master",
+                    "pt": "CHILD"
+                },
+                {
+                    "fN": "Childb",
+                    "lN": "Childb",
+                    "ti": "Master",
+                    "pt": "CHILD"
+                }
+            ]
+        }
+    ],
+    "deliveryInfo": {
+        "emails": [
+            "xyz@technogramsolutions.com"
+        ],
+        "contacts": [
+            "1234567890"
+        ],
+        "code": [
+            "+91"
+        ]
+    },
+    "type": "HOTEL",
+    "paymentInfos": [
+        {
+            "amount": 3764.06
+        }
+    ]
+}

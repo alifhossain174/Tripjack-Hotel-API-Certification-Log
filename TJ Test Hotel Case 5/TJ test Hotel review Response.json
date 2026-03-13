@@ -1,0 +1,371 @@
+{
+    "hInfo": {
+        "id": "hsid8848095279-71134731",
+        "name": "Royce Youth Hostel",
+        "imgs": [
+            {
+                "url": "https://i.travelapi.com/lodging/103000000/102230000/102229700/102229635/8388332d_b.jpg",
+                "sz": "Standard"
+            },
+            {
+                "url": "https://i.travelapi.com/lodging/103000000/102230000/102229700/102229635/8388332d_z.jpg",
+                "sz": "XXL"
+            },
+            {
+                "url": "https://i.travelapi.com/lodging/103000000/102230000/102229700/102229635/c2438e03_b.jpg",
+                "sz": "Standard"
+            },
+            {
+                "url": "https://i.travelapi.com/lodging/103000000/102230000/102229700/102229635/c2438e03_z.jpg",
+                "sz": "XXL"
+            },
+            {
+                "url": "https://i.travelapi.com/lodging/103000000/102230000/102229700/102229635/64ff3f2f_b.jpg",
+                "sz": "Standard"
+            },
+            {
+                "url": "https://i.travelapi.com/lodging/103000000/102230000/102229700/102229635/64ff3f2f_z.jpg",
+                "sz": "XXL"
+            },
+            {
+                "url": "https://i.travelapi.com/lodging/103000000/102230000/102229700/102229635/493875f0_b.jpg",
+                "sz": "Standard"
+            },
+            {
+                "url": "https://i.travelapi.com/lodging/103000000/102230000/102229700/102229635/493875f0_z.jpg",
+                "sz": "XXL"
+            },
+            {
+                "url": "https://i.travelapi.com/lodging/103000000/102230000/102229700/102229635/1e20e21d_b.jpg",
+                "sz": "Standard"
+            },
+            {
+                "url": "https://i.travelapi.com/lodging/103000000/102230000/102229700/102229635/1e20e21d_z.jpg",
+                "sz": "XXL"
+            },
+            {
+                "url": "https://i.travelapi.com/lodging/103000000/102230000/102229700/102229635/7308e46b_b.jpg",
+                "sz": "Standard"
+            },
+            {
+                "url": "https://i.travelapi.com/lodging/103000000/102230000/102229700/102229635/7308e46b_z.jpg",
+                "sz": "XXL"
+            },
+            {
+                "url": "https://i.travelapi.com/lodging/103000000/102230000/102229700/102229635/86e6f5f1_b.jpg",
+                "sz": "Standard"
+            },
+            {
+                "url": "https://i.travelapi.com/lodging/103000000/102230000/102229700/102229635/86e6f5f1_z.jpg",
+                "sz": "XXL"
+            },
+            {
+                "url": "https://i.travelapi.com/lodging/103000000/102230000/102229700/102229635/b809d447_b.jpg",
+                "sz": "Standard"
+            },
+            {
+                "url": "https://i.travelapi.com/lodging/103000000/102230000/102229700/102229635/b809d447_z.jpg",
+                "sz": "XXL"
+            },
+            {
+                "url": "https://i.travelapi.com/lodging/103000000/102230000/102229700/102229635/2c46e3ce_b.jpg",
+                "sz": "Standard"
+            },
+            {
+                "url": "https://i.travelapi.com/lodging/103000000/102230000/102229700/102229635/2c46e3ce_z.jpg",
+                "sz": "XXL"
+            },
+            {
+                "url": "https://i.travelapi.com/lodging/103000000/102230000/102229700/102229635/93920a9f_b.jpg",
+                "sz": "Standard"
+            },
+            {
+                "url": "https://i.travelapi.com/lodging/103000000/102230000/102229700/102229635/93920a9f_z.jpg",
+                "sz": "XXL"
+            },
+            {
+                "url": "https://i.travelapi.com/lodging/103000000/102230000/102229700/102229635/171cafbc_b.jpg",
+                "sz": "Standard"
+            },
+            {
+                "url": "https://i.travelapi.com/lodging/103000000/102230000/102229700/102229635/171cafbc_z.jpg",
+                "sz": "XXL"
+            }
+        ],
+        "img": [
+            {
+                "url": "https://i.travelapi.com/lodging/103000000/102230000/102229700/102229635/8388332d_z.jpg"
+            },
+            {
+                "url": "https://i.travelapi.com/lodging/103000000/102230000/102229700/102229635/c2438e03_z.jpg",
+                "sz": "XXL"
+            },
+            {
+                "url": "https://i.travelapi.com/lodging/103000000/102230000/102229700/102229635/86e6f5f1_z.jpg",
+                "sz": "XXL"
+            },
+            {
+                "url": "https://i.travelapi.com/lodging/103000000/102230000/102229700/102229635/2c46e3ce_z.jpg",
+                "sz": "XXL"
+            },
+            {
+                "url": "https://i.travelapi.com/lodging/103000000/102230000/102229700/102229635/93920a9f_z.jpg",
+                "sz": "XXL"
+            },
+            {
+                "url": "https://i.travelapi.com/lodging/103000000/102230000/102229700/102229635/171cafbc_z.jpg",
+                "sz": "XXL"
+            }
+        ],
+        "tac": {
+            "sc": [
+                {
+                    "type": "URL",
+                    "info": "http://developer.ean.com/terms/en/",
+                    "label": "Supplier terms and conditions"
+                },
+                {
+                    "type": "URL",
+                    "info": "http://developer.ean.com/terms/agent/en/",
+                    "label": "Supplier terms and conditions for agent"
+                }
+            ]
+        },
+        "des": "{\"spoken_languages\":\"English\",\"rooms\":\"Make yourself at home in one of the 5 guestrooms featuring microwaves. Prepare your meals in the shared/communal kitchen. Complimentary wired and wireless internet access is available. Bathrooms have shower/tub combinations and slippers.\",\"onsite_payments\":\"Debit cards not accepted, Cash\",\"dining\":\"Grab a bite to eat at one of the hotel's many dining establishments, which include 2 restaurants and 2 coffee shops/cafes. Mingle with other guests at the complimentary reception, held daily.\",\"business_amenities\":\"Featured amenities include a 24-hour front desk and coffee/tea in a common area.\",\"location\":\"With a stay at Royce Youth Hostel , you'll be centrally located in Sharjah, within a 15-minute drive of Dubai Creek and City Centre Deira.  This hotel is 9.9 mi (16 km) from Gold Souk and 11.6 mi (18.7 km) from Dubai World Trade Centre.\",\"attractions\":\"Distances are displayed to the nearest 0.1 mile and kilometer.  Sharjah Mega Mall - 0.8 km / 0.5 mi  King Faisal Mosque - 1 km / 0.6 mi  Al Noor Mosque - 1.5 km / 0.9 mi  Sharjah Gold Souq - 1.5 km / 0.9 mi  Sharjah Gold Center - 1.6 km / 1 mi  Khalid Lake - 1.6 km / 1 mi  Al Noor Island - 1.9 km / 1.2 mi  Al Jazeera Park - 2.4 km / 1.5 mi  Al Majaz Waterfront - 2.4 km / 1.5 mi  Rolla Mall - 2.5 km / 1.5 mi  Al Qasba - 3.7 km / 2.3 mi  Sharjah Cricket Stadium - 3.9 km / 2.4 mi  Corniche Mosque - 4 km / 2.5 mi  Sharjah City Centre - 4.7 km / 2.9 mi  Expo Centre Sharjah - 5.6 km / 3.5 mi  The nearest airports are:Dubai Intl. Airport (DXB) - 15.4 km / 9.6 mi Sharjah (SHJ-Sharjah Intl.) - 16.7 km / 10.4 mi \",\"headline\":\"In Sharjah (Al Qasimia)\"}",
+        "rt": 3,
+        "gl": {},
+        "ad": {
+            "adr": "28 Shuja'a Bin Wahab Street",
+            "adr2": "Al Manal Building 2nd floor flat 206",
+            "city": {
+                "name": "Sharjah"
+            },
+            "state": {},
+            "country": {
+                "code": "AE",
+                "name": "United Arab Emirates"
+            },
+            "ctn": "Sharjah",
+            "cn": "United Arab Emirates"
+        },
+        "facilities": [
+            "Number of restaurants - 2",
+            "Spa services on site",
+            "Number of coffee shops/cafes - 2",
+            "Coffee/tea in common areas",
+            "Wheelchair accessible – no",
+            "No accessible shuttle",
+            "Free reception",
+            "Shopping mall on site",
+            "24-hour front desk"
+        ],
+        "pt": "HOTEL",
+        "ht": [],
+        "ops": [
+            {
+                "ris": [
+                    {
+                        "id": "324933545_396220743_117298##1",
+                        "rc": "Standard Quadruple Room, City View",
+                        "rt": "Standard Quadruple Room, City View-8 Twin Beds and 8 Large Twin Beds",
+                        "srn": "Standard, Quadruple, City View",
+                        "adt": 4,
+                        "chd": 2,
+                        "pdes": [],
+                        "mb": "ROOM ONLY",
+                        "tp": 3764.06,
+                        "tfcs": {
+                            "BF": 3764.06,
+                            "CMU": 0.00,
+                            "TF": 3764.06,
+                            "TAF": 0.00,
+                            "NF": 3764.06
+                        },
+                        "tafcs": {
+                            "TAF": {
+                                "TMF": 306.92,
+                                "SAC": 306.92,
+                                "SNP": 3457.14,
+                                "TTSF": 501.97,
+                                "SBP": 3262.09,
+                                "SRC": 0.00,
+                                "TSF": 501.97,
+                                "SGP": 3764.06
+                            }
+                        },
+                        "pis": [
+                            {
+                                "day": 1,
+                                "fc": {
+                                    "BF": 3764.06,
+                                    "CMU": 0.00,
+                                    "TAF": 0.00,
+                                    "TF": 3764.06,
+                                    "NF": 3764.06
+                                },
+                                "afc": {
+                                    "TAF": {
+                                        "TMF": 306.92,
+                                        "SAC": 306.92,
+                                        "SNP": 3457.14,
+                                        "TTSF": 501.97,
+                                        "SBP": 3262.09,
+                                        "SRC": 0.00,
+                                        "TSF": 501.97,
+                                        "SGP": 3764.06
+                                    }
+                                }
+                            }
+                        ],
+                        "fcs": [
+                            "Free WiFi"
+                        ],
+                        "checkInDate": "2026-09-04",
+                        "checkOutDate": "2026-09-05",
+                        "irrh": true,
+                        "radi": {
+                            "rid": "324933545",
+                            "vi": [
+                                "City"
+                            ]
+                        },
+                        "op": "4-2,3",
+                        "rexb": {
+                            "BENEFIT": [
+                                {
+                                    "values": [
+                                        "Free WiFi"
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "id": "44_0_102229635",
+                "tp": 3764.06,
+                "sc": "USD",
+                "roe": 71.71,
+                "cnp": {
+                    "id": "324933545_396220743_117298",
+                    "ifra": false,
+                    "inra": true,
+                    "pd": [
+                        {
+                            "fdt": "2026-03-13T08:19",
+                            "tdt": "2026-09-04T00:00",
+                            "am": 3764.06,
+                            "pp": 100.00
+                        },
+                        {
+                            "fdt": "2026-09-04T00:00",
+                            "tdt": "2026-09-05T23:59",
+                            "am": 3764.06
+                        }
+                    ]
+                },
+                "ddt": "2026-03-13T08:19:35.334",
+                "oai": {
+                    "sid": "44"
+                },
+                "ipr": true,
+                "omid": "-629969652",
+                "ipm": false,
+                "cpb": 24
+            }
+        ],
+        "pops": [
+            {
+                "fc": [
+                    "ROOM ONLY"
+                ],
+                "tpc": 3764.06,
+                "cb": 0.00
+            }
+        ],
+        "uid": "71134731",
+        "lhc": "6819175d86716e44f9104269",
+        "istjv": false,
+        "iuma": false,
+        "tjid": "100000024121",
+        "checkInTime": {
+            "beginTime": "10:00 AM",
+            "endTime": "6:30 PM",
+            "minAge": 18.00
+        },
+        "checkOutTime": {
+            "beginTime": "3:00 PM"
+        }
+    },
+    "bookingId": "TJS209002005989",
+    "query": {
+        "checkinDate": "2026-09-04",
+        "checkoutDate": "2026-09-05",
+        "roomInfo": [
+            {
+                "numberOfAdults": 4,
+                "numberOfChild": 2,
+                "childAge": [
+                    2,
+                    3
+                ]
+            }
+        ],
+        "searchCriteria": {
+            "city": "147862",
+            "countryName": "UNITED ARAB EMIRATES",
+            "cityName": "DUBAI",
+            "nationality": "106",
+            "regionType": "MULTI_CITY_VICINITY"
+        },
+        "searchPreferences": {
+            "ratings": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "currency": "INR",
+            "fsc": true
+        },
+        "searchId": "hsid8848095279",
+        "isSearchCompleted": false,
+        "miscInfo": {}
+    },
+    "isPriceChanged": false,
+    "ntish": [
+        {
+            "travellerInfo": [
+                {
+                    "pt": "ADULT"
+                },
+                {
+                    "pt": "ADULT"
+                },
+                {
+                    "pt": "ADULT"
+                },
+                {
+                    "pt": "ADULT"
+                },
+                {
+                    "pt": "CHILD"
+                },
+                {
+                    "pt": "CHILD"
+                }
+            ],
+            "id": "324933545_396220743_117298##1"
+        }
+    ],
+    "isTcsApplicable": false,
+    "isOptionChanged": false,
+    "status": {
+        "success": true,
+        "httpStatus": 200
+    },
+    "conditions": {
+        "isBA": false,
+        "st": 1087
+    }
+}

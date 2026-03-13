@@ -1,0 +1,512 @@
+{
+  "info": {
+    "_postman_id": "d7ed3255-99fe-489f-9ec7-dce52742ac96",
+    "name": "Tripjack Hotel API Certification",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+    "_exporter_id": "9320515"
+  },
+  "item": [
+    {
+      "name": "Hotel Search List",
+      "request": {
+        "method": "POST",
+        "header": [
+          {
+            "key": "apikey",
+            "value": "312232b2f29402-500c-4f0b-a442-1a4170e286dc",
+            "type": "text"
+          },
+          {
+            "key": "Content-Type",
+            "value": "application/json",
+            "type": "text"
+          },
+          {
+            "key": "Accept",
+            "value": "application/json",
+            "type": "text"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\r\n    \"searchQuery\": {\r\n        \"checkinDate\": \"01-09-2026\",\r\n        \"checkoutDate\": \"15-09-2026\",\r\n        \"roomInfo\": [\r\n            {\r\n                \"numberOfAdults\": \"3\",\r\n                \"numberOfChild\": \"0\",\r\n                \"childAge\": []\r\n            },\r\n            {\r\n                \"numberOfAdults\": \"3\",\r\n                \"numberOfChild\": \"0\",\r\n                \"childAge\": []\r\n            }\r\n        ],\r\n        \"searchCriteria\": {\r\n            \"city\": \"147862\",\r\n            \"nationality\": \"106\",\r\n            \"currency\": \"INR\"\r\n        },\r\n        \"searchPreferences\": {\r\n            \"ratings\": [\r\n                1,\r\n                2,\r\n                3,\r\n                4,\r\n                5\r\n            ],\r\n            \"fsc\": true\r\n        }\r\n    },\r\n    \"sync\": true\r\n}",
+          "options": {
+            "raw": {
+              "language": "json"
+            }
+          }
+        },
+        "url": {
+          "raw": "https://apitest.tripjack.com/hms/v1/hotel-searchquery-list",
+          "protocol": "https",
+          "host": [
+            "apitest",
+            "tripjack",
+            "com"
+          ],
+          "path": [
+            "hms",
+            "v1",
+            "hotel-searchquery-list"
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "Hotel Search By Search ID",
+      "request": {
+        "method": "POST",
+        "header": [],
+        "body": {
+          "mode": "raw",
+          "raw": "{\r\n    \"searchId\": \"hsid5021735735-15079424\"\r\n}",
+          "options": {
+            "raw": {
+              "language": "json"
+            }
+          }
+        },
+        "url": {
+          "raw": "https://apitest.tripjack.com/hms/v1/hotel-search",
+          "protocol": "https",
+          "host": [
+            "apitest",
+            "tripjack",
+            "com"
+          ],
+          "path": [
+            "hms",
+            "v1",
+            "hotel-search"
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "Hotel Detail Search",
+      "request": {
+        "method": "POST",
+        "header": [
+          {
+            "key": "apikey",
+            "value": "312232b2f29402-500c-4f0b-a442-1a4170e286dc",
+            "type": "text"
+          },
+          {
+            "key": "Content-Type",
+            "value": "application/json",
+            "type": "text"
+          },
+          {
+            "key": "Accept",
+            "value": "application/json",
+            "type": "text"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\r\n\t\"id\": \"hsid1689365264-71588482\"\r\n}",
+          "options": {
+            "raw": {
+              "language": "json"
+            }
+          }
+        },
+        "url": {
+          "raw": "https://apitest.tripjack.com/hms/v1/hotelDetail-search",
+          "protocol": "https",
+          "host": [
+            "apitest",
+            "tripjack",
+            "com"
+          ],
+          "path": [
+            "hms",
+            "v1",
+            "hotelDetail-search"
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "Hotel Review",
+      "request": {
+        "method": "POST",
+        "header": [
+          {
+            "key": "apikey",
+            "value": "312232b2f29402-500c-4f0b-a442-1a4170e286dc",
+            "type": "text"
+          },
+          {
+            "key": "Content-Type",
+            "value": "application/json",
+            "type": "text"
+          },
+          {
+            "key": "Accept",
+            "value": "application/json",
+            "type": "text"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\r\n    \"hotelId\":\"hsid1689365264-71588482\",\r\n    \"optionId\":\"44_0_111440322\"\r\n}",
+          "options": {
+            "raw": {
+              "language": "json"
+            }
+          }
+        },
+        "url": {
+          "raw": "https://apitest.tripjack.com/hms/v1/hotel-review",
+          "protocol": "https",
+          "host": [
+            "apitest",
+            "tripjack",
+            "com"
+          ],
+          "path": [
+            "hms",
+            "v1",
+            "hotel-review"
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "Hotel Cancellation Policy",
+      "request": {
+        "method": "POST",
+        "header": [
+          {
+            "key": "apikey",
+            "value": "312232b2f29402-500c-4f0b-a442-1a4170e286dc",
+            "type": "text"
+          },
+          {
+            "key": "Content-Type",
+            "value": "application/json",
+            "type": "text"
+          },
+          {
+            "key": "Accept",
+            "value": "application/json",
+            "type": "text"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\r\n    \"id\":\"hsid1689365264-71588482\",\r\n    \"optionId\":\"44_0_111440322\"\r\n}",
+          "options": {
+            "raw": {
+              "language": "json"
+            }
+          }
+        },
+        "url": {
+          "raw": "https://apitest.tripjack.com/hms/v1/hotel-cancellation-policy",
+          "protocol": "https",
+          "host": [
+            "apitest",
+            "tripjack",
+            "com"
+          ],
+          "path": [
+            "hms",
+            "v1",
+            "hotel-cancellation-policy"
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "Hotel Booking",
+      "request": {
+        "method": "POST",
+        "header": [
+          {
+            "key": "apikey",
+            "value": "312232b2f29402-500c-4f0b-a442-1a4170e286dc",
+            "type": "text"
+          },
+          {
+            "key": "Content-Type",
+            "value": "application/json",
+            "type": "text"
+          },
+          {
+            "key": "Accept",
+            "value": "application/json",
+            "type": "text"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\r\n    \"bookingId\": \"TJS208302006088\",\r\n    \"roomTravellerInfo\": [\r\n        {\r\n            \"travellerInfo\": [\r\n                {\r\n                    \"fN\": \"Adulta\",\r\n                    \"lN\": \"Adulta\",\r\n                    \"ti\": \"Mr\",\r\n                    \"pt\": \"ADULT\",\r\n                    \"pan\": \"NKSPS7313M\"\r\n                },\r\n                {\r\n                    \"fN\": \"Adultaa\",\r\n                    \"lN\": \"Adultaa\",\r\n                    \"ti\": \"Mr\",\r\n                    \"pt\": \"ADULT\",\r\n                    \"pan\": \"NKSPS7313M\"\r\n                },\r\n                {\r\n                    \"fN\": \"Adultaaa\",\r\n                    \"lN\": \"Adultaaa\",\r\n                    \"ti\": \"Mr\",\r\n                    \"pt\": \"ADULT\",\r\n                    \"pan\": \"NKSPS7313M\"\r\n                }\r\n            ]\r\n        },\r\n        {\r\n            \"travellerInfo\": [\r\n                {\r\n                    \"fN\": \"Adultb\",\r\n                    \"lN\": \"Adultb\",\r\n                    \"ti\": \"Mr\",\r\n                    \"pt\": \"ADULT\",\r\n                    \"pan\": \"NKSPS7313M\"\r\n                },\r\n                {\r\n                    \"fN\": \"Adultbb\",\r\n                    \"lN\": \"Adultbb\",\r\n                    \"ti\": \"Mr\",\r\n                    \"pt\": \"ADULT\",\r\n                    \"pan\": \"NKSPS7313M\"\r\n                },\r\n                {\r\n                    \"fN\": \"Adultccc\",\r\n                    \"lN\": \"Adultccc\",\r\n                    \"ti\": \"Mr\",\r\n                    \"pt\": \"ADULT\",\r\n                    \"pan\": \"NKSPS7313M\"\r\n                }\r\n            ]\r\n        }\r\n    ],\r\n    \"deliveryInfo\": {\r\n        \"emails\": [\r\n            \"xyz@technogramsolutions.com\"\r\n        ],\r\n        \"contacts\": [\r\n            \"1234567890\"\r\n        ],\r\n        \"code\": [\r\n            \"+91\"\r\n        ]\r\n    },\r\n    \"type\": \"HOTEL\",\r\n    \"paymentInfos\": [\r\n        {\r\n            \"amount\": 90193.88\r\n        }\r\n    ]\r\n}",
+          "options": {
+            "raw": {
+              "language": "json"
+            }
+          }
+        },
+        "url": {
+          "raw": "https://apitest.tripjack.com/oms/v1/hotel/book",
+          "protocol": "https",
+          "host": [
+            "apitest",
+            "tripjack",
+            "com"
+          ],
+          "path": [
+            "oms",
+            "v1",
+            "hotel",
+            "book"
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "Hotel Booking Hold",
+      "request": {
+        "method": "POST",
+        "header": [
+          {
+            "key": "apikey",
+            "value": "312232b2f29402-500c-4f0b-a442-1a4170e286dc",
+            "type": "text"
+          },
+          {
+            "key": "Content-Type",
+            "value": "application/json",
+            "type": "text"
+          },
+          {
+            "key": "Accept",
+            "value": "application/json",
+            "type": "text"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\r\n    \"bookingId\": \"TJS209702006034\",\r\n    \"roomTravellerInfo\": [\r\n        {\r\n            \"travellerInfo\": [\r\n                {\r\n                    \"fN\": \"Adulta\",\r\n                    \"lN\": \"Adulta\",\r\n                    \"ti\": \"Mr\",\r\n                    \"pt\": \"ADULT\",\r\n                    \"pan\": \"NKSPS7313M\"\r\n                },\r\n                {\r\n                    \"fN\": \"Adultb\",\r\n                    \"lN\": \"Adultb\",\r\n                    \"ti\": \"Mr\",\r\n                    \"pt\": \"ADULT\",\r\n                    \"pan\": \"NKSPS7313M\"\r\n                },\r\n                {\r\n                    \"fN\": \"Childa\",\r\n                    \"lN\": \"Childa\",\r\n                    \"ti\": \"Master\",\r\n                    \"pt\": \"CHILD\"\r\n                },\r\n                {\r\n                    \"fN\": \"Childb\",\r\n                    \"lN\": \"Childb\",\r\n                    \"ti\": \"Master\",\r\n                    \"pt\": \"CHILD\"\r\n                }\r\n            ]\r\n        },\r\n        {\r\n            \"travellerInfo\": [\r\n                {\r\n                    \"fN\": \"Adultaa\",\r\n                    \"lN\": \"Adultaa\",\r\n                    \"ti\": \"Mr\",\r\n                    \"pt\": \"ADULT\",\r\n                    \"pan\": \"NKSPS7313M\"\r\n                },\r\n                {\r\n                    \"fN\": \"Adultbb\",\r\n                    \"lN\": \"Adultbb\",\r\n                    \"ti\": \"Mr\",\r\n                    \"pt\": \"ADULT\",\r\n                    \"pan\": \"NKSPS7313M\"\r\n                },\r\n                {\r\n                    \"fN\": \"Adultcc\",\r\n                    \"lN\": \"Adultcc\",\r\n                    \"ti\": \"Mr\",\r\n                    \"pt\": \"ADULT\",\r\n                    \"pan\": \"NKSPS7313M\"\r\n                },\r\n                {\r\n                    \"fN\": \"Childaa\",\r\n                    \"lN\": \"Childaa\",\r\n                    \"ti\": \"Master\",\r\n                    \"pt\": \"CHILD\"\r\n                }\r\n            ]\r\n        },\r\n        {\r\n            \"travellerInfo\": [\r\n                {\r\n                    \"fN\": \"Adultaaa\",\r\n                    \"lN\": \"Adultaaa\",\r\n                    \"ti\": \"Mr\",\r\n                    \"pt\": \"ADULT\",\r\n                    \"pan\": \"NKSPS7313M\"\r\n                },\r\n                {\r\n                    \"fN\": \"Adultbbb\",\r\n                    \"lN\": \"Adultbbb\",\r\n                    \"ti\": \"Mr\",\r\n                    \"pt\": \"ADULT\",\r\n                    \"pan\": \"NKSPS7313M\"\r\n                },\r\n                {\r\n                    \"fN\": \"Childaaa\",\r\n                    \"lN\": \"Childaaa\",\r\n                    \"ti\": \"Master\",\r\n                    \"pt\": \"CHILD\"\r\n                }\r\n            ]\r\n        }\r\n    ],\r\n    \"deliveryInfo\": {\r\n        \"emails\": [\r\n            \"xyz@technogramsolutions.com\"\r\n        ],\r\n        \"contacts\": [\r\n            \"1234567890\"\r\n        ],\r\n        \"code\": [\r\n            \"+91\"\r\n        ]\r\n    },\r\n    \"type\": \"HOTEL\",\r\n    \"paymentInfos\": [\r\n        {\r\n            \"amount\": 158090.52\r\n        }\r\n    ]\r\n}",
+          "options": {
+            "raw": {
+              "language": "json"
+            }
+          }
+        },
+        "url": {
+          "raw": "https://apitest.tripjack.com/oms/v1/hotel/book",
+          "protocol": "https",
+          "host": [
+            "apitest",
+            "tripjack",
+            "com"
+          ],
+          "path": [
+            "oms",
+            "v1",
+            "hotel",
+            "book"
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "Hotel Booking Hold Confirm",
+      "request": {
+        "method": "POST",
+        "header": [
+          {
+            "key": "apikey",
+            "value": "312232b2f29402-500c-4f0b-a442-1a4170e286dc",
+            "type": "text"
+          },
+          {
+            "key": "Content-Type",
+            "value": "application/json",
+            "type": "text"
+          },
+          {
+            "key": "Accept",
+            "value": "application/json",
+            "type": "text"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\r\n    \"bookingId\": \"TJS207102005969\",\r\n    \"paymentInfos\": [\r\n        {\r\n            \"amount\": 36001.42\r\n        }\r\n    ]\r\n}",
+          "options": {
+            "raw": {
+              "language": "json"
+            }
+          }
+        },
+        "url": {
+          "raw": "https://apitest.tripjack.com/oms/v1/hotel/confirm-book",
+          "protocol": "https",
+          "host": [
+            "apitest",
+            "tripjack",
+            "com"
+          ],
+          "path": [
+            "oms",
+            "v1",
+            "hotel",
+            "confirm-book"
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "Hotel Booking Details",
+      "request": {
+        "method": "POST",
+        "header": [
+          {
+            "key": "apikey",
+            "value": "312232b2f29402-500c-4f0b-a442-1a4170e286dc",
+            "type": "text"
+          },
+          {
+            "key": "Content-Type",
+            "value": "application/json",
+            "type": "text"
+          },
+          {
+            "key": "Accept",
+            "value": "application/json",
+            "type": "text"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\r\n\t\"bookingId\":\"TJS208302006088\"\r\n}",
+          "options": {
+            "raw": {
+              "language": "json"
+            }
+          }
+        },
+        "url": {
+          "raw": "https://apitest.tripjack.com/oms/v1/hotel/booking-details",
+          "protocol": "https",
+          "host": [
+            "apitest",
+            "tripjack",
+            "com"
+          ],
+          "path": [
+            "oms",
+            "v1",
+            "hotel",
+            "booking-details"
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "Hotel Booking Cancellation",
+      "request": {
+        "method": "POST",
+        "header": [
+          {
+            "key": "apikey",
+            "value": "312232b2f29402-500c-4f0b-a442-1a4170e286dc",
+            "type": "text"
+          },
+          {
+            "key": "Content-Type",
+            "value": "application/json",
+            "type": "text"
+          },
+          {
+            "key": "Accept",
+            "value": "application/json",
+            "type": "text"
+          }
+        ],
+        "url": {
+          "raw": "https://apitest.tripjack.com/oms/v1/hotel/cancel-booking/TJS208302006088",
+          "protocol": "https",
+          "host": [
+            "apitest",
+            "tripjack",
+            "com"
+          ],
+          "path": [
+            "oms",
+            "v1",
+            "hotel",
+            "cancel-booking",
+            "TJS208302006088"
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "City Static Data",
+      "protocolProfileBehavior": {
+        "disableBodyPruning": true
+      },
+      "request": {
+        "method": "GET",
+        "header": [
+          {
+            "key": "apikey",
+            "value": "312232b2f29402-500c-4f0b-a442-1a4170e286dc",
+            "type": "text"
+          },
+          {
+            "key": "Content-Type",
+            "value": "application/json",
+            "type": "text"
+          },
+          {
+            "key": "Accept",
+            "value": "application/json",
+            "type": "text"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "",
+          "options": {
+            "raw": {
+              "language": "json"
+            }
+          }
+        },
+        "url": {
+          "raw": "https://apitest.tripjack.com/hms/v1/static-cities/",
+          "protocol": "https",
+          "host": [
+            "apitest",
+            "tripjack",
+            "com"
+          ],
+          "path": [
+            "hms",
+            "v1",
+            "static-cities",
+            ""
+          ]
+        }
+      },
+      "response": []
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+    "searchQuery": {
+        "checkinDate": "01-09-2026",
+        "checkoutDate": "15-09-2026",
+        "roomInfo": [
+            {
+                "numberOfAdults": "3",
+                "numberOfChild": "0",
+                "childAge": []
+            },
+            {
+                "numberOfAdults": "3",
+                "numberOfChild": "0",
+                "childAge": []
+            }
+        ],
+        "searchCriteria": {
+            "city": "147862",
+            "nationality": "106",
+            "currency": "INR"
+        },
+        "searchPreferences": {
+            "ratings": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "fsc": true
+        }
+    },
+    "sync": true
+}
